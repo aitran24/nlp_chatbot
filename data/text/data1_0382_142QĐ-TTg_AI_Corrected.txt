@@ -1,0 +1,2620 @@
+
+=== TRANG 1 ===
+Người ký: CÔNG THÔNG TỊ NIỆN TỬ CHÍNH PHỦ.
+Email: thongtinchinhphuchinhphu.vn.
+Cơ quan: VĂN PHÒNG CHÍNH PHỦ.
+
+M - Ổ CHINH PHỤ.V: Thời gian ký: 05.02.2024 16:16:35 +07:00 (Mỹ).
+
+THỦ TƯỚNG CHÍNH PHỦ, CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+Độc lập - Tự do - Hạnh phúc.
+
+Số: 44A4/QĐ-TTg Hà Nội, ngày. 02 tháng 0, năm 2024.
+
+QUYẾT ĐỊNH.
+Phê duyệt Chiến lược dữ liệu quốc gia đến năm 2030.
+
+CÔNG AN CÁC ĐỘI ĐIỆN TỦ CHÍNH PHỦ.
+
+......................................
+
+THỦ TƯỚNG CHÍNH PHỦ.
+
+Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa.
+Đối, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính.
+quyên địa phương ngày 22 tháng ] ] năm 2019;.
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;.
+
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 12 năm 2015,.
+
+Căn cứ Nghị quyết số 52-NQ/TW ngày 27 tháng 9 năm 2019 của Bộ.
+Chính trị về một số chủ trương, chính sách chủ động tham gia cuộc cách.
+mạng công nghiệp lân thứ tư;.
+
+Căn cứ Nghị quyết số 50/NQ-CP ngày 17 tháng 4 năm 2020 của Chính.
+Chính phủ ban hành 01 chương trình hành động của Chính phủ thực hiện Nghị.
+Quyết số 52-NQ/TW ngày 27 tháng 9 năm 2019 của Bộ Chính trị về một số.
+chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần.
+thứ tư;.
+
+Căn cứ Nghị quyết số 50/NQ-CP ngày 20 tháng 5 năm 2021 của Chính.
+phủ về Chương trình hành động của Chính phủ thực hiện Nghị quyết Đại hội.
+đại biểu toàn quốc lần thứ X của Đảng;.
+
+Căn cứ Nghị quyết số 175/NQ-CP ngày 30 tháng 10 năm 2023 của Chính phủ; .
+Chính phủ phê duyệt Đề án Trung tâm dữ liệu quốc gia;.
+
+Căn cứ Nghị định số 47/2020/VĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ.
+Chính phủ về quản lý, kết nổi và chia sẻ dữ liệu số của cơ quan nhà nước;.
+
+Căn cứ Nghị định số 59/2022/NĐ-CP ngày 05 tháng 9 năm 2022 của Chính phủ; .
+Chính phủ quy định về định danh và xác thực điện tử;
+
+Căn cứ Nghị định số 13⁄2023/NĐ-CP ngày 17 tháng 3 năm 2023 của Chính phủ; .
+Chính phủ về bảo vệ dữ liệu cá nhân;.
+
+Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông.
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt Chiến lược dữ liệu quốc gia đến năm 2030 (sau đây).
+gọi tắt là Chiến lược) với những nội dung sau:
+
+
+=== TRANG 2 ===
+I QUAN ĐIỀM.
+
+1. Dữ liệu là nguồn tài nguyên mới, là yếu tố then chốt cho chuyển đổi.
+sô quôc gia, tạo ra giá trị mới thúc đây phát triên kinh tê - xã hội, nâng cao.
+năng lực cạnh tranh quôc g1a và phục vụ lợi ích người dân.
+
+2. Lấy người dân, doanh nghiệp làm trung tâm; phát huy sức mạnh của.
+Cả hệ thống chính trị và toàn xã hội tham gia thu thập, xây dựng, phát triển,.
+khai thác, sư dụng và làm giàu dữ liệu. Nhà nước đóng vai trò dẫn dắt, tiên.
+phong kết nối, chia sẻ dữ liệu.
+
+3. Đổi mới phương thức chỉ đạo, điều hành của các cơ quan trong hệ.
+thống hành chính nhà nước, xây dựng nền hành chính chủ động tương tác với.
+Người dân, doanh nghiệp dựa trên dữ liệu; chuyển đổi nhận thức từ tra cứu dữ.
+liệu sang chia sẻ, tích hợp, tái sử dụng dữ liệu, từ sở hữu riêng dữ liệu sang.
+chia sẻ dữ liệu sử dụng chung và cùng hướng các lợi ích mà dữ liệu mang lại;.
+việc kế thừa, chia sẻ, tích hợp, tái sử dụng và phát huy tối đa hiệu quả của dữ.
+liệu là quyền, trách nhiệm của các bộ, ngành, địa phương.
+
+4. Thị trường dữ liệu là yếu tố đột phá; từng bước tạo lập và thúc đầy mở.
+thị trường dữ liệu; lấy thị trường dữ liệu làm động lực phát triển dữ liệu (bao.
+gồm các hoạt động trong chuỗi giá trị của dữ liệu như thu thập, lưu trữ, làm.
+giàu, xử lý, chia sẻ, phân tích, phân phối dữ liệu,...) và kích thích thúc đấy.
+chuyển đổi số các ngành, lĩnh vực.
+
+5. Phát triển, sử dụng dữ liệu phải đi đôi với đảm bảo an toàn thông tin,.
+an ninh mạng, bảo vệ dữ liệu cá nhân. Khai thác, sử dụng dữ liệu phải đảm.
+Bảo nguyên tắc bảo vệ quyền, lợi ích chính đáng của người dân, doanh nghiệp.
+và các chủ thể liên quan.
+
+6. Đảm bảo chủ quyền số quốc gia đối với dữ liệu số của Việt Nam. Các.
+Chính sách, quy định quản lý dữ liệu xuyên biên giới phải đảm bảo tối đa các.
+Lợi ích quốc gia - dân tộc, phù hợp với các thuận và điều ước quốc tế mà.
+Việt Nam là thành viên, đảm bảo chủ quyền số quốc gia đối với dữ liệu số của.
+người Việt Nam, phát sinh tại Việt Nam.
+
+7. Phát triển nguồn nhân lực, làm chủ công nghệ xử lý và khai thác dữ liệu.
+liệu là các yếu tố quyết định để triển khai thành công Chiến lược. Ưu tiên phát.
+Phát triển đội ngũ các nhà khoa học và các chuyên gia trong lĩnh vực dữ liệu, xử lý.
+dữ liệu số, ứng dụng các công nghệ tiên tiến, hiện đại trong thu thập, phân.
+tích, xử lý dữ liệu để thúc đẩy đổi mới sáng tạo trong lĩnh vực dữ liệu và tạo.
+
+b. `J.J.J. u.
+
+
+=== TRANG 3 ===
+3
+
+nên tảng vững chắc cho việc phát triển bền vững và toàn diện của quốc gia.
+trong kỷ nguyên sô.
+
+II. TÂM ÂN NHÌN.
+
+Dữ liệu của Việt Nam mở ra không gian hoạt động và phát triển mới cho.
+Chính phủ số, kinh tế số và xã hội số; cơ bản phản ánh đầy đủ mọi mặt hoạt.
+động kinh tế - xã hội trên môi trường. số và là nhân tố thúc đẩy tăng năng lực.
+cạnh tranh quốc gia, đảm bảo cho tiến trình chuyển đổi số thành công, đưa.
+Việt Nam trở thành quốc gia số an toàn. Dữ liệu góp phần chuyển đổi cơ cấu.
+nền kinh tế, đưa Việt Nam vượt qua mức thu nhập trung bình thấp, đạt mức.
+thu nhập trung bình cao vào năm 2030 và đạt mức thu nhập cao vào năm.
+2045.
+
+III. MỤC TIÊU ĐẾN NĂM 2030.
+1. Phát triển hạ tầng dữ liệu.
+
+a) 100% các Trung tâm dữ liệu quốc gia, Trung tâm dữ liệu vùng, khu;.
+vực, Trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và tính toán hiệu năng cao.
+trên cả nước được bảo đảm kết nối thành công, tạo thành một mạng lưới chia sẻ.
+sẻ năng lực tính toán, xử lý dữ liệu lớn phục vụ cho phát triển kinh tế - xã hội,.
+văn hóa của đất nước.
+
+b) Các nền tảng điện toán đám mây Chính phủ và các nền tảng ứng dụng;.
+dụng trên thiết bị di động Make in Viet Nam đảm bảo sẵn sàng đáp ứng 100%.
+nhu cầu lưu trữ, thu thập, kết nối, chia sẻ dữ liệu của Việt Nam, nhu cầu đảm.
+bảo an toàn thông tin, an ninh mạng và bảo mật thông tin theo cấp độ quy định.
+định của Luật An toàn thông tin mạng.
+
+4
+
+2. Phát triển dữ liệu phục vụ Chính phủ số.
+
+a) 100% các cơ sở dữ liệu quốc gia trong danh mục cơ sở dữ liệu quốc gia;.
+Giai đoạn ưu tiên triển khai tạo nền tảng phát triển Chính phủ điện tử hoàn thành.
+việc số hóa, cập nhật và đưa vào sử dụng hiệu quả; được kết nối, chia sẻ với.
+Kho dữ liệu tổng hợp tại Trung tâm dữ liệu quốc gia và kết nối, chia sẻ trên.
+phạm vi toàn quốc.
+
+b) Các cơ sở dữ liệu dùng chung và chuyên ngành của các bộ, ngành, FTA;.
+phương (ngoại trừ các cơ sở dữ liệu nghiệp vụ đặc thù) có nhu cầu kết nối,.
+khai thác, tích hợp, chia sẻ thông tin với các cơ sở dữ liệu quốc gia hoặc như.
+cầu kết nối, chia sẻ thông tin với nhau, được đáp ứng 100% yêu câu thông qua.
+các nền tảng tích hợp, chia sẻ dữ liệu.
+
+c) 100% các cơ quan nhà nước cấp bộ, cấp tỉnh mở và cung cấp dữ liệu;.
+Mở đảm bảo chất lượng (không trùng lắp, dư thừa, không tốn công sức và chỉ.
+
+
+=== TRANG 4 ===
+4
+
+phí để xử lý lại dữ liệu, hoặc thu thập lại dữ liệu), đưa vào khai thác sử dụng.
+có hiệu quả, đảm bảo sẵn sàng hỗ trợ, phục vụ cho các hoạt động chỉ đạo, điều.
+hành, ban hành chính sách của cơ quan nhà nước và phục vụ phát triển các.
+ứng dụng trí tuệ nhân tạo cho phát triển kinh tế số, xã hội số.
+
+d) 100% hồ sơ, kết quả giải quyết thủ tục hành chính được số hóa; tối.
+Tối thiểu 80% dữ liệu về kết quả thực hiện các thủ tục hành chính được tái sử.
+dụng, chia sẻ theo quy định (ngoại trừ các cơ sở dữ liệu nghiệp vụ đặc thù).
+Đảm bảo người dân và doanh nghiệp chỉ phải cung cấp thông tin một lần khi.
+sử dụng dịch vụ công trực tuyến, thực hiện các thủ tục hành chính.
+
+đ) Tích hợp kết quả xử lý công việc của cán bộ, công chức, viên chức;.
+vào phần mềm quản lý văn bản và hồ sơ công việc của từng đơn vị; tỷ lệ áp.
+dụng dữ liệu trong phục vụ quản lý điều hành công việc trên môi trường sô,.
+trong kiểm tra, đánh giá, xếp loại cán bộ, công chức, viên chức đạt tối thiểu.
+70%.
+
+e) Kết hợp khai thác, sử dụng dữ liệu và ứng dụng trí tuệ nhân tạo (Al).
+Đối với 100% thủ tục hành chính có đủ điều kiện cung cấp trực tuyến, nâng.
+Nâng hiệu quả của bộ máy hành chính nhà nước và cung câp dịch vụ công phục.
+vụ người dân, doanh nghiệp.
+
+3. Phát triển dữ liệu phục vụ kinh tế số, xã hội số.
+
+a) Xây dựng và hoàn thành 1007% các bộ dữ liệu ngành nông nghiệp;.
+gồm: dữ liệu đất đai, cây trồng, vật nuôi, hải sản cho các vùng sản xuất.
+nông nghiệp trên cả nước phục vụ các hoạt động sản xuất nông nghiệp; hình.
+thành dữ liệu của toàn bộ chuỗi quy trình sản xuất, kinh doanh, chế biến, quản.
+lý giám sát nguồn gốc, cung ứng các sản phẩm nông nghiệp quan trọng, đảm.
+bảo việc cung cập thông tin minh bạch, chính xác, đẩy mạnh phát triển.
+thương mại điện tử. 100% dữ liệu truy xuất nguồn gốc, xuất xử được cung.
+cấp kèm theo cho các sản phẩm OCOP (thuộc chương trình mỗi xã một sản.
+phẩm (One Community One Product) đăng bán trên các sàn giao dịch thương mại.
+mại điện tử.
+
+b) Xây dựng và hoàn thành 100% các bộ dữ liệu ngành công nghiệp,.
+thương mại và năng lượng, bao gồm: dữ liệu về mạng lưới sản xuất, truyền.
+tải, tiêu thụ điện trên cả nước phục vụ việc vận hành tối ưu hệ thống điện,.
+Hiện đại hóa hệ thống điều độ, vận hành, thông tin liên lạc, điều khiến và tự.
+động hóa phục vụ điều độ lưới điện trong nước và liên kết khu vực; dữ liệu.
+trong lĩnh vực sản xuất công nghiệp, mạng lưới, chuỗi cung ứng sản xuất cơ.
+bản trong các hoạt động công nghiệp, từ nguyên liệu thô tới thành phẩm.
+thương mại; dữ liệu về các trung tâm logistics, vận chuyển, kho bãi; dữ liệu.
+về thị trường thương mại, hành vi tiêu dùng, nhu cầu quảng cáo của các nhãn.
+hàng trên thị trường Việt Nam nhằm tối ưu hóa quá trình sản xuất, tiêu thụ.
+
+
+=== TRANG 5 ===
+5
+
+hàng hóa của các đơn vị sản xuất, xây dựng các kênh phân phối hàng hóa hiệu.
+quả và giám sát chặt chẽ nhu câu thị trường....
+
+c) 90% các di sản văn hóa, di tích quốc gia, di tích quốc gia đặc biệt;.
+được số hoá, lưu trữ đầy đủ dữ liệu và hình thành thư viện số, di sản số, có.
+Hiện diện số trên môi trường mạng để mọi người dân, khách du lịch có thể.
+Truy cập, tra cứu, tìm hiểu thuận lợi trên môi trường số: 100% các danh lam.
+Thắng cảnh, địa điểm du lịch trong nước được hoàn thành việc số hóa, lưu trữ.
+và chia sẻ thông tin rộng rãi, kết hợp xây dựng các nền tảng số du lịch đồng.
+Bộ để quảng bá, phát triển du lịch Việt Nam, đưa du lịch thực sự là ngành.
+kinh tế mũi nhọn, phát triển bền vững.
+
+d) Hoàn thiện 100% cơ sở dữ liệu về bảo hiểm xã hội cho người lao động.
+động. Dữ liệu của hóa số lao động điện tử, tích hợp với dữ liệu vê học tập.
+suốt đời, dữ liệu về đào tạo nghề (bao gồm cả đào tạo tại trường và đào tạo,.
+tích lũy kinh nghiệm làm việc tại các cơ quan, tổ chức, doanh nghiệp) của.
+người lao động được triển khai, hoàn thiện cho 100% người lao động đóng.
+bảo hiểm xã hội.
+
+đ) 1007% các bộ dữ liệu mở về lực lượng, thị trường lao động việc làm,.
+Như câu tuyển dụng lao động và yêu cầu trình độ, kỹ năng tương ứng được.
+cung cấp và đảm bảo cập nhật chính xác, kịp thời, làm cơ sở triển khai các.
+giải pháp dự báo nhu cầu, sự. biến động về lao động, việc làm; người lao động.
+có thể tiếp cận với dữ liệu về nhu cầu lao động, việc làm của xã hội và được.
+tự động cung cấp gợi ý về danh sách việc làm phù hợp khi bị thất nghiệp.
+
+e) Kho học liệu về giáo trình, tài liệu giảng dạy, học tập ngành giáo dục;.
+được số hóa, tích hợp với các nền tảng dạy và học trực tuyến đảm bảo hỗ trợ.
+được cho 100% người học và nhà giáo tham gia có hiệu quả các hoạt động.
+Giáo dục trực tuyến: đáp ứng yêu cầu về tài liệu học tập cho toàn bộ chương.
+trình giáo dục phổ thông và tối thiểu 40% số ngành đào tạo các trình độ của.
+giáo dục đại học.
+
+g) 100% dữ liệu không gian địa lý; 11g1n11 Tài nguyên và Môi trường;.
+được số hóa, chuẩn hóa và liên thông, chia sẻ cho các cơ quan nhà nước..
+dưới dạng dịch vụ bản đồ và có thể chia sẻ cho các hệ thống thông tin của.
+những lĩnh vực có sử dụng dịch vụ dữ liệu không gian địa lý kết nối, khai thác;.
+sử dụng.
+
+h) 100% dữ liệu giám sát, quan trắc tự động việc xả thải của các khu.
+công nghiệp, các điểm nóng về ô nhiễm môi trường được đảm bảo đáp ứng.
+Nhu cầu kết nối về trung tâm giám sát tập trung của ngành Tài nguyên và Môi trường;.
+trường theo thời gian thực, phục vụ việc phân tích, đưa ra các cảnh báo khi có.
+nguy cơ về sự cổ môi trường.
+
+
+=== TRANG 6 ===
+6
+
+1) 100% dữ liệu về hạ tầng giao thông công cộng và phương tiện giao thông;.
+Thông, dữ liệu về kho, bãi và các trung tâm logistics được số hóa, cập nhật l<1p.
+Đồng thời, hỗ trợ giải quyết tốt những vấn đề khó khăn, vướng mắc của ngành giáo.
+Thoáng và đáp ứng được nhu cầu xây dưng chuối cung ứng giao nhận - kho vận.
+và logistics.
+
+k) 95% các dữ liệu về y tế được xây dựng, tổ chức phù hợp với định.
+hướng phân cấp quản lý từ trung ương đến địa phương để phát triển, hoàn thiện.
+thiện cơ sở dữ liệu quốc gia về y tế và các cơ sở dữ liệu chuyên ngành y tế.
+
+), Phát triển thị trường dữ liệu, hoàn thành thí điểm, thử nghiệm 05 sàn.
+Giao dịch dữ liệu tạo môi trường mua bán, trao đổi dữ liệu có sự giám sát đảm.
+Bảo an toàn, tuân thủ quy định của pháp luật; phát triển các dịch vụ dữ liệu.
+(tổng hợp, phân tích, dán nhãn dữ liệu,..) để tạo thêm nhiều cơ hội việc làm.
+cho người dân, nhất là người có hoàn cảnh khó khăn và người khuyết tật; xuất.
+Xuất khẩu tri thức của lao động Việt Nam ra nước ngoài dựa trên các công việc.
+mới với dữ liệu.
+
+4. Bảo đảm an toàn thông tin, an ninh mạng.
+
+100% các cơ sở dữ liệu quốc gia cơ sở dữ liệu dùng chung, chuyên.
+ngành và cơ sở dữ liệu quan trọng của các bộ, ngành, địa phương được triển.
+Khai phương án bảo đám an toàn thông tin theo cấp độ và mô hình bảo vệ 4x.
+lớp, đồng thời triển khai các hoạt động bảo vệ an ninh mạng đối với hệ thống.
+thông tin theo quy định của pháp luật về an ninh mạng.
+
+IV. NHIỆM VỤ TRỌNG TÂM QUỐC GIA.
+1. Xây dựng thể chế, chính sách.
+
+a) Tập trung nghiên cứu, xây dựng Luật Công nghiệp công nghệ số trong.
+đó quy định các hình thức sở hữu dữ liệu, quyền tài sản dữ liệu, chính sách.
+Mua bán dữ liệu, đưa dữ liệu trở thành một loại tài sản được pháp luật bảo vệ.
+và tạo thị trường dữ liệu. |
+
+b) Xây dựng Nghị định quy định về giao dịch điện tử trong cơ quan nhà nước.
+Nước và hệ thống thông tin phục vụ giao dịch điện tử, Nghị định quy định về.
+chữ ký điện tử và dịch vụ tin cậy, Nghị định quy định vê danh mục cơ sở dữ.
+liệu quốc gia.
+
+; Xây dựng Nghị định quy định về mua bán, trao đổi dữ liệu riêng, dữ liệu.
+liệu có bản quyền để tạo thị trường dữ liệu; quy định về các dạng dữ liệu đủ.
+điều kiện tham gia mua bán, trao đổi, chuyên nhượng.
+
+
+=== TRANG 7 ===
+7
+
+d) Xây dựng các quy định về nghĩa vụ, trách nhiệm của các đơn vị vận tải;.
+Thành lập tảng sô, hệ thống giao dịch điện tử trong việc thu thập, lưu trữ, sử.
+dụng, kết nối, chia sẻ, giao dịch dữ liệu số.
+
+đ) Xây dựng các quy định về tiêu chuẩn, quy chuẩn, các danh mục lưu.
+trữ, kêt nôi và chia sẻ ~cữ liệu, các quy định về ffl, trị liệu phi danh tính. Ban hành.
+các quy định hướng dân liên quan đên quản lý chât lượng dữ liệu.
+
+e) Xây dựng Khung quản trị dữ liệu, kiến trúc dữ liệu và các mục từ điển;.
+dữ liệu và bổ sung vào Khung kiến trúc Chính phủ điện tử Việt Nam những.
+phiên bản tiếp theo.
+
+g) Nghiên cứu xây dựng chính sách ưu đãi thúc đẩy phát triển doanh.
+nghiệp hoạt động trong lĩnh vực dữ liệu, tư vấn chiến lược quản trị dữ liệu,.
+cung cấp nền tảng, dịch vụ quản trị dữ liệu; phòng chống sự cố; thi thao.
+Trong thị trường của các tổ chức, doanh nghiệp có lợi thế nắm giữ khối lượng.
+dữ liệu lớn của Việt Nam.
+
+h) Xây dựng và ban hành các nguyên tắc sử dụng dữ liệu có trách nhiệm,.
+Các quy định hướng dẫn về an toàn khi ứng dụng trí tuệ nhân tạo (AI) trong.
+Khu vực công nhằm duy trì vai trò chủ thể, kiểm soát toàn diện của con người.
+trong mọi ứng dụng AI, hài các lợi ích mà ứng dụng AI mang lại đối với.
+các ngành/lĩnh vực trong mọi mặt đời sống xã hội, đồng thời đảm bảo cách.
+tiếp cận AI phù hợp với chuẩn mực đạo đức của con người.
+
+2. Phát triển hạ tầng dữ liệu quốc gia.
+
+a) Xây dựng các Trung tâm dữ liệu quốc gia, Trung tâm dữ liệu vùng với.
+quy mô lớn, theo tiêu chuẩn xanh và kết nối các Trung tâm dữ liệu với Trạm.
+Trung chuyển Internet quốc gia (VNIX) theo lộ trình phù hợp với quy hoạch.
+hạ tầng thông tin và truyền thông quốc gia, đảm bảo dữ liệu được kết nối.
+.. đồng bộ, liên thông, có khả năng dự phòng để thúc đẩy phát triển công nghiệp.
+dữ liệu lớn; đảm bảo việc cập nhật và khai thác sử dụng dữ liệu được hoạt.
+động liên tục và ổn định, ngay cả trong trường hợp kết nối Internet đi quốc tế.
+bị mất, hoặc bị mất.
+
+b) Củng cố và tận dụng, bảo đảm đồng bộ, kết nối thông suốt những.
+Trung tâm dữ liệu sẵn có do các doanh nghiệp và các bộ, ban, ngành đã đâu tư,.
+xây dựng đê tiệt kiệm chỉ phí đầu tư hạ tầâng dữ liệu.
+
+3. Phát triển dữ liệu quốc gia.
+
+a) Tập trung hoàn thiện các cơ sở dữ liệu quốc gia trong danh mục cần.
+Ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử (cơ sở dữ liệu quốc).
+Gia về Dân cư, Đất đai, Đăng ký doanh nghiệp, Tài chính, Bảo hiểm, Cơ sở dữ.
+liệu quốc gia về cán bộ, công chức, viên chức) và dữ liệu trong các lĩnh vực.
+
+
+=== TRANG 8 ===
+ể
+
+thuộc danh mục các nhiệm vụ, giải pháp trọng tâm phát triển kinh tế số và xã hội.
+Hội số ngành, lĩnh vực đã được phê duyệt tại Quyết định số 41 1/QĐ-TTg ngày.
+31 tháng 3 năm 2022 của Thủ tướng Chính phủ để phục vụ phát triển kinh tế -.
+xã hội. Bảo đảm dữ liệu được tạo lập tuân thủ theo định dạng máy đọc được,.
+sẵn sàng khả năng chia sẻ, khai thác, sử dụng một cách dễ dàng. Duy trì vốn.
+định kênh thu thập, hoàn thiện các trường thông tin trong các cơ sở dữ liệu.
+quốc gia thông qua hệ thống dịch vụ công; cập nhật đầy đủ, theo thời gian.
+thực để đảm bảo dữ liệu có chất lượng cao theo tiêu chí: đúng, đủ, sạch,.
+sống) để chắt lọc ra các dữ liệu mới có giá trị phục vụ công tác chỉ đạo điều.
+hành của các cơ quan trong bộ máy nhà nước và phát triển kinh tế xã hội.
+
+b) Tích hợp, đồng bộ dữ liệu từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu;.
+các bộ, ngành, địa phương về Trung tâm dữ liệu quôc gia.
+
+c) Phát triển các cơ sở dữ liệu dùng chung, cơ sở dữ liệu chuyên ngành;.
+Các bộ, ngành cùng với cơ sở dữ liệu quốc gia liên thông kê nôi chia sẻ phục.
+Vụ việc cung câp các dịch vụ công.
+
+d) Hoàn thiện Cổng dữ liệu quốc gia và đảm bảo cung cấp, cập nhật kịp.
+thời các bộ dữ liệu mở cho các cơ quan, doanh nghiệp và người dân tra cứu,.
+khai thác sử dụng.
+
+đ) Nghiên cứu, ứng dụng, triển khai các công nghệ phân tích, xử lý dữ liệu;.
+liệu mới phục vụ cho công tác chỉ đạo, điều hành của Chính phủ, Thủ tướng.
+Chính phủ, lãnh đạo các bộ, ngành, địa phương và phát triển kinh tê xã hội.
+
+e) Xây dựng các kho học liệu số về kỹ năng nghề nghiệp, giúp người lao động;.
+động có thể dễ dàng tiếp cận với nguồn học liệu số để tự đào tạo, nâng cao.
+Kiến thức, kỹ năng phù hợp với nhu cầu việc làm và nâng cao năng suất lao động.
+động.
+
+4. Phát triển kết nối, chia sẻ dữ liệu.
+
+a) Thực hiện kết nối, chia sẻ dữ liệu giữa các cơ quan nhà nước, phát huy.
+Tối đa hiệu quả của hệ thống các. nền tảng số bao gồm: Nền tảng tích hợp, chia.
+sẻ dữ liệu quốc gia (NDXP), nền móng thiết bị HT, Trục liên thông văn bản.
+quốc gia để kết nối, tích hợp, chia sẻ dữ liệu giữa các hệ thống thông tin, cơ.
+sở dữ liệu của các bộ, ngành, địa phương trên quy mô toàn quôc.
+
+b) Kêt nỗi liên thông, mở, chia sẻ dữ liệu cơ sở dữ liệu quốc gia về dân.
+cư với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành.
+
+5. Phát triển thị trường dữ liệu.
+
+a) Xây dựng đề án thiết lập thị trường dữ liệu và các văn bản pháp lý;.
+hướng dẫn thí điểm các sàn giao dịch dữ liệu, trong đó bao gồm việc: (i) Thiết.
+
+
+=== TRANG 9 ===
+9
+
+lập các nền tảng trao đổi, mua, bán dữ liệu; (ii) Phát triển mô hình các công.
+ty môi giới về dữ liệu; (1I1) Phát triển thị trường dịch vụ dữ liệu (kiêm toán,..).
+phân tích, quản trị, dán nhãn dữ liệu,...).
+
+b) Bỏ sung các sản phẩm, giải pháp thu thập, xử lý, trao đổi, làm giàu dữ liệu;.
+liệu và biểu diễn dữ liệu (chuyển đổi dữ liệu thành các biểu đồ hoặc đồ đề).
+dễ dàng điều và phân tích - data visualization) vào Danh mục công nghệ cao.
+được ưu tiên đầu tư phát triển và danh mục sản phẩm công nghệ cao được.
+khuyến khích phát triển.
+
+6. Đảm bảo an toàn thông tin, an ninh mạng cho dữ liệu.
+
+a) Phát triển nền tảng rà quét lỗ hồng bảo mật nhằm phòng ngừa sự cố mắt.
+an toàn, an ninh mạng, đảm bảo an toàn thông tin trong kêt nôi, chia sẻ dữ liệu.
+
+b) Tập trung triển khai các phương án bảo đảm an toàn thông tin mạng;.
+theo mô hình bảo vệ 4 lớp cho tất cả hệ thông các cơ sở dữ liệu quôc gia.
+
+7. Đào tạo, phát triển nguồn nhân lực.
+
+a) Phát triển các chương trình đào tạo chuyên nghiệp tại các trường đại;.
+học; tập trung vào các lĩnh vực như khoa học dữ liệu, phân tích và xử lý dữ.
+liệu lớn, bảo mật và quản lý dữ liệu.
+
+b) Hợp tác với các doanh nghiệp và tổ chức quốc tế để cung cấp các cơ sở;.
+hội thực tê và trao đổi kỹ thuật, cũng như tiếp cận với những công nghệ mới.
+phương pháp mới, tiên tiên nhât của thê giới về dữ liệu.
+
+c) Tiềm năng đầu tư cho việc nghiên cứu, phát triển trong lĩnh vực dữ liệu,.
+
+bao gồm cả việc hỗ trợ các dự án nghiên cứu tiên tiền và sáng tạo về dữ liệu.
+
+d) Đẩy nhanh tiến trình triển khai các mô hình Đại học số để nhanh.
+chóng đáp ứng được nhu cầu nguồn nhân lực về dữ liệu trong thời gian tới.
+
+V. NHIỆM VỤ TRỌNG TÂM CÁC BỘ, NGÀNH, ĐỊA PHƯƠNG.
+1. Xây dựng quy chế, quy định.
+
+Trong phạm vi ngành, lĩnh vực, địa bàn quản lý, các bộ, cơ quan ngang.
+bộ, cơ quan thuộc Chính phủ, các tỉnh, thành phố trực thuộc Trung ương có;.
+nhiệm vụ:
+
+a) Ban hành Danh mục dữ liệu mở của ngành, lĩnh vực, của địa phương;
+triển khai xây dựng và cung cấp dữ liệu mở cho các cơ quan tổ chức,.
+Doanh nghiệp và người dân tra cứu, khai thác sử dụng phục vụ phát triển kinh tế.
+tế số, xã hội số.
+
+
+=== TRANG 10 ===
+10
+
+b) Ban hành Danh mục dữ liệu lớn và Kế hoạch phát triển dữ liệu lớn;.
+thuộc phạm vì quản lý của bộ, ngành, địa phương.
+
+c) Xây dựng và ban hành quy chuẩn đối với từng loại dữ liệu thuộc danh.
+mục dữ liệu lớn của ngành, lĩnh vực, của địa phương: quy định kỹ thuật về.
+cấu trúc dữ liệu, quy chế khai thác, sử dụng dữ liệu của các cơ sở dữ liệu quốc.
+g1a và các cơ sở dữ liệu thuộc phạm vi quản lý của bộ, ngành, địa phương.
+
+d) Xây dựng, ban hành các văn bản hướng dẫn kỹ thuật về kết nối, tích hợp;.
+Hợp, chia sẻ dữ liệu giữa các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên.
+ngành, hệ thống thông tin. Có kế hoạch triển khai ứng dụng trí tuệ nhân tạo,.
+các công nghệ phân tích dữ liệu mới, tiên tiến trong công tác quản lý, điều.
+hành để nâng cao khả năng phân tích và xử lý dữ liệu tại bộ, ngành, địa.
+phương.
+
+2. Phát triển hạ tầng dữ liệu.
+
+a) Triển khai Cổng dữ liệu của các bộ, ngành, địa phương theo quy định;.
+Tại Nghị định số 42/2022/NĐ-CP của Chính phủ, tích hợp với Cổng dữ liệu.
+quốc gia. Tận dụng tối đa cơ sở hạ tầng mạng, triển khai Chính phủ số sẵn có.
+Tại bộ, ngành, địa phương; ưu tiên sử dụng phương án thuê dịch vụ trong quá trình.
+trình triển khai xây dựng Cồng dữ liệu.
+
+b) Xây dựng và củng cố, hoàn thiện các hạ tầng thu thập và truyền tải dữ;.
+liệu tại bộ, ngành, địa phương. Phát triển hạ tầng Internet vạn vật (IoT) phục.
+vụ các ứng dụng nghiệp vụ, chuyên ngành trong triển khai Chính phủ số gắn.
+kết với phát triển đô thị thông minh, giao thông thông minh, nông nghiệp.
+thông minh, quan trắc tài nguyên, môi trường,... tại các bộ, ngành, địa.
+Phương, kết hợp tối đa với hạ tầng do các tổ chức, cá nhân đã đầu tư, bảo đảm.
+triển khai hiệu quả, tránh chồng chéo, lãng phí.
+
+c) Duy trì việc kết nối nền tảng điện toán đám mây của các cơ quan nhà nước;.
+nước tại các bộ, ngành, địa phương với nền tảng điện toán đám mây Chính.
+Phú theo mô hình do Bộ Thông tin và Truyền thông hướng dẫn đồng thời kết.
+nối với đám mây của các doanh nghiệp đáp ứng được yêu cầu nghiệp vụ, tiêu.
+chuẩn, quy chuẩn kỹ thuật phục vụ Chính phủ số để đảm bảo việc lưu trữ, lên.
+thông chia sẻ dữ liệu sử dụng chung của các bộ, ngành, địa phương.
+
+3. Phát triển dữ liệu.
+
+a) Thu thập, củng cố và hoàn thiện dữ liệu chủ, cơ sở dữ liệu dùng chung;.
+trong cơ sở dữ liệu của bộ, ngành, địa phương, các cơ sở dữ liệu chuyên.
+Ngành phục vụ ứng dụng dịch vụ Chính quyền số trong cơ quan nhà nước của.
+các bộ, ngành, địa phương.
+
+
+=== TRANG 11 ===
+11
+
+b) Xây dựng, cung cấp các nền tảng số tổng hợp, phân tích dữ liệu cấp.
+Bộ, cấp tỉnh để lưu trữ tập trung, hướng tới việc hình thành kho dữ liệu dùng.
+chung của bộ, ngành, địa phương phục vụ công tác chỉ đạo điều hành và phát.
+triển kinh tế xã hội.
+
+c) Phát triển nguồn dữ liệu lớn và xây dựng hồ dữ liệu của bộ, ngành, địa phương;.
+phương. Thu thập và khai thác, làm giàu nguôn dữ liệu lớn phát sinh trong các.
+hoạt động tại các bộ, ngành, địa phương.
+
+d) Thực hiện số hóa hồ sơ, kết quả giải quyết thủ tục hành chính theo.
+quy định; thu thập, phát triển dữ liệu phục vụ chỉ đạo điều hành của Chính.
+phủ, Thủ tướng Chính phủ và lãnh đạo bộ, ngành, địa phương.
+
+4. Phát triển kết nối, chia sẻ dữ liệu.
+
+a) Hoàn thiện nền tảng tích hợp, chia sẻ dữ liệu tại bộ, ngành, địa phương;.
+phương kêt nôi liên thông với nên tảng tích hợp, chia sẻ dữ liệu quốc gia.
+
+b) Hợp tác xây dựng các bộ dữ liệu lớn theo vùng, miền để cùng tích.
+Hợp, chia sẻ, tận dụng tài nguyên dữ liệu dùng chung cho các tỉnh, thành phố.
+thuộc vùng, miền có những đặc trưng và lợi thế tương đồng. Thiết lập các.
+Chuỗi giá trị trên cơ sở khai thác dữ liệu liên vùng để thúc đẩy phát triển kinh tế.
+tế.
+
+c) Các địa phương chia sẻ dữ liệu lớn của địa phương với các bộ, ngành,.
+các địa phương khác và từng bước đưa dữ liệu lớn vào ứng dụng trong mọi.
+mặt của đời sông chính trị, kinh tê, xã hội của địa phương.
+
+d) Bộ, ngành, địa phương ban hành các quy định, văn bản hướng dẫn.
+
+phù hợp với phạm vi quản lý nhà nước của mình đối với hoạt động mở, kết.
+
+..nối, chia sẻ dữ liệu của doanh nghiệp cho cộng đồng, xem xét các cơ chế hỗ.
+
+trợ phù hợp để khuyến khích doanh nghiệp, người dân mở, chia sẻ dữ liệu có.
+
+giá trị và cùng xây dựng các bộ dữ liệu mở, dữ liệu dùng chung để phục vụ lợi.
+ích chung cho xã hội.
+
+đ) Chia sẻ dữ liệu thuộc phạm vi quản lý cho các bộ, ngành, địa phương;.
+khai thác, sử dụng phục vụ giải quyết thủ tục hành chính, cung câp dịch vụ;.
+công trực tuyên và phục vụ công tác chỉ đạo, điều hành khi có yêu câu.
+
+VI. GIẢI PHÁP.
+
+1. Tổ chức bộ máy, mạng lưới.
+
+
+=== TRANG 12 ===
+12
+
+a) Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân;.
+UBND các tỉnh, thành phố trực thuộc trung ương chỉ đạo, hướng dẫn tổ chức.
+thực hiện việc phát triển dữ liệu của bộ, ngành, địa phương.
+
+b) Đơn vị chuyên trách về công nghệ thông tin, chuyển đối số của các.
+bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Sở Thông tin và Truyền.
+thông các tỉnh, thành phố trực thuộc 1 được trung ương rà soát, bổ sung chức năng,.
+nhiệm vụ về dữ liệu, làm đầu mối theo dõi thực hiện nhiệm vụ phát triển hạ.
+Bằng dữ liệu, phát triển dữ liệu của bộ, ngành, địa phương trên tỉnh, trên không.
+phát sinh thêm cơ cầu tổ chức bộ máy.
+
+c) Thiết lập mạng lưới nhân sự hỗ trợ triển khai thực hiện Chiến lược từ.
+Trung ương đến địa phương. Mỗi cơ quan nhà nước phân công một lãnh đạo.
+làm đầu mối phụ trách về dữ liệu, chịu trách nhiệm tổ chức và điều hành hoạt.
+động về phát triển dữ liệu tại cơ quan, đơn vị mình; kết hợp mạng lưới cán bộ.
+phụ trách về dữ liệu tại các cơ quan, tổ chức, doanh nghiệp, các hội, hiệp hội.
+nghễ^: nghiệp để đảm bảo việc triển khai thực hiện Chiến lược đồng bộ trong.
+tất cả các ngành, lĩnh vực.
+
+2. Bồi dưỡng, tập huấn kỹ năng.
+
+a) Triển khai các đề án về tuyên truyền, nâng cao nhận thức, phổ biến;.
+Kiến thức về dữ liệu số và tổ chức các học trực tuyến đại chúng mở.
+(MOOCs) để bồi dưỡng kỹ năng đại trà cho người dân kiến thức cơ bản về sử.
+dụng và quản lý dữ liệu cá nhân, bảo vệ dữ liệu; bồi dưỡng kiến thức làm việc.
+với dữ liệu và khai thác dữ liệu, giúp người dân tham gia và có kỹ năng, đảm.
+bảo phát triển dữ liệu có chất lượng.
+
+b) Tăng cường bồi dưỡng kiến thức, năng lực cho đội ngũ cán bộ phụ;.
+trách về dữ liệu của các cơ quan, doanh nghiệp nhà nước; xây dựng các.
+chương trình bồi dưỡng, nâng cao trình độ về quản trị, phân tích, lưu trữ, kế.
+nối, chia sẻ dữ liệu để thông qua các bồi dưỡng, tập huấn cho đội.
+Ngành chuyên gia về dữ liệu tạo lực lượng nòng cốt, lan tỏa kiến thức, kỹ năng.
+phát triển dữ liệu cho các bộ, ngành, địa phương, các doanh nghiệp.
+
+c) Tổ chức tập huấn, phổ biến, diễn tập thường niên về đảm bảo an toàn.
+dữ liệu, an ninh thông tin, bảo vệ hạ tầng dữ liệu (chuyên ngành và quốc gia).
+
+3. Đào tạo, phát triển nguồn nhân lực.
+
+a) Triển khai thực hiện các đề án về đào tạo và phát triển nguồn nhân lực;.
+dữ liệu sô.
+
+
+=== TRANG 13 ===
+13
+
+b) Nghiên cứu, xây dựng chương trình giáo dục phát triển ngành dữ liệu,.
+khoa học dữ liệu; đưa khoa học dữ liệu vào chương trình đào tạo đại học, cao.
+đắng, trung cấp với tất cả các ngành học về công nghệ thông tin, kỹ thuật,.
+kinh tế, xã hội từ cơ bản đến nâng cao để đào tạo ra nhiều nhân lực làm việc.
+trong ngành dữ liệu; xây dựng và củng cố các trung tâm, phòng thí nghiệm.
+khoa học về dữ liệu lớn thuộc các trường đại học, viện nghiên cứu; phát triển.
+đội ngũ nhà khoa học về dữ liệu trong các lĩnh vục.
+
+c) Bố trí nguồn 1 nămn lực, cung cấp các học ủỗng, tài trợ, thực tập về;.
+khoa học dữ liệu cho cán bộ phụ trách về dữ liệu của các cơ quan, tổ chức,.
+doanh nghiệp; tổ chức bình chọn và tôn vinh các giải thưởng, sáng kiến về.
+khoa học dữ liệu nhằm khuyến khích, động viên và thu hút, tuyển dụng nguồn.
+Nhân lực chất lượng cao, có chuyên môn sâu về khoa học dữ liệu để triển khai.
+thực hiện chiến lược.
+
+4. Nghiên cứu và phát triển.
+
+a) Nghiên cứu, làm chủ các công nghệ về phân tích dữ liệu, xử lý dữ.
+liệu; phát triển các mô hình trí tuệ nhân tạo, các thuật toán chuỗi khối ứng.
+dụng cho dữ liệu mở, dữ liệu lớn phù hợp với đặc điềm và nhu cầu tại Việt.
+Nam.
+
+b) Phát triển cộng đồng nguồn mở dữ liệu lớn, phát triển hệ sinh thái.
+Luôn mở và nâng cao toàn diện khả năng nghiên cứu kỹ thuật thúc đây các.
+công nghệ tiên tiên về dữ liệu lớn.
+
+c) Tạo môi trường liên kết về nghiên cứu và phát triển dữ liệu nói chung;.
+và dữ liệu lớn nói riêng giữa các cơ quan Chính phủ và các bộ, ngành, địa.
+phương, với các trường đại học, cơ quan nghiên cứu và doanh nghiệp, với các.
+chương trình, dự án quốc tế về dữ liệu. Xây dựng cộng đồng nghiên cứu giữa.
+Các nhà khoa học về dữ liệu với các tổ chức, doanh nghiệp có nhu cầu để kết.
+nối các bên, giải quyết các bài toán đặc thù của các tổ chức, doanh nghiệp có.
+Nhu cầu. Thúc đẩy nghiên cứu khoa học về dữ liệu trong sinh viên tại các.
+trường đại học, cao đắng.
+
+5. Hợp tác nhà nước, doanh nghiệp.
+a) Tạo lập môi trường phát triển thị trường dữ liệu lành mạnh, an toàn và.
+
+đúng pháp luật, qua đó thúc đẩy các dịch vụ dữ liệu, tạo ra thêm nhiều cơ hội.
+việc làm cho người dân.
+
+
+=== TRANG 14 ===
+14
+
+b) Triển khai phương án nhà nước, doanh nghiệp đặt hàng các trung tâm;.
+nghiên cứu, các doanh nghiệp công nghệ phân tích, xử lý số liệu phục vụ mục.
+đích định hướng kinh doanh, hỗ trợ ra quyết định.
+
+c) Nhà nước xây dựng một số công cụ thu thập, phân tích dữ liệu sử.
+dụng chung để hỗ trợ các doanh nghiệp vừa và nhỏ; nghiên cứu, hỗ trợ các.
+Doanh nghiệp công nghệ số phát triển các nền tảng chuyên đổi số Make in.
+Việt Nam để thông qua các nền tảng làm giàu dữ liệu và tạo lập được hệ sinh thái.
+thái dữ liệu Việt Nam đa dạng.
+
+d) Phát triển không gian dữ liệu cộng đồng trên cơ sở phối hợp và đóng.
+góp dữ liệu từ cơ quan nhà nước, doanh nghiệp và người dân, tiền tới hình.
+thành kho dữ liệu, các bộ dữ liệu mở, dữ liệu lớn dùng chung, dữ liệu mẫu đề.
+phát triển các giải pháp và ứng dụng trí tuệ nhân tạo.
+
+6. Hợp tác quốc tế.
+
+a) Tăng cường các hoạt động hợp tác quốc tế để học hỏi kinh nghiệm;.
+quản lý, quản trị dữ liệu, khai thác sử dụng dữ liệu, trao đổi dữ liệu xuyên.
+biên giới; chia sẻ, trao đổi một số (loại) dữ liệu trong phạm vi khuôn khổ;.
+Pháp luật cho phép với các nước trong một số lĩnh vực mà hai bên cùng.
+quan tâm và có nhu cầu.
+
+b) Mời các chuyên gia nước ngoài, chuyên gia người Việt Nam ở nước.
+ngoài về dữ liệu đến Việt Nam tham gia tư vấn, nghiên cứu, đào tạo về dữ liệu;.
+hệu và quản trị dữ liệu.
+
+c) Chủ động hợp tác quốc tế trong phát triển dữ liệu; tích cực tham gia.
+hoạt động với các tổ chức quốc tế, đề xuất các sáng kiến về phát triển dữ liệu.
+và sẵn sàng phát huy vai trò đi đầu trong những lĩnh vực Việt Nam có.
+thế mạnh; tham gia chủ động, tích cực vào việc xây dựng các khuôn của 10 pháp.
+lý, tiêu chuẩn dữ liệu, khung quản trị và nguyên tắc quốc tế mới về dữ liệu.
+phù hợp với mục tiêu và lợi ích của Việt Nam.
+
+d) Hỗ trợ một số nước trong phát triển dữ liệu nhằm tăng cường mối.
+quan hệ hợp tác quốc tế, đồng thời quảng bá, tạo thị trường đầu ra cho các sản.
+phẩm, dịch vụ dữ liệu của doanh nghiệp Việt Nam. Tăng cường các hoạt động.
+xúc tiền đầu tư cho các lĩnh vực liên quan đến khai thác dữ liệu.
+
+7. Đo lường, giám sát, đánh giá triển khai.
+
+2) Bổ sung các chỉ số đánh giá về phát triển dữ liệu vào Bộ chỉ số chuyên.
+đổi số (DT)) ở cả 3 cấp: cấp tỉnh, cấp bộ và cấp quốc gia, bao gồm từ đánh giá.
+kết quả triển khai dữ liệu mở của các cơ quan nhà nước, cho đến mức độ hoàn.
+
+
+=== TRANG 15 ===
+15
+
+thành xây dựng các cơ sở dữ liệu quốc gia, khả năng kêt nôi, chia sẻ dữ liệu,.
+các bộ dữ liệu lớn....
+
+b) Định kỳ hằng năm công bố kết quả chỉ số đánh giá về phát triển dữ liệu.
+liệu cùng với bộ chỉ số chuyển đổi số, làm cơ sở để theo dõi, đôn đốc, nhắc nhở.
+hạng về mức độ phát triển dữ liệu, kết quả thực hiện Chiến lược của các bộ,
+ngành, địa phương.
+
+VIL KINH PHÍ THỰC HIỆN :
+
+1. Kinh phí thực hiện được bố trí từ nguồn ngân sách nhà nước theo phân.
+cập ngân sách hiện hành, vôn lông ghép và các nguồn vôn hợp pháp khác (nếu có).
+có).
+
+2. Huy động các nguồn kinh phí hợp pháp khác.
+VII. TÔ CHỨC THỰC HIỆN.
+1. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ.
+
+a) Chịu trách nhiệm tổ chức triển khai thực hiện Chiến lược trong phạm vi;.
+vi chức năng, nhiệm vụ được giao và theo quy định pháp luật hiện hành; đưa.
+nhiệm vụ phát triển dữ liệu vào kế hoạch chuyển đổi số hằng năm và chủ.
+động tham gia các hoạt động phối hợp chung về phát triển dữ liệu theo chỉ.
+đạo của Thủ tướng Chính phủ.
+
+b) Căn cứ tình hình cụ thể của từng bộ, ngành để quyết định việc xây.
+Xây và ban hành Chiến lược dữ liệu của riêng bộ, ngành, hoặc lồng ghép các.
+Nội dung về chiến lược phát triển dữ liệu trong các đề án, kế hoạch về chuyên.
+đổi số của bộ, ngành để thực hiện đồng bộ với Chiến lược dữ liệu quốc gia.
+theo hướng: Đảm bảo chi tiết hóa các giải pháp, nhiệm vụ của Chiến lược dữ.
+liệu quốc gia và phù hợp với điều kiện, nhu cầu, định hướng phát triển của bộ,.
+ngành; Tập trung vào hai mũi nhọn: (1) Xây dựng các cơ sở dữ liệu về định.
+Danh số của các đối tượng được quản lý để thuận lợi trong quản lý nhà nước,.
+tạo sự đồng bộ, thông suốt trên toàn quốc, và (i) Tài nguyên dữ liệu lớn để.
+Khai thác, hỗ trợ ra quyết định, nâng cao năng lực chỉ đạo điều hành của cơ.
+quan nhà nước.
+
+c) Triển khai xây dựng, củng cố hạ tầng dữ liệu của bộ, ngành; chủ trì;.
+thực hiện việc số hóa, phát triển dữ liệu đối với các lĩnh vực do mình phụ.
+trách và hướng dẫn triển khai thực hiện đồng bộ cho các địa phương; hoàn.
+thiện dữ liệu trong danh mục các cơ sở dữ liệu quốc gia cần ưu tiên triển khai.
+Tạo nền tảng phát triển Chính phủ số do Chính phủ quy định, dữ liệu trong các.
+lĩnh vực quan trọng đã được quy định trong Chiến lược phát triển Chính phủ.
+
+
+=== TRANG 16 ===
+16
+
+Điện tử hướng tới Chính phủ số giai đoạn 2021 - 2025, định hướng đến năm.
+2030.
+
+d) Xây dựng nền tảng tổng hợp, phân tích dữ liệu cấp bộ phục vụ việc;.
+thu thập, tổng hợp, phân tích dữ liệu trên cơ sở kế thừa các hệ thống thông tin,.
+Cơ sở dữ liệu đã triển khai tại bộ, ngành đảm bảo tránh đầu tư trùng lặp, tận.
+Sử dụng được tối đa kho dữ liệu sẵn có; phục vụ khai thác hiệu quả dữ liệu và.
+cung cấp thông tin về tình hình chính trị, kinh tế, xã hội trong phạm vi quản lý;.
+của bộ, ngành, đồng thời chia sẻ dữ liệu với các cơ quan nhà nước khác.
+
+đ) Giao đơn vị chuyên trách về công nghệ thông tin, chuyển đổi số của Nhà nước;.
+Bộ, ngành làm đầu mối thực hiện nhiệm vụ phát triển dữ liệu, chịu trách.
+nhiệm tư vấn các vấn đề về dữ liệu cho Ban Chỉ đạo chuyên đổi số bộ, ngành;.
+Triển khai xây dựng, củng cố cơ sở hạ tầng trung tâm dữ liệu của bộ, ngành và.
+xúc tiến, đẩy mạnh việc thu thập, làm giàu dữ liệu lớn; đồng thời là đầu mồi.
+quản lý, khai thác, sử dụng hiệu quả dữ liệu của ngành mình, kết nối liên.
+thông với các cơ sở dữ liệu quốc gia.
+
+e) Tổ chức chương trình bồi dưỡng, nâng cao trình độ hằng năm về quản;.
+trị, phân tích dữ liệu cho các cán bộ phụ trách về dữ liệu; bồi dưỡng kiến thức.
+về dữ liệu cho cán bộ, công chức, viên chức.
+
+g) Bố trí ngân sách cho nghiên cứu và phát triển, đặc biệt là trong các.
+lĩnh vực liên quan đến khoa học dữ liệu và công nghệ thông tin hằng năm.
+
+h) Tăng cường hợp tác với các tổ chức và đối tác quốc tế để chia sẻ, học tập;.
+Hỏi kiến thức, kinh nghiệm quản lý, quản trị dữ liệu, khai thác, sử dụng dữ liệu.
+và nguồn lực liên quan đến phát triển dữ liệu; cử đơn vị làm đầu mối kết nối.
+hợp tác với các trường đại học, cơ quan nghiên cứu và doanh nghiệp, với các.
+Chương trình, dự án quốc tế về dữ liệu đề phát triển cộng đồng nguôn mở dữ.
+liệu lớn, phát triển hệ sinh thái nguồn mở và nâng cao toàn diện khả năng.
+nghiên cứu kỹ thuật thúc đầy các công nghệ tiên tiến về dữ liệu lớn đồng thời.
+Xây dựng cộng đồng nghiên cứu: đưa các nhà khoa học về dữ liệu với các tổ.
+Tổ chức, doanh nghiệp có nhu cầu; mời các chuyên gia nước ngoài, chuyên gia.
+Người Việt Nam ở nước ngoài về dữ liệu tham gia tư vấn, nghiên cứu, đào tạo.
+Tạo vê dữ liệu và quản trị dữ liệu, giải quyết các bài toán đặc thù của các tổ.
+chức, doanh nghiệp có nhu cầu.
+
+1) Chủ động phối hợp, hỗ trợ với các nước trong các cơ hội hợp tác phát triển.
+triển dữ liệu nhằm tăng cường mối quan hệ hợp tác quốc tế, đồng thời quảng bá.
+Bán, tạo thị trường đầu ra cho các sản phẩm, dịch vụ dữ liệu của doanh nghiệp.
+Việt Nam.
+
+2. Bộ Thông tin và Truyền thông.
+
+
+=== TRANG 17 ===
+17
+
+Chủ trì, phối hợp với các bộ, ngành, địa phương, các hội, hiệp hội và các.
+doanh nghiệp trong công tác quản lý, theo dõi, giám sát việc tổ chức thực hiện.
+Chiến lược, tập trung vào các nội dung:
+
+a) Hướng dẫn và hỗ trợ các bộ, ngành, địa phương trong việc xây dựng,.
+Triển khai Chiến lược/Kế hoạch phát triển dữ liệu của bộ, ngành, địa phương.
+và kế hoạch thực hiện các chiến lược thành phần.
+
+b) Theo dõi, giám sát và đánh giá kết quả thực hiện Chiến lược; làm đầu.
+mối tổng hợp tình hình thực hiện Chiến lược và định kỳ hàng năm báo cáo.
+Thủ tướng Chính phủ, Uỷ ban Quốc gia về chuyển đổi số; tổ chức sơ kết việc.
+Thực hiện Chiến lược đến năm 2025 và xác định các nhiệm vụ, đề án ưu tiên.
+cho giai đoạn tiếp theo đến năm 2030.
+
+c) Chủ trì thực hiện các nội dung về xây dựng thể chế, chính sách trong.
+nhiệm vụ trọng tâm quốc gia được quy định tại mục (V của Chiên lược.
+
+d) Chủ trì, phối hợp với các bộ, ngành, địa phương xây dựng các tiêu chí,.
+Hướng dẫn làm căn cứ để bộ, ngành, địa phương xây dựng danh mục dữ liệu.
+mở, danh mục dữ liệu lớn cần ưu tiên phát triển thuộc phạm vi quản lý của bộ,.
+ngành, địa phương, phục vụ chỉ đạo, điều hành của bộ, ngành, địa phương và.
+nhu cầu khai thác dữ liệu thuộc ngành, lĩnh vực từ người dân, doanh nghiệp.
+
+đ) Hướng dẫn, phối hợp với các bộ, ngành, địa phương, các doanh.
+nghiệp để thúc đầy phát triển hạ tầng dữ liệu quốc gia, phát triển dữ liệu quốc.
+gia, các Trung tâm dữ liệu quốc gia, Trung tâm dữ liệu vùng theo mục tiêu.
+của Chiến lược, phù hợp với các quy hoạch phát triển hạ tầng thông tin và.
+truyền thông.
+
+e) Đưa các nhiệm vụ về tuyên truyền, nâng cao nhận thức và phổ biến;.
+Kiến thức về dữ liệu số) và: Đào tạo và phát triển nguồn nhân lực dữ liệu số.
+vào trong nội dung của Đề án: Nâng cao nhận thức, phổ cập kỹ năng và phát.
+Phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến.
+năm 2030” để tạo nguồn lực phát huy hiệu quả của Chiến lược.
+
+g) Tăng cường thông tin, tuyên truyền qua các hình thức đa dạng, phong phú;.
+phú, xây dựng các tài liệu hướng dẫn kỹ thuật, tờ rơi,... để nâng cao nhận thức.
+của các cấp, chính quyền và người dân về vai trò, tầm quan trọng của giá.
+trị dữ liệu, phát triển, khai thác sử dụng, chia sẻ dữ liệu hiệu quả.
+
+h) Xây dựng, đưa bổ sung các bộ chỉ số đánh giá về phát triển dữ liệu;.
+vào Bộ chỉ số chuyển đổi số (DTI) để đánh giá kết quả phát triển dữ liệu của.
+các bộ, ngành, địa phương và theo dõi, đánh giá hằng năm.
+
+
+=== TRANG 18 ===
+18
+
+1) Nghiên cứu và ban hành quy định quản lý các doanh nghiệp chiếm thị.
+Phần chỉ phối về dữ liệu theo quy định của pháp luật và phù hợp với thông.
+lệ quốc tế để phòng, chống sự chi phối, thao túng thị trường của các doanh.
+nghiệp này. nghiệp này.
+
+k) Ban hành các văn bản hướng dẫn về đảm bảo an toàn thông tin trong;.
+công tác kết nối, chia sẻ dữ liệu; văn bản hướng dẫn, quy định về thiết lập, vận hành;.
+hành hệ thống tiếp nhận, tổng hợp dữ liệu phục vụ quản lý nhà nước về giao.
+dịch điện tử của cơ quan nhà nước.
+
+3. Văn phòng Chính phủ.
+
+a) Phát triển, hoàn thiện Hệ thống thông tin báo cáo Chính phủ và Trung ương;.
+tâm thông tin chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ, kết nổi.
+với hệ thống thông tin báo cáo, các hệ thống thông tin, cơ sở dữ liệu quốc gia,.
+Cơ sở dữ liệu chuyên ngành do bộ, cơ quan, địa phương triển khai đảm bảo.
+Tích hợp, chia sẻ dữ liệu số phục vụ chỉ đạo, điều hành của Chính phủ, Thủ.
+tướng Chính phủ và chính quyền các cấp theo thời gian thực.
+
+b) Phát triển, hoàn thiện hệ thống Cung dịch vụ công quốc gia bảo đảm;.
+hoạt động thông suốt, an toàn, ổn định; phối hợp với các bộ, ngành, cơ quan,.
+địa phương triển khai các phương án, giải pháp kết nối, tích hợp giữa Cổng.
+Dịch vụ công quốc gia với Hệ thống thông tin giải quyết thủ tục hành chính.
+cấp bộ, cấp tỉnh, các hệ thống thông tin, cơ sở dữ liệu quốc gia, cơ sở dữ liệu;.
+Chuyên ngành do bộ, cơ quan, địa phương triển khai để phục vụ hiệu quả cho.
+việc thực hiện thủ tục hành chính và cung cấp địch vụ công trực tuyến.
+
+), Tổ chức hướng dẫn việc thực hiện số hóa hồ sơ, giấy tờ, kết quả giải.
+quyết thủ tục hành chính và tổ chức lưu trữ, khai thác dữ liệu đã số hóa đề.
+phục vụ thực hiện giải quyết thủ tục hành chính, cung cấp dịch vụ công trực.
+tuyến theo quy định.
+
+4. Bộ Công an.
+
+.9) Tổ chức triển khai thực hiện và giám sát thực hiện các quy định pháp.
+lý về bảo vệ dữ liệu cá nhân.
+
+b) Chủ trì, phối hợp với các bộ, ngành, địa phương thực hiện việc kết nối;.
+Liên thông, tích hợp hệ thống định danh và xác thực điện tử với các hệ thống.
+dịch vụ công và khai thác sử dụng, phát huy tối đa hiệu quả cơ sở dữ liệu.
+quốc gia về dân cư, cơ sở dữ liệu căn cước, xuất nhập cảnh.
+
+c) Chủ trì, hướng dẫn, phối hợp với các bộ, ngành, địa phương thực hiện.
+công tác bảo vệ dữ hệu, bảo đảm an ninh dữ liệu.
+
+
+=== TRANG 19 ===
+19
+5.Bộ Y tế .
+
+a) Xây dựng, trình Chính phủ ban hành Nghị định quy định về quản lý.
+dữ liệu y tê.
+
+b) Xây dựng, tổ chức các dữ liệu y tế, cơ sở dữ liệu quốc gia về y tế, các.
+hệ thống cơ sở dữ liệu chuyên ngành (khám, chữa bệnh, y tế dự phòng, nhân).
+lực, thiết bị y tế, dược,...) phù hợp định hướng phân cấp quản lý từ trung ương.
+đến địa phương đề phát triển và hoàn thiện cơ sở dữ liệu quốc gia về y tế; ứng.
+dụng các công nghệ số để khai thác dữ liệu hiệu quả phục vụ chuyển đổi số. Y.
+tế. Tạo lập cơ sở dữ liệu dùng chung và cung cập rộng rãi cho người dân có.
+thể tra cứu đầy đủ thông tin; số hóa thông tin sức, bệnh án điện tử và.
+liên thông thông suốt giữa các cơ quan y tế và giữa cơ quan y tế với nguồn 1 ;.
+dân phục vụ việc tra cứu, theo dõi, khám chữa bệnh cho người bệnh khi đến.
+khám chữa bệnh tại các cơ sở y tế.
+
+c) Đẩy mạnh triển khai các nền tảng số y tế, trong đó tập trung thúc đầy.
+triển khai các nền tảng số: (1) Nền tảng hỗ trợ tư vấn khám chữa bệnh từ xa;
+(2) Nền tảng quản lý tiêm chủng; (3) Nền tảng hồ sơ sức điện tử; (4).
+Nền tảng quản lý trạm y tế xã; (5) Nền tảng quản lý thông tin bệnh viện, quản.
+lý hồ sơ bệnh án điện tử.
+
+d) Xây dựng dữ liệu lớn về triệu chứng lâm sàng của các loại bệnh, dữ liệu;.
+liệu lớn ngành y tế từ các thiết bị JMT (Internet of Medical Things): y tế cá.
+nhân, dữ liệu trợ lý ảo tự động theo dõi sức cho cá nhân để phục vụ cho.
+các hoạt động nghiên cứu y học, dược học và xây dựng phác đồ điều trị bệnh;
+Xây dựng dữ liệu lớn lưu trữ và truyền hình ảnh y tế, kết quả xét nghiệm, tập.
+trung cấp, trung ương, đáp ứng khả năng chia sẻ thông tin, khai thác, sử dụng.
+tới toàn bộ các cơ sở khám bệnh, chữa bệnh và các đơn vị, bộ, ngành có liên quan.
+quan; ứng dụng các công nghệ thông minh dựa trên trí tuệ nhân tạo, sử dụng.
+kho dữ liệu lớn về các triệu chứng lâm sàng và kinh nghiệm khám chữa bệnh.
+để tạo điều kiện chăm sóc y tế.
+
+6. Bộ Giáo dục và Đào tạo.
+
+a) Thúc đấy, đưa các môn học về khoa học dữ liệu, phân tích dữ liệu vào.
+Chương trình đào tạo của các ngành học khác nhau, đây mạnh nghiên cứu.
+khoa học vê dữ liệu trong các trường đại học và cao đăng sư phạm.
+
+b) Tổ chức thực hiện việc số hóa dữ liệu để xây dựng hệ thống học liệu;.
+số, chương trình đào tạo, sách giáo khoa số. Xây dựng các nền tảng tra cứu.
+Học liệu số dùng chung cho tất cả các cấp học. Xây dựng mới hoặc kết hợp.
+với đề án hệ tri thức Việt số hóa đề làm giàu hệ tri thức phổ thông.
+
+
+=== TRANG 20 ===
+20
+
+c) Tổ chức thực hiện việc số hóa và quản lý thống nhất hệ thống văn.
+băng, chứng chỉ, chương trình đào tạo, gắn với từng sinh viên, học viên, làm.
+cơ sở tham chiêu, sử dụng trong các hoạt động xã hội.
+
+d) Cập nhật, hoàn thiện dữ liệu ngành giáo dục, đào tạo, bao gồm: cơ sở;.
+giáo dục và đào tạo các cấp; các chuyên ngành đào tạo, chương trình đào tạo,.
+hồ sơ giáo viên, sinh viên, học sinh; chuẩn hóa học bạ điện tử cho tất cả các.
+cấp học, ngành học; tạo dựng các bộ dữ liệu mở và chia sẻ cho các cơ quan, tổ chức.
+chức, cá nhân tham khảo, nghiên cứu, sử dụng.
+
+đ) Từng bước xây dựng dữ liệu lớn về hành vi của người học, người dạy;.
+từ các hệ thống hỗ trợ học tập, áp dụng các công nghệ dạy học và các ứng.
+dụng trực tuyến.
+
+e) Kết nối, liên thông dữ liệu ngành giáo dục, đào tạo với dữ liệu trong;.
+lĩnh vực lao động, việc làm và dữ liệu bảo hiểm xã hội để xác định được nhu.
+cầu nhân lực đào tạo, làm cơ sở hỗ trợ công tác xây dựng chiến lược, quy hoạch.
+hoạch, kế hoạch đào tạo trong ngành giáo dục.
+
+7. Bộ Nông nghiệp và Phát triển nông thôn.
+
+@ Tổ chức thực hiện việc xây dựng các bộ dữ liệu ngành nông nghiệp.
+Bao gồm cơ sở dữ liệu các ngành trồng trọt, chăn nuôi, thuỷ sản,..). Ưu tiên .
+Triển khai trước đối với các loại dư liệu: Dữ liệu truy xuất về nguồn gốc các.
+sản phẩm nong ngh1ẹp, dữ liệu về các vùng sản xuất nong, lâm, ngư nghiệp;
+dữ liệu về đất đai, thổ nhương, chỉ dẫn địa lý; dữ liệu về thời tiết, các quy.
+trình, công nghệ sản xuất phòng chống dịch bệnh cho cây trồng, vật nuôi,.
+hải sản; dữ liệu về tình hình sản xuất nông nghiệp, tiêu thụ sản phẩm.
+nông nghiệp (thông qua các nền tảng số); dữ liệu từ nguồn các thiết bị HT.
+cho nông nghiệp thông minh; dữ liệu theo dõi, phát hiện dịch bệnh trong sản.
+xuất nông nghiệp; dữ liệu về diễn biến, biến động rừng, phát hiện và cảnh báo.
+cháy rừng qua ảnh vệ tinh; dữ liệu về công trình lợi, hồ đập, kênh.
+mương: dữ liệu về đánh bắt và nuôi trồng sản, giám sát tàu cá.
+
+b) Xây dựng và tổ chức triển khai các nền tảng số dữ liệu nông nghiệp,.
+bao gồm:
+
+- Xây dựng nền tảng kiến trúc dữ liệu. Tổ chức thực hiên việc kết nối.
+người nông dân với chuyên gia nông nghiệp thông qua các nền tảng số và.
+cung cấp các bộ dữ liệu mở về sản xuất nông, lâm, ngư nghiệp bao gồm: các.
+quy trình, công nghệ sản xuất, phòng chống dịch bệnh cho cây trồng, vật nuôi,
+hải sản; kinh nghiệm sản xuất và các hỗ trợ chia sẻ từ người dân, doanh.
+nghiệp; danh mục các sản phẩm chiến lược có ưu thế cạnh tranh.
+
+
+=== TRANG 21 ===
+21
+
+- Xây dựng và đưa VE0 khai thác hiệu quả các nền tảng số hóa dữ liệu nông.
+ngh1tap thông qua các nền tảng số để thu thập, cập nhật, cung cấp dữ liệu về.
+Nguôn gốc nông sản, tình hình sản xuất nông nghiệp, nông sản tiêu thụ từ các.
+hợp tác xã và doanh nghiệp nông nghiệp, từ các nguồn dữ liệu cập nhật của.
+người nông dân trực tiếp tham gia chuỗi cung ứng.
+
+c) Ứng dụng dữ liệu lớn (big data, data), trí tuệ nhân tạo, công nghệ viễn.
+thám trong việc tổng hợp, phân tích, đánh giá dữ liệu và khai phá dữ liệu trên.
+nền tảng dữ liệu ngành nông nghiệp, phục vụ công tác thống kê, dự báo, ra.
+quyết định trong sản xuất nông nghiệp, phát triển thị trường nông sản, phát.
+hiện cảnh báo thiên tai, dịch bệnh.
+
+d) Cung cấp dữ liệu cơ bản và cần thiết để hỗ trợ các doanh nghiệp khởi.
+nghiệp công nghệ trong lĩnh vực nông, lâm, ngư nghiệp. Phối hợp với các.
+Doanh nghiệp bưu chính, hỗ trợ người nông dân đưa các sản phẩm nông.
+nghiệp lên sàn thương mại điện tử.
+
+§. Bộ Tài nguyên và Môi trường.
+
+a) Tổ chức triển khai việc M3 hóa, phát triển dữ liệu lớn lĩnh vực tài.
+nguyên môi trường, bao gồm: nền địa lý quốc gia; đất đại quốc gia; viễn.
+thám; khí tượng; nữ y văn; biến đổi khí hậu; môi trường: nguồn thải; đa dạng.
+sinh học; tài nguyên nước; địa chất, khoáng sản; tài nguyên, môi trường biển.
+và hải đảo; quan trắc tài nguyên và môi trường.
+
+b) Từng bước hoàn thiện các hệ thống giám sát, quan trắc môi trường,.
+khí tượng văn, tài nguyên đất, tài nguyên nước toàn quôc qua thiêt bị JFET.
+đê phát triển dữ hệ lớn ngành tài nguyên môi trường.
+
+c) Nghiên cứu, triển khai. ứng dụng các công nghệ phân tích, xử lý dữ liệu;.
+Liệu IoT trong việc hỗ trợ ra quyết định để phòng ngừa, ứng phó sự cố môi?
+trường, bảo vệ môi trường, sử dụng đất bền vững; dự báo, cảnh báo thiên tai.
+và thích ứng với biến đổi khí hậu.
+
+d) Xây dựng, phát triển hạ tầng dữ liệu không gian địa lý quốc gia, nền;.
+tảng bản đồ số quốc gia.
+
+9, Bộ Văn hóa, Thể thao và Du lịch.
+
+a) Số hóa và xây dựng dữ liệu về các dân tộc Việt Nam, làng văn hóa,.
+Không gian văn hóa các vùng miền, đất nước, con người để cung cấp rộng rãi.
+trên Internet, hỗ trợ quảng bá phát triển văn hóa Việt Nam; xây dựng và làm.
+giàu kho dữ liệu lớn về văn hóa, nghệ thuật của các dân tộc Việt Nam.
+
+
+=== TRANG 22 ===
+22
+
+b) Bảo đảm kết nối, tích hợp đồng bộ cơ sở dữ liệu về văn hóa, nghệ.
+thuật với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu của Đề án Hệ Tri thức Việt.
+số hóa; ứng dụng hệ thống thông tin địa lý (GIS) trong quản lý, bảo vệ và phát.
+huy di sản văn hóa.
+
+c) Tổ chức thực hiện việc số hóa, hình thành thư viện số cho các di sản;.
+văn hóa, di tích quốc gia, di tích quốc gia đặc biệt; thu thập và quản lý dữ liệu.
+số về các di sản văn hóa, di tích quốc gia, những di sản trong Danh mục di sản;.
+văn hóa phi vật thể quốc gia, dữ liệu số về các phong tục văn hóa, tộc người.
+thống, sức mạnh con người Việt Nam,... Củng cố và hoàn thiện dữ liệu đề án.
+Xây dựng các đề án, chương trình bảo vệ và phát huy giá trị những di sản trong.
+Danh mục di sản văn hóa phi vật thể quốc gia, bảo tồn và phát huy các giá trị.
+văn hóa, truyền thống, sức mạnh con người Việt Nam.
+
+d) Xây dựng dữ liệu lớn về khách du lịch, hành vi tiêu dùng của khách.
+du lịch; dữ liệu lớn về các chương trình du lịch, tua du lịch, cơ sở lưu trú, cơ.
+Cơ sở kinh doanh dịch vụ du lịch phục vụ việc khai thác sử dụng chung để phát.
+triển du lịch.
+
+10. Bộ Giao thông vận tải.
+
+a) Tổ chức thực hiện việc số hóa, xây dựng dữ liệu và cung cấp dịch vụ;.
+dữ liệu cho người dân khai thác sử dụng về mạng lưới hạ tầng giao thông do.
+trung ương quản lý.
+
+b) Phát lưu dữ liệu lớn quản lý hoạt động của các phương tiện giao thông;.
+thông, dữ liệu về mật độ giao thông thực trên các tuyến đường phục vụ việc.
+Điều tiết giao thông dựa trên dữ liệu và xây dựng quy hoạch, đầu tư, phát triển.
+kết cấu hạ tằng giao thông.
+
+11. Bộ Công Thương.
+
+a) Tổ chức thực hiện việc thu thập, phát triển dữ liệu trong lĩnh vực;.
+thương mại điện tử, logistics. Ứng dụng công nghệ phân tích dữ liệu lớn trong.
+Đánh giá hành vi, thói quen, nhu cầu, sở thích người tiêu dùng,... để từ đó.
+hoạch định chính sách phát triển thương mại điện tử, phát triển thị trường,.
+phát triển ngành logistics và thúc đẩy chuyển đổi số lĩnh vực.
+
+b) Phát triển dữ liệu lớn ngành điện, sử dụng dữ liệu lớn để hoạch định;.
+Xây dựng hệ thống mạng lưới điện thông minh. Triển khai ứng dụng dữ liệu.
+lớn và trí tuệ nhân tạo trong các hoạt động điều tiết, sản xuất và tiêu thụ điện.
+từ nguồn năng lượng sạch, thân thiện môi trường.
+
+c) Ứng dụng trí tuệ nhân tạo trong điều tiết thị trường, điều tiết sản xuất;.
+và phân phối các sản phẩm, dịch vụ thuộc lĩnh vực quản lý của Bộ Công.
+Thương trên cơ sở sử dụng dữ liệu lớn về giám sát thị trường.
+
+12. Bộ Kế hoạch và Đầu tư.
+
+
+=== TRANG 23 ===
+23
+
+a) Chủ trì, phối hợp với các bộ, ngành, địa phương kết nối, chia sẻ dữ liệu;.
+liệu giữa cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp với các cơ sở dữ liệu.
+liệu quôc gia khác.
+
+b) Xây dựng dữ liệu về tình hình phát triển kinh tế xã hội, các dữ liệu dự;.
+báo kinh tế, phục vụ ra quyết định điều hành chính sách kinh tế vĩ mô.
+
+13. Bộ Tài chính.
+
+a) Chỉ đạo, tổ chức thực hiện việc thu thập, xây dựng dữ liệu lớn về thị.
+trường chứng khoán, về các giao dịch trực tuyên trong lĩnh vực tài chính.
+
+b) Nghiên cứu ứng dụng trí tuệ nhân tạo, các công nghệ phân tích dữ liệu;.
+lớn phục vụ việc phân tích, giám sát thị trường ôtô, đánh giá rủi ro tài chính,.
+tác động chính sách và ra quyêt định quản lý, điều hành tài chính.
+
+14. Bộ Khoa học và Công nghệ.
+
+a) Xây dựng cơ sở dữ liệu quốc gia về khoa học và công nghệ, kết nối;.
+với cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu quốc gia, cơ sở dữ.
+liệu chuyên ngành của bộ, ngành, địa phương khác có liên quan.
+
+b) Tổ chức thực hiện: xây dựng nền tảng chia sẻ dữ liệu nghiên cứu khoa học;.
+học và công nghệ dùng chung. Phối hợp cùng bộ, ngành, địa phương trong.
+Việc kêu gọi đóng góp dữ liệu lên nền tảng này với mục tiêu tạo lập môi.
+Trường cho phép cộng đồng khoa học đóng góp, khai thác, chia sẻ dữ liệu.
+Nghiên cứu và phát triển các mô hình phân tích dữ liệu, học máy, trí tuệ nhân.
+tạo, góp phần thực hiện thành công Chiến lược quốc gia về nghiên cứu, phát triển.
+Phát triển và ứng dụng trí tuệ nhân tạo đến năm 2030.
+
+c) Xây dựng lộ trình thực hiện số hóa dữ liệu ngành khoa học và công nghệ;.
+nghệ theo từng giai đoạn. Nghiên cứu ứng dụng trí tuệ nhân tạo, khai phá dữ.
+liệu đưa ra các báo cáo phân tích, đánh giá, tổng hợp các vấn đề tác động đến.
+ngành khoa học và công nghệ, từ đó đưa ra giải pháp phù hợp phục vụ quản lý.
+điều hành, hoạch định chính sách, ra quyết định.
+
+15. Bộ Lao động - Thương binh và Xã hội.
+
+a) Tổ chức xây dụng và hình thành cơ sở dữ liệu về lao động - việc làm,.
+An sinh xã hội. Ưu tiên triển khai và thực hiện kết nối liên thông số lao động.
+điện tử với dữ liệu về bảo hiểm xã hội, bảo hiểm thất nghiệp, tích hợp với dữ liệu.
+liệu đào tạo nghề và học tập suốt đời gắn với tạo lập cơ sở dữ liệu lao động -.
+việc làm; hoàn thiện cơ sở dữ liệu an sinh xã hội bao gồm dữ liệu đối tượng.
+hưởng chính sách bảo trợ xã hội, giảm nghèo, trẻ em và người có công....
+
+b) Đảm bảo hạ tầng kỹ thuật, hướng tới xây dựng và tổ chức thực hiện;.
+Cơ sở dữ liệu tích hợp của bộ, ngành; thực hiện kết nối, tích hợp, chia sẻ dữ.
+liệu lao động - việc làm, an sinh xã hội với các cơ sở dữ liệu quốc gia, cơ sở.
+dữ liệu của bộ, ngành, địa phương phục vụ công tác quản lý nhà nước; cung.
+cấp, chia sẻ dữ liệu cho các tổ chức, người dân, doanh nghiệp có nhu cầu.
+
+
+=== TRANG 24 ===
+24
+c) Cập nhật các dữ liệu lĩnh vực lao động, người có công và xã hội lên.
+Cổng dữ liệu Bộ Lao động - Thương binh và Xã hội; ưu tiên cập nhật, cung cấp.
+dữ liệu mở; xây dựng hệ thống tư vấn thông minh dựa trên trí tuệ nhân tạo vê.
+chính sách, thực thi chính sách cho các tổ chức, người dân, doanh nghiệp có nhu.
+
+cầu; có các phương thức phù hợp để tăng khả năng tiếp cận, khai thác thông tin,.
+dữ liệu của người yếu thế, người khuyết tật.
+
+d) Thúc đẩy, đưa các môn học về khoa học dữ liệu, phân tích dữ liệu vào.
+chương trình đào tạo của các trường cao đăng, trường trung câp và các trung.
+tâm giáo dục nghê nghiệp.
+
+16. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương.
+
+a) Chịu trách nhiệm tổ chức triển khai thực hiện Chiến lược, bảo đảm;.
+tính thông nhât, đồng bộ với việc thực hiện kế hoạch phát triển kinh tê - xã.
+hội của địa phương.
+
+b) Căn cứ tình hình cụ thể của từng địa phương để quyết định việc xây.
+dựng và ban hành riêng. Kế hoạch/Chiến lược triển khai thực hiện Chiến lược.
+dữ liệu quốc gia hoặc lồng ghép các nội dung về phát triển dữ liệu trong các.
+Chiến lược, đề án, kế hoạch về chuyển đối số của tỉnh, thành phố trên cơ sở.
+Chi tiết hóa các giải pháp, nhiệm vụ của Chiến lược dữ liệu quốc gia và phù.
+hợp với điều kiện, nhu cầu, định hướng phát triển của địa phương; chủ động.
+Tham gia các hoạt động phối hợp chung theo chỉ đạo của Thủ tướng Chính.
+phủ và sự điều phối của Bộ Thông tin và Truyền thông.
+
+) Giao Sở Thông tin và Truyền thông làm đầu mối thực hiện nhiệm vụ.
+phát triển dữ liệu, chịu trách nhiệm tư vấn các vấn đề về dữ liệu cho Ủy ban.
+nhân dân, Ban Chỉ đạo chuyển đổi số của địa phương: triển khai xây dựng,.
+củng cố cơ sở hạ tầng trung tâm dữ liệu và thu thập, làm giàu dữ liệu lớn cho.
+Địa phương: là cơ quan đầu mối quản lý, theo dõi, giám sát việc khai thác sử.
+dụng hiệu quả dữ liệu của địa phương và kết nối liên thông với các cơ sở.
+dữ liệu quôc gia.
+
+d) Triễn khai xây dựng, củng cố hạ tầng dữ liệu của địa phương. Xây.
+Xây các cơ sở dữ liệu của địa phương song hành với triển khai các nền tảng.
+số dịch vụ công. Xây dựng các nền tảng số phân tích, xử lý dữ liệu phục vụ.
+việc thu thập, tổng hợp, phân tích dữ liệu trên cơ sở kế thừa các hệ thống.
+Thông tin, cơ sở dữ liệu đã triển khai tại địa phương đảm bảo tránh đầu tư.
+trùng lặp, tận dụng được tối đa nguồn dữ liệu sẵn có, phục vụ khai thác hiệu quả.
+quả dữ liệu và cung cấp thông tin về tình hình chính trị, kinh tế, xã hội trong.
+phạm vi quản lý của địa phương.
+
+đ) Chủ động huy động nguồn lực và lồng ghép các hoạt động liên quan;.
+của các chương trình khác trên địa bàn đê đạt được các mục tiêu của Chiên lược.
+
+
+=== TRANG 25 ===
+25
+
+e) Tổng hợp báo cáo tình hình triển khai Chiến lược trong nội dung báo;.
+Báo kết quả chuyền đổi số của địa phương gửi Bộ Thông tin và Truyền thông.
+trước ngày 31 tháng 12 hằng năm đề tông hợp, báo cáo Thủ tướng Chính phủ.
+
+17. Các Hội, Hiệp hội nghề nghiệp.
+
+Hội, Hiệp hội nghề nghiệp chủ động, tích cực trong việc tham mưu, phản.
+biện chính sách, pháp luật; phát động hội viên, doanh nghiệp chủ động tham gia.
+gia phát triển dữ liệu có chất lượng, khai thác sử dụng các nguồn dữ liệu mở,.
+Các bộ dữ liệu công cộng, quôc gia, chia sẻ đóng góp dữ liệu cho không gian.
+dữ liệu cộng đồng và cùng hưởng lợi ích mà dữ liệu mang lại; tham gia cùng.
+Bộ Thông tin và Truyền thông trong việc tuyên truyền, phổ biến, khảo sát,.
+Đánh giá mức độ phát triển dữ liệu, kết quả triển khai thực hiện Chiến lược dữ.
+liệu quốc gia.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan.
+Cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực.
+thuộc trung ương, các cơ quan, đơn vị liên quan chịu trách nhiệm thi hành.
+Quyết định này.
+
+Nơi nhận:
+
+- Ban Bí thư Trung ương Đảng;
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương.
+- Văn phòng Trung ương và các Ban của Đảng;
+
+- Văn phòng Tổng Bí thư;
+
+- Văn phòng Chủ tịch nước;.
+
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;.
+- án nhân dân tối cao;.
+
+- Viện kiểm sát nhân dân tối cao;.
+
+- Ủy ban Giám sát tài chính Quốc gia;
+
+- Kiểm toán nhà nước;.
+
+- Ngân hàng Chính sách xã hội;.
+
+- Ngân hàng Phát triển Việt Nam;
+
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+
+- VPCP: BTCN, các PCN, Trợ lý TTGT,.
+
+TGĐ Công TTĐT, các Vụ, Cục;
+- Lưu: (VT, KSTTỌ), (MO).
+
+
+
+=== TRANG 26 ===
+l2 ’htt lực.
+
+; DƯ LIỆU QUỐC GIA: ĐẾN NĂM 2030 ; DƯ LIỆU QUỐC GIA.
+Meo Qztyez , định mức W†«: QĐ TT , g.
+
+. Y . Cơ quan -.
+
+NHIỆM VỤ TRỌNG TÂM QUỐC GIA.
+| I | Xây dựng thể chế, chính sách.
+
+Xây dựng Luật Công nghiệp | Bộ Thông tin và | Các bộ, ngành | 2024 - 2025.
+công nghệ sô. . Truyên thông.
+
+Xây dựng Nghị định quy định | Bộ Thông tin và Truyền thông, các bộ, ngành.
+về giao dịch điện tử trong cơ quan truyền thông.
+
+quan nhà nước và hệ thống.
+
+Thông tin phục vụ giao dịch.
+
+điện tử, Nghị định quy định về.
+
+chữ ký điện tử và dịch vụ tin.
+
+b, Nghị định quy định về.
+
+Danh mục cơ sở dữ liệu quốc.
+
+gia.
+
+- Xây dựng các quy định về | Bộ Thông tin và | Các bộ, ngành | 2024 - 2027;.
+Nghĩa vụ, trách nhiệm của các Sở Truyền thông;.
+
+đơn vị vận hành nền tảng số,.
+
+Hệ thống giao dịch điện tử.
+
+trong việc thu thập, lưu trữ, sử.
+
+dụng, kết nối, chia sẻ, giao.
+
+dịch dữ liệu số.
+
+- Xây dựng Nghị định quy.
+
+định về mua bán, trao đổi dữ liệu.
+
+liệu riêng, dữ liệu có bản 2025 - 2030;.
+quyền để tạo thị trường dữ.
+
+liệu; quy định về các dạng dữ liệu;.
+
+Liệu đủ điều kiện tham gia mua?
+
+bán, trao đổi, chuyển nhượng.
+
+Xây dựng các quy định về tiêu | Bộ Thông tin và | Các bộ, ngành.
+chuẩn, quy chuẩn các danh hiệu Truyền thông.
+
+mục lưu trữ, kết nối và chia sẻ.
+
+dữ liệu, các quy định về dữ liệu;.
+
+liệu phi danh tính. Ban hành.
+
+
+
+=== TRANG 27 ===
+Các quy định hướng dẫn liên quan;.
+quan đến quản lý chất lượng.
+dữ liệu.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Các bộ, ngành: | 2024 - 2030.
+
+2024 - 2030.
+
+2024 - 2030.
+
+2024 - 2030.
+
+Xây dựng Khung quản trị dữ.
+liệu, kiến trúc dữ liệu và các.
+mục từ điển dữ liệu và bổ sung.
+vào Khung kiến trúc Chính.
+phủ điện tử Việt Nam những.
+phiên bản tiếp theo.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Nghiên cứu xây dựng chính sách các bộ, ngành.
+sách ưu đãi thúc đẩy phát triển.
+doanh nghiệp hoạt động trong.
+lĩnh vực dữ liệu, tư vấn chiến lược.
+lược quản trị dữ liệu, cung cấp.
+nền tảng, dịch vụ quản trị dữ liệu.
+liệu; phòng chống sự chi phối,.
+thao túng thị trường của các tổ.
+Tổ chức, doanh nghiệp có lợi thế.
+Nắm giữ khối lượng dữ liệu.
+lớn của Việt Nam.
+
+Xây dựng và ban hành các.
+Nguyên tắc sử dụng dữ liệu có.
+trách nhiệm, các quy định.
+hướng dẫn về an toàn khi ứng.
+dụng trí tuệ nhân tạo (AI).
+trong khu vực công.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Các bộ, ngành. Các bộ, ngành.
+
+| I |Phát triển hạ tân.
+
+Xây dựng các trung tâm dữ liệu.
+Hệ quôc gia, Trung tâm dữ liệu.
+liệu vùng với quy mô lớn, theo.
+Tiêu chuẩn xanh và kết nối các.
+Trung tâm dữ liệu với Trạm.
+Trung chuyển Internet quốc gia.
+(VNIX).
+
+la
+
+Bộ Thông tin.
+và Truyền.
+Thông cáo các bộ.
+ngành, địa.
+phương.
+
+Bộ Công an, các.
+Hội đông điêu.
+.. phôi vùng.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Các bộ, ngành, .
+địa phương.
+
+Củng cố và tận dụng, bảo đảm.
+Đồng bộ, kết nối thông suốt.
+các trung tâm dữ hệ săn có.
+
+
+
+=== TRANG 28 ===
+Nhiệm vụ, giải pháp.
+
+| II | Phát triển dữ liệu quốc gia.
+
+Tập trung hoàn thiện các cơ sở.
+dữ liệu quốc gia trong danh.
+mục cần ưu tiên triển khai: tạo.
+Nền tảng phát triển chính phủ.
+điện tử và dữ liệu trong các.
+lĩnh vực thuộc danh mục các.
+nhiệm vụ, giải pháp trọng tâm.
+Phát triển kinh tế số và xã hội.
+số ngành, lĩnh vực đã được.
+phê duyệt tại Quyết định số.
+411/QĐ-TTg ngày 31/3/2022.
+của Thủ tướng Chính phủ.
+
+; Cơ quan -.
+
+Các bộ, ngành, 2024 - 2030 ; .
+
+địa phương.
+
+Các bộ, ngành, .
+
+- Tích hợp, đồng bộ dữ liệu từ địa phương.
+
+các cơ sở dữ liệu quốc gia, cơ.
+Sở dữ liệu các bộ, ngành, địa.
+Phương về Trung tâm dữ liệu.
+quốc gia.
+
+- Phát triển các cơ sở dữ liệu.
+dùng chung, cơ sở dữ liệu.
+chuyên ngành các bộ, ngành ; .
+cùng với cơ sở dữ liệu quốc.
+gia liên thông kết nối chia sẻ.
+phục vụ việc cung cấp các.
+dịch vụ công.
+
+I .
+
+Hoàn thiện Công dữ liệu quốc.
+gia và đảm bảo cung cấp, cập.
+Nhật kịp thời các bộ dữ liệu.
+mở cho các cơ quan, doanh.
+nghiệp và người dân tra cứu,.
+khai thác sử dụng.
+
+Bộ Thông tin và Truyền thông.
+
+PV: Các bộ, ngành thường.
+Truyền thông.
+
+liên quan xuyên.
+
+Xây dựng các kho học liệu số | Bộ Lao động- Thương binh | Các bộ, ngành | Thường.
+về kỹ năng nghề nghiệp, giúp | Thương binh và liên quan xuyên.
+Người lao động có thể dễ dàng . | Xã hội, Bộ Giáo.
+
+Tiếp cận với nguồn video và học liệu số.
+để tự đào tạo, nâng cao kiến thức.
+Kiến thức, kỹ năng phù hợp với nhu cầu.
+cầu việc làm và nâng cao năng.
+suất lao động.. -.
+
+Giáo dục và Đào tạo.
+
+
+
+=== TRANG 29 ===
+Phát triển kết nói, chia sẻ dữ liệu.
+Thực hiện kêt nôi, chia sẻ dữ liệu. Các bộ ngành,.
+liệu giữa các cơ quan nhà địa phương.
+
+2024 - 2030.
+nước, phát huy tối đa hiệu quả.
+của hệ thông các nên tảng sô.
+Kêt nôi liên thông, mở, chia sẻ: Bộ Công an, Các bộ, ngành, | 2024 - 2030.
+dữ liệu cơ sở dữ liệu quốc gia, địa phương.
+về dân cư với các cơ sở dữ liệu.
+liệu quốc gia, cơ sở dữ liệu.
+chuyên ngành.
+Phát triển thị trường dữ liệu.
+
+2024 - 2027 .
+khuyến khích phát triển.
+
+Xây dựng đề án thiết lập thị.
+2024 - 2025.
+Đảm bảo an toàn thông tin, an ninh mạng cho dữ liệu.
+
+trường dữ liệu và các văn bản.
+Phát triển nền tảng rà quét lỗi). Bộ Thông tin và Truyền thông, các bộ, ngành: 2024 ; .
+Truyền thông.
+
+Cơ quan.
+phối hợp.
+
+IV
+
+V
+
+IỄ)
+v
+
+Các bộ, ngành, .
+địa phương.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+pháp lý hướng dẫn thí điểm.
+các sản giao dịch dữ liệu.
+
+Bố sung các sản phẩm, giải.
+pháp thu thập, xử lý, trao đổi,.
+Làm giàu dữ liệu và biểu diễn.
+Dữ liệu vào Danh mục công.
+Nghệ thuật cao được ưu tiên đầu tư.
+phát triển và Danh mục sản.
+phẩm công nghệ cao được.
+
+Các bộ ngực sử dụng 1h,.
+địa phương.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+hồng bảo mật.
+Triên khai các phương án bảo vệ | Bộ Thông tin và | Bộ Công an, Thường.
+Đảm bảo an toàn thông tin mạng Truyền thông Bộ Quốc phòng.
+
+theo mô hình bảo vệ 4 lớp cho.
+Tât cả hệ thông các cơ sở dữ liệu.
+liệu quốc gia.
+
+phòng, các.
+bộ, ngành chủ trì.
+
+quản các cơ.
+sở dữ liệu.
+
+¬
+
+Đào tạo, phát triển nguồn nhân lực.
+
+- Phát triển các chương trình | Bộ Giáo dục và | Bộ Thông tin | 2024 - 2030.
+
+đào tạo chuyên nghiệp tại các Đào tạo và Truyền.
+trường đại học; tập trung vào thông và các.
+các lĩnh vực như khoa học dữ liệu, ngành liên.
+
+liệu, phân tích và xử lý dữ liệu.
+lớn, bảo mật và quản lý dữ.
+
+quan
+
+
+
+=== TRANG 30 ===
+Nhiệm vụ, giải pháp: Cơ quan chủ trì.
+liệu.
+- Đẩy nhanh tiến trình từ biển.
+khai các mô hình Đại học sô.
+
+- Hợp tác với các doanh | Các bộ, ngành, địa phương.
+nghiệp và tổ chức quốc tế để | phương, doanh.
+cung cấp các cơ hội thực tế và nghiệp.
+
+trao đổi kỹ thuật, cũng như.
+tiếp cận với những công nghệ.
+và lq1.1 (sơng })Ì121Ị) mới, tiên tiền.
+nhất của thê giới về dữ liệu.
+
+- Tăng cường đầu tư cho việc.
+nghiên cứu, phát triển trong.
+lĩnh vực dữ liệu, bao gồm cả.
+việc hỗ trợ các dự án nghiên cứu;.
+cứu tiên tiền và sáng tạo về dữ.
+liệu.
+
+Các bộ, ngành, .
+địa phương.
+
+Ban hành Danh mục dữ liệu.
+mở của ngành, lĩnh vực, của.
+địa phương; triển khai xây.
+dựng và cung cấp dữ liệu mở.
+
+2024 - 2025.
+2024 - 2025.
+
+2024 - 2030.
+
+Ban hành Danh mục dữ liệu.
+lớn và Kế hoạch phát triển dữ liệu.
+liệu lớn thuộc phạm vì quản lý.
+của bộ, ngành, địa phương.
+
+Các bộ, ngành, .
+địa phương.
+
+Xây dựng và ban hành quy chế,.
+chuẩn đối với từng loại dữ liệu.
+thuộc danh mục dữ liệu lớn.
+của ngành, lĩnh vực, FTA.
+phương; quy định kỹ thuật về.
+cấu trúc dữ liệu, quy chế khai.
+thác, sử dụng dữ liệu của các.
+cơ sở dữ liệu quốc gia và các.
+cơ sở dữ liệu thuộc phạm vi.
+quản lý của bộ, ngành, địa.
+phương.
+
+Các bộ, ngành, .
+địa phương.
+
+
+
+=== TRANG 31 ===
+Cơ quan.
+I. Nhiệm vụ, giải pháp: Cơ quan chủ trì phối hợp.
+
+Xây dựng, ban hành các văn | Bộ Thông tin và | Các bộ, ngành | 2024 - 2025.
+bản hướng dẫn kỹ thuật về kết nối . Truyền thông.
+
+nối, tích hợp, chia sẻ dữ liệu.
+giữa các cơ sở dữ liệu quốc.
+gia, cơ sở dữ liệu chuyên.
+ngành, hệ thống thông tin.
+
+| H | Phát triển hạ tầng dữ liệu.
+
+1 | Triển khai Cổng dữ liệu của các bộ, ngành, 2024 - 2025.
+
+Các bộ, ngành, địa phương, địa phương ; .
+
+tích hợp với Cổng dữ liệu.
+
+quốc gia. Tận dụng tối đa cơ.
+
+sở hạ tầng mạng triển khai.
+
+Chính phủ số sẵn có tại bộ,.
+
+ngành, địa phương: ưu tiên sử.
+
+dụng phương án thuê dịch vụ.
+
+trong quá trình triển khai xây.
+
+dựng Cổng dữ liệu.
+
+Xây dựng và củng cố, hoàn thiện bộ, ngành, thường.
+xuyên xuyên.
+
+thiện các hạ tầng thu thập và gieo hạt.
+Thường.
+xuyên xuyên.
+
+|truyền tải dữ liệu tại bộ,.
+ngành, địa phương. Phát triển.
+Hạ tầng Internet vạn vật (IoT).
+phục vụ các ứng dụng nghiệp.
+vụ, chuyên ngành trong triển.
+Khai Chính phủ số gắn kết với.
+phát triển đô thị thông minh,.
+giao thông thông minh, nông.
+nghiệp thông minh, quan trắc.
+tài nguyên, môi trường,... 1.
+các bộ, ngành, địa phương ; kết.
+hợp tối đa với hạ tầng đô thị các.
+tổ chức, cá nhân đã đầu tư,.
+bảo đảm triển khai hiệu quả,.
+tránh chồng chéo, lãng phí.
+Duy trì việc kết nối nền tảng.
+điện toán đám mây của các cơ.
+quan nhà nước tại các bộ,,.
+ngành, địa phương với Nền.
+tảng điện toán đám mây chính.
+phủ, đồng thời kết nối với đám.
+
+Các bộ, ngành, .
+địa phương.
+
+
+
+=== TRANG 32 ===
+7
+. N =- Cơ quan .
+Nhiệm vụ, giải pháp: Cơ quan chủ trì phối hợp.
+mây của các doanh nghiệp đáp.
+ứng được yêu câu nghiệp vụ,.
+tiêu chuẩn, quy củâụ kỹ thuật.
+phục vụ Chính phủ sô.
+
+Thường.
+xuyên xuyên.
+
+2024-2030 .
+
+Thu thập, củng cố và hoàn.
+thiện dữ liệu chủ, cơ sở dữ.
+liệu dùng chung trong cơ sở.
+dữ liệu của bộ, ngành, địa.
+phương, các cơ sở dữ liệu.
+chuyên ngành phục vụ ứng.
+Sử dụng dịch vụ Chính quyền số.
+trong cơ quan nhà nước của.
+các bộ, ngành, địa phương.
+, iây, dụng, cụng cập nền tăng , | Cáo bộ, ngành,.
+Sô tổng hợp, phân tích dữ liệu.
+cấp bộ, cấp tỉnh để lưu trữ tập.
+trung, hướng tới việc hình.
+thành kho dữ liệu dùng chung.
+của bộ, ngành, địa phương.
+phục vụ công tác chỉ đạo điều.
+hành và phát triển kinh tế xã.
+hội.
+
+Phát triển nguồn dữ liệu lớn.
+và xây dựng hồ dữ liệu của bộ,.
+ngành, địa phương. Thu thập.
+và khai thác, làm giàu nguồn.
+dữ liệu lớn phát sinh trong các.
+hoạt động tại các bộ, ngành,.
+địa phương.
+Thực hiện số hóa hồ sơ, kết quả | Các bộ, ngành,.
+quả giải quyết thủ tục hành! địa phương.
+chính theo quy định; thu thập,.
+Phát triển dữ liệu phục vụ chỉ số.
+đạo điều hành của Chính phủ,.
+Thủ tướng Chính phủ và lãnh đạo.
+đạo bộ, ngành, địa phương.
+Phát triển kết nối, chia sẻ dữ liệu.
+
+Các bộ, ngành, 2024 - 2025 ; .
+địa phương.
+
+Các bộ, ngành, .
+địa phương.
+
+địa phương.
+
+Các bộ, ngành, .
+địa phương.
+
+Thường.
+xuyên xuyên.
+
+Thường.
+xuyên xuyên.
+
+Hoàn thiện nền tảng tích hợp,.
+chia sẻ dữ liệu tại bộ, ngành,.
+
+
+=== TRANG 33 ===
+8
+—~ Cơ quan -.
+Cơ quan chủ trì phối hợp: Thời gian.
+
+Các bộ, ngành, Thường trực.
+địa phương xuyên.
+
+Nhiệm vụ, giải pháp.
+
+địa phương kết nối liên thông.
+với nền tảng tích hợp, chia sẻ.
+
+dữ liệu quôc gia.
+
+- Hợp tác xây dựng các bộ dữ liệu.
+liệu lớn theo vùng, miền để.
+cùng tích hợp, chia sẻ, tận.
+dụng tài nguyên dữ liệu dùng.
+chung cho các tỉnh, thành phố.
+thuộc vùng, miền có những.
+đặc trưng và lợi thế tương.
+đồng. Thiết lập các chuỗi giá.
+trị trên cơ sở khai thác dữ liệu.
+liên vùng để thúc đẩy phát.
+triển kinh té.
+
+; - Các địa phương chia sẻ dữ liệu.
+liệu lớn của địa phương với.
+Các bộ, ngành, các địa phương ; .
+khác và từng bước đưa dữ liệu.
+lớn vào ứng dụng trong mọi.
+mặt của đời sống chính trị,.
+kinh tế xã hội của địa.
+phương.
+
+- Bộ, ngành, địa phương ban hành.
+hành các quy định, văn bản.
+hướng dẫn phù hợp với phạm.
+vị quản lý nhà nước của mình.
+đối với hoạt động mở, kết nối,.
+Chia sẻ dữ liệu của doanh.
+nghiệp cho cộng đồng, xem.
+Xét các cơ chế hỗ trợ phù hợp.
+để khuyến khích doanh.
+nghiệp, người dân mở, chia sẻ.
+dữ liệu có giá trị và cùng xây.
+dựng các bộ dữ liệu mở, dữ liệu.
+liệu dùng chung để phục vụ.
+lợi ích chung cho xã hội.
+
+- Chia sẻ dữ liệu thuộc phạm.
+vị quản lý cho các bộ ngành,,.
+địa phương khai thác, sử dụng.
+phục vụ giải quyết thủ tục.
+
+Các bộ, ngành, .
+địa phương.
+
+
+
+=== TRANG 34 ===
+hành chính, cung câp dịch vụ.
+công trực tuyến và phục vụ.
+công tác chỉ đạo, điều hành;.
+khi có yêu cầu.
+
+- Hướng dẫn và hỗ trợ các bộ,
+ngành, địa phương trong việc.
+xây dụng, triển khai Chiến.
+Chiến lược/Kế hoạch phát triển dữ liệu.
+hệu của bộ, ngành, địa phương.
+và kế hoạch thực hiện các.
+chiến lược thành phần.
+
+- Theo dõi, giám sát và đánh.
+Giá kết quả thực hiện. Chiến.
+lược; làm đầu mối tổng hợp.
+Tình hình thực hiện Chiến lược.
+và định kỳ hằng năm báo cáo.
+Thủ tướng Chính phủ, Uỷ ban.
+Quốc gia về chuyển đổi số; tổ.
+Tổ chức sơ kết việc thực hiện.
+Chiến lược đến năm 2025 và.
+xác định các nhiệm vụ, đề án.
+ưu tiên cho giai đoạn tiếp theo.
+đến năm 2030.
+
+- Chủ trì, phối hợp với các bộ,
+ngành, địa phương xây dựng.
+Các tiêu chí, hướng dẫn làm.
+căn cứ để bộ, ngành, địa phương.
+phương xây dựng danh mục.
+dữ liệu mở, danh mục dữ liệu.
+lớn cần ưu tiên phát triển.
+thuộc phạm vi quản lý của bộ,.
+ngành, địa phương, phục vụ.
+chỉ đạo, điều hành của bộ,.
+ngành, địa phương và nhu cầu.
+khai thác dữ liệu thuộc ngành,.
+lĩnh vực từ người dân, doanh.
+nghiệp.
+
+- Hương dẫn, phù hợp với cac.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Các bộ, ngành, | 2024 - 2030.
+
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+
+
+=== TRANG 35 ===
+doanh nghiệp để thúc đẩy phát triển.
+triển hạ tằng dữ liệu quốc gia,.
+phát triển dữ liệu quốc gia, các.
+Trung tâm dữ liệu quốc gia,.
+Trung tâm dữ liệu vùng.
+
+- Đưa các nhiệm vụ về: Tuyên.
+truyền, nâng cao nhận thức và.
+Phối biến kiến thức về dữ liệu.
+số) và: Đào tạo và phát triển.
+Nguồn nhân lực dữ liệu số.
+vào trong nội dung của Đề án.
+, nâng cao nhận thức, phổ cập.
+kỹ năng và phát triển nguôn.
+Nhân lực chuyển đổi số quốc.
+Giai đến năm 2025, định hướng.
+đến năm 2030) để tạo nguôn.
+lực phát huy hiệu quả của nó.
+Chiến lược.
+
+- Xây dựng, đưa bồ sung các.
+Bộ chỉ số đánh giá về phát.
+Triển dữ liệu vào Bộ chỉ số.
+chuyển đổi số (DTI) để đánh.
+Cam kết quá phát triển dữ liệu.
+của các bộ, ngành, địa phương.
+và theo dõi, đánh giá hằng.
+năm.
+
+- Tăng cường thông tin, tuyên truyền.
+Truyền, nâng cao nhận thức.
+của các câp, chính quyền.
+và người dân về vai trò, tầm.
+quan trọng của giá trị dữ liệu,.
+phát triển, khai thác sử dụng,.
+chia sẻ dữ liệu hiệu quả.
+
+- Ban hành các văn bản hướng dẫn.
+dẫn về đảm bảo an toàn thông.
+tin trong công tác kết nối, chia sẻ.
+sẻ dữ liệu; văn bản hướng dẫn;.
+Quy định về thiết lập, vận hành.
+Hệ thống tiếp nhận, kết hợp.
+Dữ liệu phục vụ quản lý nhà.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Bộ Thông tin và Truyền thông.
+Truyền thông.
+
+Các bộ, ngành, | 2024 - 2030.
+địa phương.
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+
+
+=== TRANG 36 ===
+Phát triển, hoàn thiện Hệ.
+Hệ thống thông tin báo cáo Chính.
+phủ và Trung tâm thông tin.
+chỉ đạo điều hành của Chính.
+Phủ, Thủ tướng Chính phủ.
+Phát triển, hoàn thiện hệ thống.
+Cổng Dịch vụ công quốc gia.
+
+Tổ chức hướng dẫn việc thực.
+hiện số hóa hồ sơ, giấy tờ, kết.
+quả giải quyết thủ tục hành.
+chính và tổ chức lưu trữ, khai.
+thác dữ liệu đã số hóa để phục.
+vụ thực hiện giải quyết thủ tục.
+hành chính, cung cấp dịch vụ;.
+
+công trực tuyến theo quy định.
+
+Bộ Công an.
+
+Tổ chức triển khai thực hiện.
+và giám sát thực hiện các quy.
+định pháp lý về bảo vệ dữ liệu.
+cá nhân.
+
+- Chủ trì, phối hợp với các bộ,
+Ngành, địa phương thực hiện.
+việc kết nối liên thông, tích hợp.
+hợp hệ thống định danh và xác.
+thực điện tử với các hệ thống.
+dịch vụ công và khai thác sử.
+dụng, phát huy tối đa hiệu quả.
+Cơ sở dữ liệu quốc gia về dân.
+cư, cơ sở dữ liệu căn cước,.
+xuất nhập cảnh.
+
+- Chủ trì, hướng dẫn, phối hợp.
+với các bộ, ngành, địa phương.
+thực hiện công tác bảo vệ dữ liệu.
+liệu, bảo đảm an ninh dữ liệu.
+
+1
+
+Văn phòng I. Văn phòng II.
+Chính phủ.
+
+Văn phòng.
+Chính phủ.
+
+Bộ Công an.
+
+Bộ Công an .
+
+Cơ quan.
+phối hợp.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+Các bộ, ngành, .
+
+địa phương.
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Thường.
+xuyên xuyên.
+
+Thường.
+xuyên xuyên.
+Thường.
+.. thường xuyên.
+
+Thường.
+xuyên xuyên.
+
+2024 - 2030.
+
+
+
+=== TRANG 37 ===
+12
+
+ư .- Cơ quan : .-
+Cơ quan chủ trì phối hợp.
+Bộ Y tế: Các bộ, ngành, | 2024 - 2025.
+. địa phương.
+
+Các bộ, ngành, .
+địa phương,.
+bệnh viện liên.
+quan
+
+TT
+
+Nhiệm vụ, giải pháp.
+
+Bộ Y tế.
+Xây dựng Nghị định quy định.
+về quản lý dữ liệu y tế.
+
+2 | Xây dựng, tổ chức các dữ liệu.
+y tế, cơ sở dữ liệu quốc gia về.
+y tế, các hệ thống cơ sở dữ liệu.
+liệu chuyên ngành; ứng dụng.
+các công nghệ số đề khai thác.
+dữ liệu hiệu quả phục vụ.
+chuyển đổi số y tế. Tạo lập cơ.
+sở dữ liệu dùng chung và cung.
+ơp rộng rãi cho người dân có.
+thế tra cứu đầy đủ thông tin;.
+số hóa thông tin sức,.
+bệnh án điện tử và liên thông.
+Thông suốt giữa các cơ quan y.
+tê va giữa cơ quan y tê với.
+người dân phục vụ việc tra.
+cứu, theo dõi, khám chữa bệnh.
+
+cho người bệnh khi đến khám.
+chữa bệnh tại các cơ sở y tê.
+
+3 |- Đây mạnh triển khai các nên các bộ ngành,.
+tảng sô y tê. địa f.l1ương,.
+- Xây dựng dữ liệu lớn về bênh viên liên.
+
+Các triệu chứng lâm sàng của các : ho, rắn.
+
+loại bệnh, dữ liệu lớn ngành y.
+Tế từ các thiết bị IoMT.
+(Internet of Medical Things) y.
+tế cá nhân, dữ liệu trợ lý ảo, tự.
+động theo dõi sức cho cá.
+nhân; Xây dựng dữ liệu lớn.
+lưu trữ và truyền hình ảnh số.
+y tế, kết quả xét nghiệm, tập.
+trung cấp trung ương: ứng.
+
+dụng các công nghệ thông.
+mình dựa trên trí tuệ nhân tạo,.
+sử dụng kho dữ liệu lớn về các.
+triệu chứng lâm sàng và kinh.
+nghiệm, khám chữa bệnh để.
+tạo điều kiện chăm sóc y tế.
+
+
+=== TRANG 38 ===
+13
+- A.- .- Cơ quan. -.
+Bộ Giáo dục và Đào tạo.
+
+Thúc đẩy, đưa các môn học về | Bộ Giáo dục và | Các bộ, ngành,! Thường.
+khoa học dữ liệu, phân tích dữ. Đào tạo địa phương xuyên.
+liệu vào chương trình đào tạo liên quan.
+
+của các ngành học khác nhau,.
+
+Đẩy mạnh nghiên cứu khoa học.
+
+học về dữ liệu trong các.
+
+trường đại học và cao đăng sư.
+
+phạm.
+
+Tổ chức thực hiện việc sô hóa | Bộ Giáo dục và.
+
+dữ liệu để xây dựng hệ thống đào tạo địa phương.
+học liệu, sô, chương trình đào liên quan.
+
+tạo, sách giáo khoa sô. Xây.
+dựng các nền tảng tra cứu học.
+liệu số dùng chung cho tất cả.
+các cấp học. Xây dụng mới.
+hoặc kết hợp với đề án hệ tri.
+thức Việt số hóa để làm giàu.
+hệ tri thức phố thông.
+
+Các bộ, ngành, Thường trực.
+xuyên xuyên.
+2024 - 2030.
+
+Cập nhật, hoàn thiện dữ liệu | Bộ Giáo dục và | Bộ Lao động Thương.
+ngành giáo dục, đào tạo. Từng Đào tạo Thương binh xuyên.
+Bước xây dựng dữ liệu lớn về và Xã hội,.
+
+hành vi của người học, người Bảo hiểm Xã.
+
+dạy. Kết nối, liên thông dữ hội Việt Nam,.
+
+liệu ngành giáo dục, đào tạo các trường.
+
+với dữ liệu trong lĩnh vực lao Đại học, Cao.
+
+động, việc làm và dữ liệu bảo đắng.
+
+Hiêm xã hội.
+
+Bộ Nông nghiệp và Phát triển nông thôn.
+
+Tổ chức thực hiện việc xây: | Bộ Nông nghiệp Các bộ, ngành, | 2024 - 2025.
+địa phương.
+
+Xây các bộ dữ liệu ngành NN và Phát triển nông.
+
+Tổ chức thực hiện việc số hóa.
+và quản lý thống nhất hệ thống.
+văn bằng, chứng chỉ, chương.
+trình đào tạo gắn với từng sinh.
+viên, học viên, làm cơ sở tham.
+chiếu, sử dụng trong các hoạt.
+động xã hội. |.
+
+Bộ Giáo dục và Đào tạo.
+Đào tạo.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+
+
+=== TRANG 39 ===
+14
+
+.A . Cơ quan -.
+Nhiệm vụ, giải pháp: Cơ quan chủ trì phối hợp.
+nông nghiệp; Xây dựng và tô thôn liên quan.
+tổ chức triển khai các nên tảng.
+sô dữ liệu nông nghiệp.
+
+2 | Ứng dụng dữ liệu lớn (big): Bộ Nông nghiệp | Các bộ ngành,... Thường.
+data, data), trí tuệ nhân tạo, | và Phát triển nông địa phương xuyên.
+
+Công nghệ viễn thám trong thôn.
+việc tổng hợp, phân tích, đánh giá.
+Giá dữ liệu và khai phá dữ liệu.
+trên nền tảng dữ liệu ngành.
+nông nghiệp.
+
+Bộ Tài nguyên và Môi trường.
+
+1 | Tổ chức triển khai việc số hóa, | Bộ Tài nguyên và | Các bộ, ngành, Thường.
+xuyên xuyên.
+
+Thường.
+xuyên xuyên.
+
+liên quan.
+
+phát triển dữ liệu lớn lĩnh vực địa phương,.
+tài nguyên môi trường. Từng liên quan.
+
+Bước hoàn thiện các hệ thống.
+giám sát, quan trắc môi.
+trường, khí tượng văn, tài.
+nguyên đất, tài nguyên nước.
+toàn quốc qua thiết bị JoT.
+
+Nghiên cứu, triển khai ứng dụng.
+dụng các công nghệ phân tích,.
+xử lý dữ liệu IoT trong việc hỗ
+trợ ra quyết định. Xây dựng,.
+Phát triển hạ tầng dữ liệu.
+không gian địa lý quốc gia,.
+nền tảng bản đồ số quốc gia.
+Bộ Văn hóa, Thể thao và Du lịch.
+
+Bộ Tài nguyên và Môi trường, Các bộ, ngành, .
+Môi trường. Môi trường.
+
+Số hóa và xây dựng dữ liệu về | Bộ Văn hóa, Thể | Các bộ ngành,. Thường.
+các dân tộc Việt Nam, làng Thể thao và Du lịch địa phương xuyên.
+văn hóa, không gian văn hóa liên quan.
+
+các vùng miền, đất nước, con.
+người. Xây dựng và làm giàu.
+kho dữ liệu lớn về văn hóa,.
+nghệ thuật của các dân tộc.
+Việt Nam.
+
+Bộ Văn hóa, Thể.
+Thể thao và Du lịch.
+
+.Bảo đảm kết nối, tích hợp.
+Đông bộ cơ sở dữ liệu về văn.
+hóa nghệ thuật với hệ cơ sở dữ liệu.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Thường.
+xuyên xuyên.
+
+
+=== TRANG 40 ===
+15
+
+. k2: ấ Y .. Cơ quan -.
+
+hệ thống quốc gia, cơ sở dữ liệu.
+của Đề án Hệ tri thức Việt số.
+hóa; ứng dụng hệ thống thông.
+tin địa lý (GIS) trong quản lý,.
+Bảo vệ và phát huy di sản văn.
+hóa.
+
+3 | Tổ chức thực hiện việc số hóa, | Bộ Văn hóa, Thể | Các bộ, ngành, Thường.
+Hình thành thư viện sô cho các Sở Thể thao và Du lịch địa phương xuyên.
+di sản văn hóa, di tích quốc liên quan.
+
+gia, di tích quốc gia đặc biệt;.
+Thu thập và quản lý dữ liệu số.
+về các di sản văn hóa, di tích.
+quốc gia, những di sản trong.
+Danh mục di sản văn hóa phi vật.
+vật thể quốc gia, dữ liệu số về.
+các phong tục văn hóa, truyền thống.
+thống, sức mạnh con người.
+Việt Nam,... Củng cố và hoàn thiện.
+thiện dữ liệu để xây dựng các.
+đề án, chương trình bảo vệ và.
+Phát huy giá trị những di sản.
+trong Danh mục di sản văn hóa.
+hóa phi vật thể quốc gia, bảo.
+Tồn và phát huy các giá trị văn.
+hóa, truyền thống, sức mạnh.
+con người Việt Nam.
+
+Bộ Văn hóa, Thể.
+Thể thao và Du lịch.
+
+Xây dựng dữ liệu lớn về khách.
+du lịch, hành vi tiêu dùng của.
+khách du lịch; Dữ liệu lớn về...
+các chương trình du lịch, tua.
+du lịch, cơ sở lưu trú, cơ sở.
+kinh doanh dịch vụ du lịch;.
+phục vụ việc khai thác sử.
+dụng chung để phát triển du lịch.
+lịch.
+
+Bộ Giao thông vận tải.
+
+Tổ chức thực hiện việc số hóa, | Bộ Giao thông | Các bộ ngành, | Thường.
+Xây dựng dữ liệu và cung cấp vận tải địa phương xuyên.
+dịch vụ dữ liệu cho người dân liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Thường.
+xuyên xuyên.
+
+
+
+=== TRANG 41 ===
+ló
+- Cơ quan -.
+Cơ quan chủ trì phối hợp: Thời gian.
+
+Bộ Giao thông | Các bộ, ngành, Hội Thường.
+vận tải địa phương xuyên.
+liên quan.
+
+Nhiệm vụ, giải pháp.
+
+khai thác sử dụng về mạng;.
+lưới hạ tầng giao thông do.
+trung ương quản lý.
+
+Phát triển dữ liệu lớn quản lý.
+hoạt động của các phương tiện.
+giao thông, dữ liệu về mật độ.
+giao thông thực trên các tuyến.
+đường phục vụ việc điều tiết.
+Giao thông dựa trên dữ liệu và.
+xây dụng, quy hoạch, đầu tư,.
+Phát triển kết cấu hạ tầng giao thông.
+thông.
+
+Bộ Công Thương.
+
+Tổ chức thực hiện việc thu.
+
+Bộ Công Thương | Các bộ ngành,.
+
+Thu thập, phát triển dữ liệu trong địa phương.
+lĩnh vực thương mại điện tử, liên quan.
+
+logistics. Ứng dụng công nghệ.
+Phân tích dữ liệu lớn trong.
+đánh giá hành vi, thói quen,.
+Nhu cầu, sở thích người tiêu.
+dùng.
+
+Phát triển dữ liệu lớn ngành.
+điện, sử dụng dữ liệu lớn để.
+hoạch định xây dụng hệ thống.
+mạng lưới điện thông minh.
+Triển khai ứng dụng dữ liệu.
+lớn và trí tuệ nhân tạo trong.
+các hoạt động điều tiết sản.
+xuất và tiêu thụ điện từ nguồn.
+Năng lượng sạch, thân thiện.
+môi trường.
+
+Bộ Công Thương | Các bộ, ngành.
+địa phương.
+liên quan.
+
+”
+
+Ứng dụng trí tuệ nhân tạo.
+trong điều tiết thị trường, điều.
+tiết sản xuất và phân phối các.
+sản phẩm, dịch vụ thuộc lĩnh vực;.
+vực quản lý của Bộ Công.
+Thương trên cơ sở sử dụng dữ liệu.
+liệu lớn về giám sát thị trường.
+
+Bộ Công Thương | Các bộ ngành,.
+địa phương.
+liên quan.
+
+
+
+=== TRANG 42 ===
+. v. T Cơ quan -.
+
+Bộ Kế hoạch và Đầu tư.
+
+Chủ trị, ; 1 hợp với các ESA, Bộ Kế hoạch và | Các bộ ngành, | Thường.
+ngành, địa phương kết nổi, - Đầu tư địa phương xuyên.
+Chia sẻ dữ liệu giữa cơ sở dữ liên quan.
+
+liệu quốc gia về đăng ký.
+
+doanh nghiệp với các cơ sở dữ liệu.
+
+liệu quốc gia khác.
+
+Xây dựng dữ liệu về tình hình ; xin kế hoạch và | Các bộ ngành, | Thường.
+phát triển kinh tế xã hội, các đầu tư địa phương xuyên.
+dữ liệu dự báo kinh tế: phục liên quan.
+
+vụ ra quyết định điều hành.
+
+chính sách kinh tế vĩ mô.
+Bộ Tài chính.
+
+Chỉ đạo, tổ chức thực hiện: | Tài chính | Các bộ, ngành, | Thường.
+việc thu gom, xây dụng dữ địa phương xuyên.
+liệu lớn về thị trường chứng liên quan.
+
+khoán, về các giao dịch trực.
+
+tuyến trong lĩnh vực tài chính.
+
+Nghiên cứu ứng dụng trí tuệ Java Tải chính | Các bộ ngành, | Thường.
+nhân tạo, các công nghệ phân địa phương xuyên.
+Tích dữ liệu lớn phục vụ việc liên quan.
+phân tích, giám sát thị trường.
+vốn, đánh giá rủi ro tài chính,.
+tác động chính sách và ra.
+quyết định quản lý, điều hành;.
+tài chính.
+| XIH | Bộ Khoa học và Công nghệ.
+Xz1 xây dựng cơ sở dữ liệu quôc chí:l:1l,1:1g.
+xuyên xuyên.
+; Thường.
+xuyên xuyên.
+
+Bộ Khoa học và.
+Công nghệ.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+gia về khoa học và công nghệ,.
+kết nối với cơ sở dữ liệu quốc tế.
+gia về dân cư và các cơ sở dữ liệu.
+liệu quốc gia, cơ sở dữ liệu.
+chuyên ngành của bộ, ngành,.
+địa phương khác có liên quan.
+
+Tổ chức thực hiện xây dựng: | Bộ Khoa học và | Các bộ, ngành.
+Nền tảng chia sẻ dữ liệu: Công nghệ địa phương.
+nghiên cứu khoa học và công liên quan;.
+
+nghệ dùng chung. Phối hợp.
+cùng bộ, ngành, địa phương ; .
+trong việc kêu gọi đóng góp.
+Dữ liệu lên nền tảng.
+
+
+
+=== TRANG 43 ===
+Mục tiêu tạo lập môi trường.
+cho phép cộng đồng khoa học.
+đóng góp, khai thác, chia sẻ.
+dữ liệu nghiên cứu và phát.
+triển các mô hình phân tích dữ liệu.
+liệu, học máy, trí tuệ nhân tạo.
+
+Xây dựng lộ trình thực hiện số.
+hóa dữ liệu ngành khoa học và.
+công nghệ theo từng giai đoạn.
+Nghiên cứu ứng dụng trí tuệ.
+nhân tạo, khai phá dữ liệu đưa.
+ra các báo cáo phân tích, đánh giá.
+giá, tổng hợp các vấn đề tác.
+động đến ngành khoa học và.
+
+công nghệ.
+
+Bộ Khoa học và.
+Công nghệ.
+
+Bộ Lao động - Thương binh và Xã hội.
+
+Tổ chức xây dựng và hình.
+thành cơ sở dữ liệu về lao.
+Lao động - việc làm, an sinh xã hội.
+hội. Đảm bảo hạ tầng kỹ thuật,.
+hướng tới xây dựng và tổ chức.
+Thực hiện cơ sở dữ liệu tích.
+hợp của Bộ, ngành; thực hiện.
+kết nối, tích hợp, chia sẻ dữ liệu.
+liệu lao động - việc làm, an.
+Sinh xã hội với các cơ sở dữ liệu.
+liệu quốc gia, cơ sở dữ liệu.
+của bộ, ngành, địa phương.
+
+Cập nhật các dữ liệu lĩnh vực.
+lao động, người có công và xã.
+Hội lên Cổng dữ liệu Bộ Lao Động.
+Động - Thương binh và Xã hội.
+hội; ưu tiên cập nhật, cung cấp.
+dữ liệu mở; xây dựng hệ thống.
+Tư vấn thông minh dựa trên trí.
+tuệ nhân tạo về chính sách,.
+Thực thi chính sách cho các tổ.
+chức, người dân, doanh nghiệp.
+có nhu cầu; có các phương.
+
+Bộ Lao động -.
+Thương binh và.
+Xã hội.
+
+Bộ Lao động -.
+Thương bình và.
+Xã hội.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+
+
+=== TRANG 44 ===
+19
+Cơ quan -.
+Phối hợp thời gian.
+
+thức phù hợp để tăng khả năng.
+Tiếp cận, khai thác thông tin,.
+dữ liệu của người yếu thế,.
+người khuyết tật.
+
+Thúc đầy, đưa các môn học về |. Bộ Lao động -. | Các bộ ngành, | 2025 - 2030.
+Khoa học dữ liệu, phân tích dữ liệu Thương binh và | địa phương.
+
+liệu vào chương trình đào tạo Xã hội liên quan.
+
+của các trường cao đắng,.
+
+trường trung cấp và các trung tâm.
+
+tâm giáo dục nghề nghiệp.
+
+Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương.
+- Triển khai xây dựng, củng cố: | Ủy ban nhân dân | Các bộ, ngành, | 2024-2025.
+Hạ tầng dữ liệu của địa các tỉnh, thành địa phương.
+phương. phố trực thuộc liên quan.
+- Căn cứ tình hình cụ thể của | . trung ương.
+từng địa phương đề quyết định.
+việc xây dựng và ban hành.
+riêng Kế hoạch/Chiến lược.
+Triển khai thực hiện Chiến.
+lược dữ liệu quốc gia hoặc.
+Lồng ghép các nội dung về.
+phát triển dữ liệu trong các.
+chiến lược, đề án, kế hoạch về.
+Chuyển đổi số của tỉnh, thành.
+phố trên cơ sở chỉ tiết hóa các.
+giải pháp, nhiệm vụ của Chiến?
+lược dữ liệu quốc gia và phù.
+hợp với điều kiện, nhu cầu,.
+định hướng phát triển của địa.
+phương.
+
+2 | Giao Sở Thông tin và Truyền thông | Ủy ban nhân dân | Các bộ, ngành,... Thường.
+Thông tin nơi môi thực hiện | các tỉnh, thành | địa phương.
+fl)iệm vụ ẹìhảt triên dữ liệu, tưị phô trực thuộc liên quan.
+
+Vấn các vấn đề về dữ liệu, là trung ương.
+cơ quan đầu mối quản lý, theo.
+dõi giám sát việc khai thác sử.
+Sử dụng hiệu quả dữ liệu của địa.
+phương và kết nối liên thông.
+với các cơ sở dữ liệu quốc gia.
+
+
+
+=== TRANG 45 ===
+Nhiệm vụ, giải pháp.
+
+Các Hội, Hiệp hội nghề nghiệp.
+Hội, Hiệp hội nghề nghiệp chủ.
+động, tích cực trong việc tham.
+mưu, phản biện chính sách,.
+pháp luật; phát động hội viên,.
+Doanh nghiệp chủ động tham.
+gia phát triển dữ liệu có chất.
+lượng, khai thác sử dụng các.
+nguồn dữ liệu mở, các bộ dữ.
+liệu công cộng quốc gia, chia.
+sẻ đóng góp dữ liệu cho không?
+gian dữ liệu cộng đồng và.
+cùng hưởng lợi ích mà dữ liệu mang lại.
+mang lại; tham gia cùng Bộ.
+Thông tin và Truyền thông;.
+trong việc tuyên truyền, phố.
+biến, khảo sát, đánh giá mức độ.
+phát triển dữ liệu, kết quả triển.
+khai thực hiện Chiến lược dữ.
+liệu quốc gia.
+
+Các bộ, ngành, .
+địa phương.
+liên quan.
+
+Các HĐQT, Hiệp hội.
+nghề nghiệp.
+

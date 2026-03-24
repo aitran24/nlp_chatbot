@@ -1,0 +1,116 @@
+
+=== TRANG 1 ===
+Phòng thi: 4 & 5
+STT Ngày sinh MSV Ngày thi Giờ thi Phòng thiBổ sung ảnh
+1 NGUYEN HONG CHUONG 11-04-2003 101210340 28-12-2025 8:15 AM Test 4
+2 DO CAO CUONG 01-02-2003 102210309 28-12-2025 8:15 AM Test 4
+3 LE TIEN DAT 10-11-2002 102200296 28-12-2025 8:15 AM Test 4
+4 VO VAN DAT 08-03-2003 102210054 28-12-2025 8:15 AM Test 4
+5 LE HUU DUC 14-03-2003 123210056 28-12-2025 8:15 AM Test 4
+6 CAI XUAN HIEU 23-04-2001 121190011 28-12-2025 8:15 AM Test 4
+7 NGUYEN VAN MINH HUNG 11-03-2003 111210094 28-12-2025 8:15 AM Test 4
+8 NGUYEN NHAT HUU 16-02-2002 110200140 28-12-2025 8:15 AM Test 4
+9 HO HOANG QUOC HUY 22-02-2002 106200161 28-12-2025 8:15 AM Test 4
+10 VO NGOC HUY 20-12-2002 103200086 28-12-2025 8:15 AM Test 4
+11 HOANG XUAN LINH 17-04-2003 123210164 28-12-2025 8:15 AM Test 4
+12 LANG TRONG LINH 29-07-2003 103210197 28-12-2025 8:15 AM Test 4
+13 PHAM LOC 30-01-2002 101200400 28-12-2025 8:15 AM Test 4
+14 PHAN LAM NGUYEN 26-12-2002 101200321 28-12-2025 8:15 AM Test 4
+15 DANG KHANH NHI 03-07-2003 118210021 28-12-2025 8:15 AM Test 4
+16 NGUYEN DUC HONG PHONG 28-08-2002 106200205 28-12-2025 8:15 AM Test 4
+17 TRAN CAO QUYET 29-06-2002 101200055 28-12-2025 8:15 AM Test 4
+18 TRAN DINH TAM 09-11-2002 102200071 28-12-2025 8:15 AM Test 4
+19 PHAN NGOC THANG 26-11-2002 102200319 28-12-2025 8:15 AM Test 4
+20 NGUYEN BAO THU 26-06-2003 107210093 28-12-2025 8:15 AM Test 4
+21 NGUYEN DINH KHAM THUAN 12-07-2002 102200115 28-12-2025 8:15 AM Test 4
+22 BUI VINH TOAN 03-11-2002 104200077 28-12-2025 8:15 AM Test 4
+23 PHAN PHU TOAN 19-12-2002 105200217 28-12-2025 8:15 AM Test 4
+24 NGUYEN TRAN NGOC TUONG 25-10-2002 105200184 28-12-2025 8:15 AM Test 4ATTENDANCE LIST
+Thí sinh đi thi lưu ý: 
+* Địa điểm thi: 161 NÚI THÀNH, ĐÀ NẴNG
+* Thí sinh vui lòng tập trung tại phòng chờ tầng 1 trước giờ thi 15 phút.
+* Mang theo Phiếu đăng ký dự thi, thẻ sinh viên và Căn cước/ CCCD/Passport  (có ghi nhận số CCCD/CMND 12 số trong Hộ chiếu), còn hạn sử dụng, nguyên gốc (không sử dụng bản điện tử/bản photo/bản 
+sao công chứng), không bong/rách/nhàu nát/nứt/gãy.
+*Thông tin trên giấy tờ tùy thân không khớp với thông tin trên danh sách sẽ không được dự thi
+*Thí sinh thuộc đối tượng sinh viên nếu không xuất trình được thẻ sinh viên/ giấy xác nhận sinh viên còn hiệu lực tại phòng thi sẽ bị chuyển sang đối tượng ngoài và nộp bù lệ phí theo quy định
+Họ tên
+
+=== TRANG 2 ===
+Phòng thi: 4 & 5
+STT Ngày sinh MSV Ngày thi Giờ thi Phòng thiBổ sung ảnhATTENDANCE LIST
+Thí sinh đi thi lưu ý: 
+* Địa điểm thi: 161 NÚI THÀNH, ĐÀ NẴNG
+* Thí sinh vui lòng tập trung tại phòng chờ tầng 1 trước giờ thi 15 phút.
+* Mang theo Phiếu đăng ký dự thi, thẻ sinh viên và Căn cước/ CCCD/Passport  (có ghi nhận số CCCD/CMND 12 số trong Hộ chiếu), còn hạn sử dụng, nguyên gốc (không sử dụng bản điện tử/bản photo/bản 
+sao công chứng), không bong/rách/nhàu nát/nứt/gãy.
+*Thông tin trên giấy tờ tùy thân không khớp với thông tin trên danh sách sẽ không được dự thi
+*Thí sinh thuộc đối tượng sinh viên nếu không xuất trình được thẻ sinh viên/ giấy xác nhận sinh viên còn hiệu lực tại phòng thi sẽ bị chuyển sang đối tượng ngoài và nộp bù lệ phí theo quy định
+Họ tên
+25 HO TRI BAO 22-01-2001 105190177 28-12-2025 8:15 AM Test 5
+26 NGUYEN DUC BAO 02-01-2002 101210304 28-12-2025 8:15 AM Test 5
+27 LE XUAN BINH 21-10-2003 105210306 28-12-2025 8:15 AM Test 5
+28 LE HUU DO 03-03-1997 105160117 28-12-2025 8:15 AM Test 5
+29 TRAN ANH DUC 24-11-2004 102220099 28-12-2025 8:15 AM Test 5
+30 TRAN DANG MINH DUC 07-04-2004 102220141 28-12-2025 8:15 AM Test 5
+31 NGUYEN HAI DUONG 15-03-2003 106210028 28-12-2025 8:15 AM Test 5
+32 DO BA HAI 13-09-2002 105200359 28-12-2025 8:15 AM Test 5
+33 NGUYEN TAN HAU 15-12-2002 101200267 28-12-2025 8:15 AM Test 5
+34 NGUYEN HUYNH VAN HAU 07-01-2002 101200350 28-12-2025 8:15 AM Test 5Ảnh đã nộp bị nhỏ, mờ. Bổ sung 03 ảnh mới  khi đi 
+thi (ảnh đúng quy định kích cỡ 3x4, không tính 
+khoảng trắng của viền ảnh, ảnh chụp không quá 3 
+tháng, chụp chính diện, rõ mặt, rõ nét, không đeo 
+kính, tóc gọn gàng, trang phục lịch sự)
+35 BUI HOANG HIEU 22-11-2002 110200137 28-12-2025 8:15 AM Test 5
+36 PHAM DINH HOA 18-06-2002 107200281 28-12-2025 8:15 AM Test 5
+37 NGUYEN DUY HOANG 05-01-2005 102230347 28-12-2025 8:15 AM Test 5
+38 DO DOAN TUAN HUNG 13-06-2002 105200407 28-12-2025 8:15 AM Test 5
+39 LE CONG GIA HUY 07-04-2003 105210085 28-12-2025 8:15 AM Test 5
+40 BUI QUANG HUY 06-03-2002 117200040 28-12-2025 8:15 AM Test 5
+41 DO VIET HUY 29-03-2002 105200334 28-12-2025 8:15 AM Test 5
+42 PHAM LE QUANG HUY 13-08-2002 105200452 28-12-2025 8:15 AM Test 5
+43 PHAN PHUNG THE HUY 23-10-2003 101210349 28-12-2025 8:15 AM Test 5
+44 TRAN NHAT MINH 22-08-2002 102200311 28-12-2025 8:15 AM Test 5
+45 HUYNH CONG MINH 06-02-2002 106200133 28-12-2025 8:15 AM Test 5
+46 TRAN VAN NGOC 28-02-2003 105210390 28-12-2025 8:15 AM Test 5
+47 DO HUYNH TRUNG NHAN 26-04-2003 102210320 28-12-2025 8:15 AM Test 5
+48 NGUYEN DUONG BAO NHAT 06-11-2003 102210268 28-12-2025 8:15 AM Test 5
+49 MAI BA MINH NHAT 23-04-2003 118210096 28-12-2025 8:15 AM Test 5
+50 DUONG VAN NHUT 02-01-2001 121190031 28-12-2025 8:15 AM Test 5
+51 NGUYEN HUU PHUC 27-05-2003 102210225 28-12-2025 8:15 AM Test 5
+52 TRINH THAI QUAN 29-09-2003 102210324 28-12-2025 8:15 AM Test 5
+53 VU HOANG QUAN 25-12-2000 105180472 28-12-2025 8:15 AM Test 5
+54 TRAN TRUNG QUAN 17-03-2001 102190035 28-12-2025 8:15 AM Test 5
+55 PHAM TAN QUANG 28-05-2001 110190066 28-12-2025 8:15 AM Test 5
+56 LE VAN BAO QUOC 15-02-2003 102210227 28-12-2025 8:15 AM Test 5
+57 NGUYEN HONG SON 06-07-2003 102210076 28-12-2025 8:15 AM Test 5
+
+=== TRANG 3 ===
+Phòng thi: 4 & 5
+STT Ngày sinh MSV Ngày thi Giờ thi Phòng thiBổ sung ảnhATTENDANCE LIST
+Thí sinh đi thi lưu ý: 
+* Địa điểm thi: 161 NÚI THÀNH, ĐÀ NẴNG
+* Thí sinh vui lòng tập trung tại phòng chờ tầng 1 trước giờ thi 15 phút.
+* Mang theo Phiếu đăng ký dự thi, thẻ sinh viên và Căn cước/ CCCD/Passport  (có ghi nhận số CCCD/CMND 12 số trong Hộ chiếu), còn hạn sử dụng, nguyên gốc (không sử dụng bản điện tử/bản photo/bản 
+sao công chứng), không bong/rách/nhàu nát/nứt/gãy.
+*Thông tin trên giấy tờ tùy thân không khớp với thông tin trên danh sách sẽ không được dự thi
+*Thí sinh thuộc đối tượng sinh viên nếu không xuất trình được thẻ sinh viên/ giấy xác nhận sinh viên còn hiệu lực tại phòng thi sẽ bị chuyển sang đối tượng ngoài và nộp bù lệ phí theo quy định
+Họ tên
+58 TRAN VAN SON 15-01-2003 102210229 28-12-2025 8:15 AM Test 5
+59 LAI MINH SON 15-01-2002 101200371 28-12-2025 8:15 AM Test 5
+60 PHAM HUYNH THANH TAM 15-08-2004 107220358 28-12-2025 8:15 AM Test 5
+61 TRAN HAU TAN 06-06-2002 101200373 28-12-2025 8:15 AM Test 5
+62 VAN LAM THANH 25-03-2003 105210100 28-12-2025 8:15 AM Test 5
+63 DO HOANG THI 25-04-2003 107210145 28-12-2025 8:15 AM Test 5
+64 PHAM TIEN THUAN 27-03-2002 101200336 28-12-2025 8:15 AM Test 5
+65 NGUYEN DUC TIN 11-08-2001 103190039 28-12-2025 8:15 AM Test 5
+66 TRAN VAN TOAN 09-03-2001 102190293 28-12-2025 8:15 AM Test 5
+67 LE BUI MINH TRI 16-03-2003 101210092 28-12-2025 8:15 AM Test 5Ảnh đã nộp đeo kính. Bổ sung 03 ảnh mới khi đi thi  
+(ảnh đúng quy định kích cỡ 3x4, không tính khoảng 
+trắng của viền ảnh, ảnh chụp không quá 3 tháng, chụp 
+chính diện, rõ mặt, rõ nét, không đeo kính , tóc gọn 
+gàng, trang phục lịch sự)
+68 VO THI TRUONG 22-09-2005 118230047 28-12-2025 8:15 AM Test 5
+69 VO DUC VIET 16-08-2003 102210196 28-12-2025 8:15 AM Test 5
+70 CAO DANG VU 09-10-2000 121180048 28-12-2025 8:15 AM Test 5
+71 NGUYEN QUANG VU 23-11-2002 109200173 28-12-2025 8:15 AM Test 5
+72 NGUYEN TRAN THAO VY 24-06-2002 102200121 28-12-2025 8:15 AM Test 5

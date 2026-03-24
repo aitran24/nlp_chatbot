@@ -1,0 +1,656 @@
+
+=== TRANG 1 ===
+ĐẠI HỌC ĐÀ NẴNG, CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+
+TRƯỜNG ĐẠI HỌC BÁCH KHOA Độc lập - Tự do - Hạnh phúc.
+Số: 2455. /QĐ-ĐHBK Đà Nẵng, ngày 05 tháng 5 năm 2025.
+QUYẾT ĐỊNH.
+
+Về việc ban hành Quy định quản lý và sử dụng chứng thư chữ ký số, chữ ký số.
+tại Trường Đại học Bách khoa, Đại học Đà Nẵng.
+
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA.
+
+Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023;.
+
+Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành.
+lập Đại học Đà Nẵng;.
+
+Căn cứ Nghị định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ;
+về công tác văn thư;.
+
+Căn cứ Nghị định số 23⁄2025/NĐ-CP ngày 21 tháng 2 năm 2025 của Chính phủ;
+về quy định về chữ ký điện tử và dịch vụ tin cậy;
+
+Căn cứ Thông tư số 41/2017/TT-BTTTT ngày 19 tháng 12 năm 2017 của Bộ Thông tin.
+Tin và Truyền thông về quy định sử dụng chữ ký số cho văn bản điện tử trong cơ quan.
+nhà nước;.
+
+Căn cứ Thông tư số 10/2020/TT-BGDĐT ngày 14 tháng 5 năm 2020 của Bộ trưởng.
+Bộ Giáo dục và Đào tạo ban hành Quy chế tổ chức và hoạt động của đại học vùng và.
+
+các cơ sở giáo dục đại học thành viên;.
+
+Căn cứ Nghị quyết số 08/NO-HĐĐH ngày 12 tháng 7 năm 2021 của Hội đồng;.
+học Đà Nẵng về việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng ĐẠI HỌC.
+Nghị quyết số 13/NO-HĐĐH ngày 07 tháng 9 năm 2021 của Hội đông Đại học Đà Nẵng.
+
+BÁCH KHÁNH(?
+Về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động của Đại học Đà Lạt.
+N.c.g,~ : , : ủ,: ,: ,>-zí.
+
+Căn cứ Quyết định số 3496/QĐ-ĐHĐN ngày 21/8/2023 của Đại học Đà Nẵng về.
+Việc ban hành Quy định Quản lý và sử dụng chứng thư số, chữ ký số của Đại học Đà Nẵng.
+Nẵng;.
+
+Căn cứ Nghị quyết số 93/NQ-HĐT ngày 18 tháng 12 năm 2023 của Hội đồng;.
+Trường Trường Đại học Bách khoa ban hành Quy chế tổ chức và hoạt động của trường.
+Đại học Bách khoa;.
+
+Căn cứ Quyết định số 1616/QĐ-ĐHBK ngày 13 tháng 5 năm 2022 của Hiệu trưởng.
+Trường Đại học Bách khoa về việc ban hành Quy chế công tác văn thư, lưu trữ của trường.
+Trường Đại học Bách khoa, Đại học Đà Nẵng;
+
+Căn cứ Quyết định số 2888/QĐ-ĐHBK ngày 17 tháng 7 năm 2024 của Hiệu trưởng.
+Trường Đại học Bách khoa về việc Quy định quản lý và sử dụng hệ thống văn bản điện.
+tử tại Trường Đại học Bách khoa, Đại học Đà Nẵng;
+
+Theo đề nghị của Trưởng phòng Phòng T Ồ chức - Hành chính.
+
+
+
+=== TRANG 2 ===
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy định quản lý và sử dụng chứng thư.
+chữ ký số, chữ ký số tại Trường Đại học Bách khoa, Đại học Đà Nẵng.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+
+Điều 3. Trưởng phòng Phòng Tổ chức - Hành chính, Trưởng các đơn vị và các viên.
+Chức, người lao động thuộc Trường Đại học Bách khoa, Đại học Đà Nẵng chịu trách nhiệm.
+thi hành Quyết định này./. ⁄.
+
+Nơi nhận:
+- Như Điều 3;.
+- Hội đồng trường (đề báo cáo);.
+- Ban Giám hiệu;
+- Lưu: VT, TCHC.
+
+
+
+=== TRANG 3 ===
+ĐẠI HỌC ĐÀ NẴNG, CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+TRƯỜNG ĐẠI HỌC BÁCH KHOA Độc lập - Tự do - Hạnh phúc.
+
+QUY ĐỊNH.
+Quản lý và sử dụng chứng thư chữ ký số, chữ ký số.
+tại Trường Đại học Bách khoa, Đại học Đà Nẵng.
+(Kèm theo Quyết định số 620455./QĐ-ĐHBĐK ngày 4 tháng 5 năm 2025 của.
+Hiệu trưởng Trường Đại học Bách khoa).
+Chương I.
+
+QUY ĐỊNH CHUNG.
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng.
+
+1. Phạm vi điều chỉnh.
+
+a) Quy định này quy định về phương thức quản lý, sử dụng chứng thư chữ ký số, chữ.
+ký số phục vụ công tác quản lý, điều hành và các giao dịch hành chính điện tử tại cơ quan.
+Đại học Bách khoa, Đại học Đà Nẵng (sau đây gọi là Trường ĐHBK/Trường) bao gồm.
+việc quản lý và sử dụng chứng thư chữ ký số, chữ ký số đối với các đơn vị và cá nhân thuộc.
+phạm vi quản lý của Trường.
+
+b) Quy định này không quy định việc sử dụng chứng thư chữ ký số, chữ ký số đối với.
+văn bản điện tử chứa thông tin thuộc danh mục bí mật Nhà nước theo quy định của Luật.
+Bảo vệ bí mật Nhà nước năm 2018; các văn bản nội bộ của tổ chức Đảng, Đoàn thể không?
+thuộc phạm vi quản lý hành chính của Trường.
+
+c) Quy định này quy định đối với văn bản hành chính điện tử thuộc thẩm quyền ban.
+hành của Trường ĐHBK, bao gồm văn bản quy phạm nội bộ, văn bản chỉ đạo, điều hành,.
+văn bản giao dịch hành chính, trừ các trường hợp nêu tại điểm b khoản 1 Điều này.
+
+d) Quy định này không áp dụng đối với chữ ký số sử dụng trong giao dịch điện tử với.
+cơ quan Thuế, Bảo hiểm xã hội, Kho bạc Nhà nước và các hệ thống dịch vụ công khác,.
+Nếu các hệ thống này yêu cầu sử dụng chứng thư chữ ký số do tổ chức cung cấp dịch vụ.
+chứng thực chữ ký số chuyên dùng cấp.
+
+đ) Đối với các trường hợp đặc biệt không thuộc phạm vi quy định tại các điểm trên, .
+Hiệu trưởng xem xét, quyết định trên cơ sở đề xuất của đơn vị quản lý chữ ký số hoặc theo.
+quy định của pháp luật hiện hành.
+
+2. Đối tượng áp dụng.
+
+) Quy định này áp dụng đối với các đơn vị thuộc và trực thuộc Trường ĐHBK (sau đây).
+
+gọi tắt là các đơn vị); các cá nhân liên quan được cấp, sử dụng chứng thư, chữ ký sô, chữ ký.
+số cho các văn bản điện tử trong phạm vi công tác tại các đơn vị.
+
+Điều 2. Giải thích từ ngữ.
+
+Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:
+
+1.” là một chuỗi các số nhị phân (0 và 1) dùng trong các hệ thống mật mã.
+
+2. số: là việc đưa bí mật vào một chương trình phần mềm để tự động tạo.
+và gắn chữ ký số vào thông điệp dữ liệu.
+
+
+
+=== TRANG 4 ===
+3. .Thuê bao: là cơ quan, tổ chức, cá nhân giao kết hợp đồng cung cấp và sử dụng.
+dịch vụ tin cậy với tổ chức cung cấp dịch vụ tin cậy.
+
+4. Chứng thư chữ ký số có hiệu lực: là chứng thư chữ ký số chưa hết hạn, không bị.
+tạm dừng hoặc bị thu hồi.
+
+4. Chữ ký điện tử: là chữ ký được tạo lập dưới dạng dữ liệu điện tử gắn liền hoặc.
+Kết hợp một cách lô gíc với thông điệp dữ liệu để xác nhận chủ thể ký và khẳng định sự.
+chấp thuận của chủ thể đó đồi với thông điệp dữ liệu.
+
+5. ký số: là chữ ký điện tử sử dụng thuật toán không đối xứng, gồm.
+bí mật và công khai, trong đó bí mật được dùng để ký số và công khai.
+được dùng để kiểm tra chữ ký số. Chữ ký số bảo đảm tính xác thực, tính toàn vẹn và tính.
+chống chối bỏ nhưng không bảo đảm tính bí mật của thông điệp dữ liệu.
+
+6. Chứng thư chữ ký điện tử: là thông điệp dữ liệu nhằm xác nhận cơ quan, tổ chức,.
+cá nhân được chứng thực là người ký chữ ký điện tử. Chứng thư chữ ký điện tử đối với chữ.
+ký số được gọi là chứng thư chữ ký số.
+
+7. Các từ ngữ và định nghĩa khác không quy định tại văn bản này được hiểu theo cách.
+giải thích quy định tại Điều 3, Nghị định số 23/2025/NĐ-CP ngày 21/02/2025 của Chính.
+Chính phủ ban hành quy định về chữ ký điện tử và dịch vụ tin cậy (sau đây viết tắt là Nghị định.
+số 23/2025/NĐ-CP).
+
+Điều 3. Nguyên tắc quản lý và sử dụng chứng thư chữ ký số, chữ ký số.
+
+1. Chữ ký số phải gắn kèm văn bản điện tử sau khi ký số.
+
+2. Văn bản điện tử được ký số phải đảm bảo tính xác thực, tính toàn vẹn, xuyên suốt.
+quá trình trao đồi, xử lý và lưu trữ văn bản điện tử được ký số.
+
+3. Việc sử dụng chữ ký số được thực hiện từng bước theo lộ trình thích hợp để đạt.
+hiệu quả tốt nhất trong giao dịch điện tử.
+
+4. Triển khai sử dụng chữ ký số phải phù hợp với thực tiễn, không làm ngưng trệ công.
+tác văn thư lưu trữ, hành chính khi áp dụng chữ ký số.
+
+5. Việc quản lý, sử dụng chứng thư chữ ký số, chữ ký số phải bảo đảm an toàn, về an ninh.
+toàn thông tin mạng, pháp luật về an ninh mạng và quy định khác của pháp luật có liên quan.
+quan khi thực hiện giao dịch điện tử.
+
+Điều 4. Giá trị pháp lý của chữ ký số và văn bản điện tử.
+
+1. Trong trường hợp pháp luật quy định văn bản cần có chữ ký thì yêu cầu đối với.
+Một thông điệp dữ liệu được xem là đáp ứng nếu thông điệp dữ liệu đó được ký bằng chữ.
+ký số và chữ ký số đó được đảm bảo an toàn theo quy định tại Điều 5 Nghị định số.
+30/2020/NĐ-CP.
+
+2. Trong trường hợp pháp luật quy định văn bản cần được đóng dấu của cơ quan, tổ chức.
+chức thì yêu cầu đó đối với một thông điệp dữ liệu được xem là đáp ứng nếu thông điệp.
+Dữ liệu đó được ký bởi chữ ký số cơ quan, tổ chức và chữ ký số đó được đảm bảo an toàn.
+theo quy định tại Điều 5 Nghị định số 30/2020/NĐ-CP.
+
+\.
+
+⁄>ý
+
+
+=== TRANG 5 ===
+3. Văn bản điện tử được ký số bởi người có thẩm quyền và ký số của cơ quan, tổ chức.
+theo quy định của pháp luật có giá trị pháp lý như bản gôc văn bản giây.
+
+4. Chữ ký số trên văn bản điện tử phải đáp ứng đầy đủ các quy định của pháp luật.
+
+5. Chữ ký số được xem là chữ ký điện tử an toàn khi đáp ứng các điều kiện sau:
+
+a) Chữ ký số được tạo ra trong thời gian chứng thư chữ ký số có hiệu lực và kiểm tra;.
+được băng công khai ghi trên chứng thư chữ ký sô đó.
+
+b) Chữ ký số được tạo ra bằng việc sử dụng bí mật tương ứng với công.
+khai ghi trên chứng thư chữ ký sô do một trong các tô chức sau đây câp:
+
+- Tổ chức cung cấp dịch vụ chứng thực chữ ký số quốc gia;
+
+- Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ;
+
+- Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng:
+
+- Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng của các cơ quan, tổ chức;.
+chức được cấp giấy chứng nhận đủ điều kiện đảm bảo an toàn cho chữ ký sô chuyên dùng.
+
+Điều 5. Các hành vi bị nghiêm cấm.
+
+1. Cản trở các cá nhân, đơn vị sử dụng chữ ký số.
+
+2. Sử dụng các công cụ, chương trình hay bất cứ hình thức nào khác làm thay đổi dữ liệu.
+liệu hoặc làm hư hỏng thiết bị lưu bí mật hoặc đánh cặp bí mật.
+
+3. Cản trở, thay đổi, làm sai lệch hoặc ngăn chặn trái phép quá trình ưuyền, gửi, nhận.
+văn bản điện tử đã ký sô.
+
+4. Tạo ra hoặc phát tán chương trình, phần mềm làm rối loạn, thay đổi, phá hoại hệ thống.
+điều hành hoặc có hành vi khác nhăm phá hoại hạ tâng công nghệ về giao dịch điện tử.
+
+5. Trực tiếp hoặc gián tiếp phá hoại hệ thống cung cấp dịch vụ chứng thực chữ ký số.
+của tổ chức cung cấp dịch vụ chứng thực chữ ký số; cản trở hoạt động cung câp và sử dụng.
+dịch vụ chứng thực chữ ký số; làm giả hoặc hướng dẫn người khác làm giả chứng thư chữ.
+ký sô.
+
+6. Trộm cắp, gian lận, làm giả, mạo nhận, chiếm đoạt hoặc sử dụng trái phép chữ ký.
+số và thiết bị lưu bí mật hoặc bí mật của đơn vị, cá nhân.
+
+7. Sử dụng chữ ký số nhằm chống lại Nhà nước Cộng xã hội chủ nghĩa Việt Nam,.
+gây mất an ninh, trật tự, an toàn xã hội hoặc tiến hành các hoạt động khác trái với pháp.
+luật, đạo đức xã hội.
+
+8. Hành vi khác bị nghiêm cấm theo quy định của luật.
+
+Chương II.
+QUẢN LÝ VÀ SỬ DỤNG CHỨNG THƯ, CHỮ KÝ SÓ, CHỮ KÝ SÓ.
+
+Điều 6. Nội dung, thời hạn có hiệu lực, định dạng của chứng thư chữ ký số.
+
+1. Nội dung chứng thư chữ ký số thực hiện theo quy định tại Điều 6, Nghị định số.
+23/2025/NĐ-CP.
+
+2. Thời hạn có hiệu lực của chứng thư chữ ký số thực hiện theo quy định tại Điều 7,.
+Nghị định số 23/2025/NĐ-CP.
+
+1- t1: t.
+
+: .C.
+
+
+=== TRANG 6 ===
+3. Khi cấp, phát hành chứng thư chữ ký điện tử, chứng thư chữ ký số, cơ quan, tổ chức;.
+chức tạo lập chữ ký điện tử chuyên dùng, các tổ chức cung cấp dịch vụ tin cậy phải tuân.
+Thủ quy định về định dạng chứng thư chữ ký điện tử, định dạng chứng thư chữ ký số theo.
+quy định của Bộ trưởng Bộ Thông tin và Truyền thông.
+
+Điều 7. Người có thẩm quyền sử dụng chữ ký số và chứng thư chữ ký số.
+
+1. Chữ ký số của cơ quan, tổ chức và người có thẩm quyền của cơ quan, tổ chức được.
+cấp, phát hành chứng thư chữ ký số theo quy định tại Điều 13 của Nghị định số.
+23/2025/NĐ-CP chỉ được sử dụng để thực hiện các giao dịch và các hoạt động theo đúng.
+thẩm quyền của cơ quan, tổ chức và chức danh được cấp, phát hành chứng thư chữ ký số.
+
+2. Việc ký thay, ký thừa lệnh theo quy định của pháp luật thực hiện bởi người được.
+giao, quyền sử dụng chữ ký số của mình, được nhiều căn cứ vào chức danh của người ký.
+số ghi trên chứng thư chữ ký số.
+
+Điều 8. Nghĩa vụ của người ký trước khi thực hiện ký số.
+
+1. Trước khi ký số, người ký phải thực hiện quy trình kiểm tra trạng thái chứng thư.
+chữ ký số như sau:
+
+a) Kiểm tra trạng thái chứng thư chữ ký số của mình trên hệ thống thông tin của cơ quan;.
+quan, tổ chức tạo lập cấp, phát hành chứng thư chữ ký số đó.
+
+b) Kiểm tra trạng thái chứng thư, chữ ký số của tổ chức tạo lập, phát hành chứng thư;.
+chữ ký số cho mình trên hệ thống chứng thực dịch vụ tin cậy của tổ chức cung cấp dịch vụ.
+chứng thực điện tử quốc gia.
+
+c) Trường hợp kết quả kiểm tra tại các điểm a và điểm b khoản này đồng thời có hiệu lực;.
+lực, người ký thực hiện ký số. Trường hợp kết quả kiểm tra tại điểm a hoặc điểm b khoản.
+này là không có hiệu lực, người ký số không thực hiện ký số.
+
+2. Sử dụng phần mềm ký số, phần mềm kiểm tra chữ ký số phải đáp ứng yêu cầu tại.
+Điều 17 của Nghị định số 23/⁄2025/NĐ-CP.
+
+Điều 9. Nghĩa vụ của người nhận khi nhận thông điệp dữ liệu được ký số.
+
+1. Trước khi chấp nhận chữ ký số của người ký số, người nhận phải kiểm tra các.
+thông tin sau:
+
+a) Trạng thái chứng thư, chữ ký số, phạm vi sử dụng, giới hạn trách nhiệm và cách thức;.
+Thông tin trên chứng thư, chữ ký, số của người ký phải bảo đảm được định danh theo quy.
+định pháp luật về định danh và xác thực điện tử.
+
+b) Chữ ký số phải được tạo bởi bí mật tương ứng với công khai trên chứng.
+thư chữ ký số của người ký.
+
+c) Đối với chữ ký số được tạo ra bởi chứng thư, chữ ký số nước ngoài được công nhận.
+Tại Việt Nam, người nhận phải kiểm tra hiệu lực chứng thư chữ ký số trên cả hệ thống.
+chứng thực dịch vụ tin cậy của tổ chức cung cấp dịch vụ chứng thực điện tử quốc gia và.
+hệ thống cung cấp dịch vụ chứng thực chữ ký điện tử của tổ chức nước ngoài.
+
+2. Người nhận phải thực hiện quy trình kiểm tra trạng thái chứng thư, chữ ký số như.
+sau:
+
+HAGL - U LAI.
+
+. / À.
+
+
+=== TRANG 7 ===
+a) Kiểm tra trạng thái chứng thư, chữ ký số tại thời điểm thực hiện ký số, phạm vi sử dụng;.
+dụng, giới hạn trách nhiệm và các thông tin trên chứng thư chữ ký số đó theo quy định tại.
+Điều 6 của Nghị định 23/2025/NĐ-CP: trên hệ thống thông tin của cơ quan, tổ chức tạo lập.
+cấp, phát hành chứng thư chữ ký số đó.
+
+b) Trong trường hợp người ký số sử dụng chứng thư chữ ký số công cộng do tổ chức;.
+cung cấp dịch vụ chứng thực chữ ký số công cộng cấp: kiểm tra trạng thái chứng thư chữ.
+ký số công cộng của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng đã phát.
+hành chứng thư chữ ký số công cộng đó tại thời điểm thực hiện ký số trên hệ thống chứng.
+thực dịch vụ tin cậy của tổ chức cung cấp dịch vụ chứng thực điện tử quốc gia.
+
+c) Chữ ký số trên thông điệp dữ liệu chỉ có hiệu lực khi kết quả kiểm tra tại các điểm.
+a và điểm b khoản này đồng thời có hiệu lực.
+
+3. Người nhận chịu trách nhiệm về việc chấp nhận chứng thư chữ ký số trong các.
+trường hợp sau:
+
+a) Không tuân thủ các quy định tại khoản 1 và khoản 2 Điều này:
+
+b) Đã biết hoặc được thông báo về tình trạng tạm dừng, thu hồi, hết hạn chứng thư;.
+chữ ký số của thuê bao.
+
+4. Sử dụng phần mềm kiểm tra chữ ký số đáp ứng yêu cầu tại Điều 17 của Nghị định.
+số 23/2025/NĐ-CP.
+
+Điều 10. Quy trình thực hiện ký số trên văn bản điện tử.
+
+1, Quy trình ký số trên văn bản điện tử sử dụng một chữ ký số của đơn vị đề phát.
+hành.
+
+- Bước 1: Soạn tập tin văn bản, trình ký duyệt, lấy số, đóng dấu (như phát hành văn).
+bản giấy).
+
+- Bước 2: Quét hoặc chuyển đổi văn bản trình ký thành tập tin có định dạng .pdf.
+
+- Bước 3: Văn thư sử dụng chữ ký số của đơn vị ký số lên tập tin có định dạng .pdf.
+Thực hiện ở Bước 2;.
+
+- Bước 4: Phát hành văn bản điện tử đã ký số.
+
+2. Quy trình ký số trên văn bản điện tử sử dụng hai chữ ký số: 01 chữ ký số cá nhân,.
+01 chữ ký số của đơn vị để phát hành văn bản.
+
+- Bước 1: Đơn vị soạn thảo có trách nhiệm soạn thảo văn bản điện tử và thống nhất.
+nội dung với Hiệu trưởng (hoặc Phó Hiệu trưởng được phân công phụ trách mảng công.
+tác) và thể thức trình bày văn bản với Phòng Tổ chức - Hành chính. Sau khi hoàn thành.
+văn bản điện tử, đăng nhập vào hệ thống và tải tài liệu để tiến hành khai báo người nhận.
+ký số theo trình tự thiết lập;.
+
+- Bước 2: Lãnh đạo đơn vị chủ trì soạn thảo ký nháy vào vị trí ký nháy nội dung trên.
+văn bản điện tử đã được thiết lập trong Bước 1;.
+
+- Bước 3: Người được giao trách nhiệm kiểm tra hình thức, thể thức và kỹ thuật trình.
+bày văn bản, ký nháy vào vị trí ký nháy nội dung trên văn bản điện tử đã được thiết lập.
+trong Bước 1;.
+
+
+
+=== TRANG 8 ===
+- Bước 4: Lãnh đạo trường ký số văn bản theo hình thức chữ ký số của người có.
+Thẩm quyền trên văn bản điện tử đã được thiết lập trong Bước 1;.
+
+- Bước 5: Văn thư Trường thực hiện lấy số và ngày, tháng, năm ban hành văn bản.
+Số của văn bản đi là duy nhất, thống nhất giữa hệ thống văn bản điện tử với văn bản giấy,.
+được cấp theo thứ tự và trình tự thời gian trong năm. Văn thư sử dụng chữ ký số của đơn.
+vị, tổ chức ký số lên văn bản điện tử đã được ký duyệt theo hình thức chữ ký số của đơn vị.
+và phát hành văn bản điện tử đã được ký số.
+
+3. Quy trình ký số đối với các văn bản nội bộ giữa các đơn vị Phòng, Khoa và Trung tâm.
+
+- Bước 1: Viên chức được phân công có trách nhiệm soạn thảo văn bản theo nội dung.
+yêu cầu của lãnh đạo đơn vị, trình cho lãnh đạo đơn vị xem xét, cho ý kiến;
+
+- Bước 2: Sau khi văn bản đã hoàn chỉnh về nội dung và thể thức, lãnh đạo đơn vị ký.
+Dùng chữ ký số cá nhân ký số lên văn bản và chuyền văn bản cho văn thư đơn vị hoặc giáo.
+vụ khoa làm thủ tục phát hành và lưu trữ theo quy định.
+
+4. Đối với các tổ chức, cá nhân xin chứng nhận, xác nhận bằng chữ ký số phải gửi.
+văn bản về Phòng, Trung tâm chức năng được giao nhiệm vụ quản lý lĩnh vực xin chứng.
+nhận, xác nhận để tiền hành các bước theo quy định tại khoản 2, Điều 8 Quy định này.
+
+Điều 11. Sao y từ văn bản giấy sang văn bản điện tử.
+
+1. Sao từ văn bản giấy sang điện tử: được thực hiện bằng việc số hóa văn bản giấy.
+(định dạng .pd£, phiên bản 1.4 trở lên, ảnh màu, độ phân giải tối thiểu 200 dpi, tỷ lệ số hóa.
+100%) và ký số đơn vị.
+
+2. Thể thức và kỹ thuật trình bày bản sao điện tử:
+
+a) Vị trí: góc trên, bên phải, trang đầu của văn bản.
+
+b) Thông tin: hình thức sao, tên đơn vị sao văn bản, thời gian ký (ngày tháng năm;.
+giờ phút giây; múi giờ Việt Nam theo tiêu chuẩn ISO 8601) được trình bày bằng phông.
+chữ Times New Roman, chữ in thường, kiểu chữ đứng, cỡ chữ 10, màu đen.
+
+Điều 12. Kiểm tra hiệu lực chứng thư chữ ký số.
+
+Việc kiểm tra hiệu lực của chứng thư chữ ký số được thực hiện theo quy định tại Điều.
+7 Nghị định số 23/2025/NĐ-CP về thời hạn có hiệu lực của chứng thư chữ ký điện tử,.
+chứng thư chữ ký số.
+
+Điều 13. Điều kiện đảm bảo an toàn cho chữ ký số.
+
+1. Chữ ký số được tạo ra trong thời gian chứng thư chữ ký số có hiệu lực và kiểm tra.
+được bằng khoá công khai ghi trên chứng thư chữ ký số có hiệu lực đó.
+
+2. Chữ ký số được tạo ra bằng việc sử dụng bí mật tương ứng với công.
+khai ghi trên chứng thư số do tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng.
+câp.
+
+3. bí mật chỉ thuộc sự kiểm soát của người ký tại thời điểm ký.
+
+
+
+=== TRANG 9 ===
+Điều 14. Soạn thảo, ký ban hành, thủ tục trình ký, quy trình quản lý, giải quyết.
+văn bản, lập hồ sơ công việc.
+
+Việc soạn thảo, ký ban hành, thủ tục trình ký, quy trình quản lý, giải quyết văn bản,.
+Lập hồ sơ công việc thực hiện theo Quyết định số 1616/QĐ-ĐHBK ngày 13/5/2022 của Bộ.
+Hiệu trưởng Trường Đại học Bách khoa ban hành Quy định về việc ban hành Quy chế công.
+tác văn thư, lưu trữ của Trường Đại học Bách khoa, Đại học Đà Nẵng.
+
+Điều 15. Lưu trữ văn bản điện tử.
+
+Việc lưu trữ văn bản điện tử căn cứ theo quy định tại khoản 2, Điều 19 Nghị định.
+30/2020/NĐ-CP đảm bảo nguyên tắc lưu trữ, bảo quản và truy cập văn bản điện tử theo.
+đúng quy định hiện hành.
+
+Bản gốc văn bản điện tử phải được lưu trữ trên hệ thống văn thư của Trường Đại học.
+Bách khoa, ĐH, ĐHQG và đồng thời được lưu trữ trên nền tảng Office 365 (OneDrive) đó.
+Trường quản lý, đảm bảo các biện pháp an toàn, bảo mật thông tin theo quy định về bảo mật.
+vệ dữ liệu số của Nhà nước. Việc truy cập, quản lý và sao lưu dữ liệu văn bản điện tử phải.
+Tuân theo quy định về an toàn thông tin và quy trình quản lý tài liệu điện tử do Trường ban hành.
+hành.
+
+Chương II.
+TÔ CHỨC THỰC HIỆN.
+
+Điều 16. Thắm quyền quản lý thuê bao, trách nhiệm quản lý thuê bao.
+
+1. Thấm quyền quản lý thuê bao.
+
+a) Hiệu trưởng uỷ quyền cho Tổ Công nghệ thông tin thực hiện trách nhiệm của người.
+quản lý thuê bao của các đơn vị, cá nhân thuộc Trường ĐHBK.
+
+b) Cá nhân trong các đơn vị thuộc và trực thuộc Trường ĐHBK thực hiện trách nhiệm.
+của người quản lý thuê bao với chứng thư chữ ký số được cấp.
+
+2. Trách nhiệm quản lý thuê bao.
+
+a) Xem xét, đề xuất danh sách thuê bao đề nghị cấp, gia hạn, thu hồi chứng thư chữ.
+ký số.
+
+b) Chịu trách nhiệm về tính chính xác của các thông tin về thuê bao đề nghị cấp, giá;.
+hạn, thu hồi chứng thư chữ ký số.
+
+c) Tiếp nhận, bàn giao chứng thư, chữ ký số cho thuê bao thuộc thẩm quyền quản lý;.
+theo quy định.
+
+d) Hướng dẫn, kiểm tra, quản lý các thuê bao thuộc thẩm quyền quản lý trong quá trình.
+trình quản lý, sử dụng chứng thư chữ ký số.
+
+đ) Quản lý, lưu trữ hồ sơ đề nghị cấp, gia hạn, thu hồi chứng thư chữ ký số của thuê;.
+bao thuộc quyền quản lý và các biên bản giao nhận chứng thư chữ ký số.
+
+e) Người có thẩm quyền ký số có trách nhiệm bảo quản an toàn bí mật cá nhân.
+
+g) Người đứng đầu cơ quan, tổ chức có trách nhiệm giao cho văn thư quản lý, sử dụng.
+bí mật con dâu theo quy định.
+
+
+
+=== TRANG 10 ===
+Điều 17. Trách nhiệm của Tổ Công nghệ thông tin.
+
+1. Chịu trách nhiệm hỗ trợ cài đặt phần mềm ký số và hướng dẫn kỹ thuật trong quá trình.
+trình sử dụng chữ ký số cho viên chức được cấp chứng thư chữ ký số, chữ ký số.
+
+2. Có trách nhiệm phân công và cử viên chức tiếp nhận chứng thư, chữ ký số, tiếp.
+nhận chuyển giao việc cài đặt phần mềm ký số và hướng dẫn sử dụng chữ ký số tại trường.
+ĐHBK.
+
+3. Có trách nhiệm phân công và cử nhân sự quản lý, tiếp nhận, lập danh.
+sách quản lý các thuê bao của cá nhân, các đơn vị thuộc Trường ĐHBK. Trực tiếp gửi.
+thông tin đề nghị câp, gia hạn, thay đổi nội dung thông tin, thu hồi chứng thư, chữ ký sô.
+cho cá nhân, các đơn vị thuộc và trực thuộc Trường.
+
+4. Phối hợp với các đơn vị liên quan tích hợp chữ ký số vào các phần mềm ứng dụng.
+
+5. Tham mưu cho lãnh đạo trường thực hiện các biện pháp đảm bảo an toàn thông.
+tn.
+
+Điều 18. Trách nhiệm của Phòng Tổ chức - Hành chính.
+
+1. Chủ trì, hướng dẫn các đơn vị thuộc và trực thuộc Trường ĐHBK triển khai Quy chế.
+định này và các văn bản khác có liên quan đến công tác quản lý, sử dụng chứng thư chữ ký.
+sô, chữ ký sô trong các đơn vị thuộc và trực thuộc Trường.
+
+2. Thống kê, theo dõi việc sử dụng chứng thư chữ ký số của các đơn vị thuộc và trực.
+thuộc Trường ĐHBK; định kỳ báo cáo các cơ quan câp trên theo quy định.
+
+3. Thường xuyên kiểm tra việc quản lý và sử dụng chứng thư chữ ký số, chữ ký số.
+của cơ quan đơn vị đảm bảo đúng theo quy định.
+
+4. Thực hiện đầy đủ các quy định, quy trình quản lý, sử dụng chứng thư chữ ký số và.
+tuân thủ các quy định của pháp luật vê quản lý, sử dụng chứng thư sô.
+
+5. Khi có sự thay đổi liên quan đến bổ nhiệm, miễn nhiệm, luân chuyển, từ chức thì.
+thu hôi chứng thư chữ ký sô theo quy định.
+
+6. Thực hiện ký số văn bản điện tử và phát hành văn bản điện tử đã ký số theo quy định.
+
+7. Thực hiện việc lưu trữ văn bản điện tử theo quy định hiện hành.
+
+Điều 19. Trách nhiệm của Trưởng các đơn vị.
+
+1. Chịu trách nhiệm trước Hiệu trưởng trong việc triển khai, giám sát và tổ chức thực hiện.
+hiện ứng dụng chữ ký sô tại đơn vị mình theo quy định của pháp luật.
+
+2. Tổ chức triển khai sử dụng có hiệu quả chứng thư chữ ký số, chữ ký số của các cá nhân.
+nhân, các đơn vị thuộc thâm quân quản lý, đảm bảo an toàn thông tin và tuân thủ quy định.
+pháp luật.
+
+3. Trực tiếp gửi thông tin đề nghị cấp, gia hạn, thay đổi nội dung thông tin, thu hồi.
+
+Chứng thư chữ ký sô, riêng cho cá nhân thuộc thẩm quyền quản lý theo quy định pháp.
+luật và hướng dẫn của cơ quan có thâm quyền.
+
+4. Thực hiện việc áp dụng chữ ký số trong ký số, gửi, nhận văn bản điện tử trong nội.
+Của đơn vị, giữa các đơn vị trực thuộc và với các cơ quan, tổ chức bên ngoài theo quy định.
+về giao dịch điện tử.
+
+
+=== TRANG 11 ===
+5. Thực hiện việc lưu trữ, bảo quản văn bản điện tử theo quy định pháp luật về lưu.
+trữ, bảo mật thông tin và thời gian lưu trữ hồ sơ điện tử.
+
+Điều 20. Trách nhiệm của người làm công tác công nghệ thông tin tại đơn vị;.
+
+1. Chịu trách nhiệm cài đặt, quản lý, bảo trì hệ thống phần mềm, thiết bị công nghệ;.
+thông tin tại đơn vị, bao gồm phần mềm ký số và các hệ thống thông tin liên quan. Hỗ trợ.
+và hướng dẫn kỹ thuật trong quá trình sử dụng chữ ký số cho viên chức được cấp chứng.
+thư chữ ký số, chữ ký số tại đơn vị mình.
+
+2. Tham mưu cho lãnh đạo và trực tiếp triển khai các biện pháp đảm bảo an toàn, an ninh.
+An ninh thông tin theo quy định pháp luật, bao gồm quản lý tài khoản truy cập, bảo mật dữ liệu.
+liệu và phòng chống tấn công mạng trong Nhà trường.
+
+Điều 21. Trách nhiệm của viên chức làm công tác văn thư.
+
+1. Thực hiện ký số văn bản điện tử và phát hành văn bản điện tử đã ký số theo quy.
+định.
+
+2. Chịu trách nhiệm trước Trưởng đơn vị và Hiệu trưởng về: đảm bảo an toàn và xác.
+thực thông tin văn bản điện tử; quản lý, sử dụng thiết bị lưu khoá bí mật, chứng thư chữ ký.
+số chuyên dùng và chịu trách nhiệm trước pháp luật khi vi phạm các hành vi nghiêm cấm.
+theo quy định.
+
+3. Không giao thiết bị lưu khoá bí mật của đơn vị cho người khác khi chưa được phép.
+bằng văn bản của Hiệu trưởng.
+
+4. Phải trực tiếp ký số của đơn vị vào văn bản, tài liệu do đơn vị ban hành, bao gồm.
+cả các giao dịch điện tử khác của đơn vị khi cần sử dụng chữ ký số của đơn vị mình.
+
+5. Chỉ được ký số của đơn vị vào văn bản do đơn vị ban hành sau khi đã có chữ ký.
+số của người có thẩm quyền vào văn bản do đơn vị trực tiếp số hoá.
+
+6. Trường hợp nghỉ việc, chuyển công tác hoặc thay đổi người quản lý thiết bị lưử.
+Khoá bí mật theo phân công của người có thẩm quyền, phải làm thủ tục bàn giao thiết bị \.
+lưu khoá bí mật và phải lập biên bản bàn giao. Biên bản bàn giao được lập theo mẫu 1 của.
+Phụ lục kèm theo quy định này. f/.
+
+Điều 22. Điều khoản thi hành.
+
+Trưởng các đơn vị thuộc và trực thuộc Trường có trách nhiệm tổ chức triển khai,.
+hướng dẫn và kiểm tra việc thực hiện Quy định này trong phạm vi đơn vị quản lý.
+
+Trong quá trình thực hiện, nếu có phát sinh vướng mắc, các đơn vị phản ánh bằng văn.
+bản về Phòng Tổ chức - Hành chính để tổng hợp, tham mưu và báo cáo Hiệu trưởng xem.
+xét, sửa đổi, điều chỉnh, bổ sung theo quy định hiện hành///.
+
+
+
+=== TRANG 12 ===
+(Ban hành kèm í Lyêt đf.
+của Hiệu trưởng ã ~(Đại học Bách khoa, Đại học Đà Nẵng).
+
+Mẫu 1.
+. ĐẠI HỌC ĐÀ NẴNG, CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+TRƯƠNG ĐẠI HỌC BÁCH KHOA: Độc lập - Tự do - Hạnh phúc.
+BIÊN BẢN.
+Bàn giao, quản lý, sử dụng thiết bị lưu khoá bí mật.
+Hôm nay, vào lúc ........... Đề nghị: Các phút, ngày......... tháng...... năm.......... ;.
+
+..................................................... , chúng tôi gồm:
+
+L. Bên giao:
+
+IS. :. L H O G EEREUSEEEEUHEEEEOREEEUUDEERIVPEPEOGPEREEEEEEEEEOOEPOEEEEEVEECEEPCEZRVODCDUODUCC.
+Chức vụ: ............sssesseinessteiosdEdGE604GESGESECE EWESEE4SEESESESEESE0ESECAEEEASESSESEVEESSweeeons.
+Đơn vị:............nnnnnnnnnnnnnnnnn; EE EE EE EE EE EE.
+H. Bên nhận:
+
+Họ và tên: ...................cce--s-e-e.ssn seeseesiesesesnessee seeseeseeses seeseeseesrss.
+: à ư N: N EEEEEEOEEEEEEEEEEEEEEEEEEEEEEEEEPEOEEAEECEVCCCRHHH.
+Đơn vị:...........nnnnnnnnnnnnnn;nnnnnnn EE EE EE EE EE EE n E E n 0 0000000051.
+II. Nội dung:
+
+Hai bên thống nhất bàn giao quản lý, sử dụng thiết bị lưu khoá bí mật như sau:
+
+Số hiệu.
+thiết bị.
+
+Bên nhận xác nhận rằng chứng thư, chữ ký số và thiết bị lưu trữ bí mật được bàn.
+
+giao trong trạng thái hoạt động bình thường, không bị lỗi kỹ thuật, không có dấu hiệu bị.
+xâm phạm.
+
+Kể từ ngày.... tháng.... năm...... bên nhận hoàn toàn chịu trách nhiệm về quản lý,.
+
+bảo mật và sử dụng thiết bị lưu bí mật theo quy định pháp luật hiện hành.
+
+Biên bản này được lập thành 02 bản (hoặc nhiều hơn, nếu cần ghi rõ số lượng), mỗi bản.
+
+bên giữ một bản, có giá trị pháp lý như nhau.
+BÊN GIAO BỀÊN NHẬN XÁC NHẬN CỦA PHÒNG TCHC.
+
+ỳ

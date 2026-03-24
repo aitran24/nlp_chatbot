@@ -1,0 +1,1604 @@
+
+=== TRANG 1 ===
+ĐẠI HỌC ĐÀ NẴNG, CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+
+TRƯỜNG ĐẠI HỌC BÁCH KHOA Độc lập - Tự do - Hạnh phúc.
+Số:4793/QĐ-PHBK Đà Nẵng, ngày/ tháng / năm 2022.
+QUYẾT ĐỊNH.
+
+Về việc ban hành Nội quy về công tác bảo vệ bí mật Nhà nước.
+tại Trường Đại học Bách khoa, Đại học Đà Nẵng.
+
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC BÁCH KHOA.
+
+Căn cứ Luật Bảo vệ bí mật nhà nước ngày 15⁄/11/2016;.
+Căn cứ Nghị định số 26/2020/NĐ-CP ngày 28/02/2020 của Chính phủ Quy định chi tiết một số điều.
+
+số điều của Luật Bảo vệ bí mật nhà nước;.
+
+Căn cứ Nghị định số 32/CP ngày 04 tháng 4 năm 1994 của Chính phủ về việc thành lập.
+Đại học Đà Nẵng;.
+
+Căn cứ Thông tư số 24/2020/TT-BCA ngày 10/3/2020 của Bộ Công an ban hành biểu mẫu.
+sử dụng trong công tác bảo vệ bí mật nhà nước;.
+
+Căn cứ Thông tư số 10/2020/TT77-BGDĐT ngày 14/5/2020 của Bộ Giáo dục và Đào tạo ban hành.
+hành quy chế tổ chức và hoạt động của đại học vùng và các cơ sở giáo dục đại học thành viên;
+
+Căn cứ Nghị quyết số 08/NO-HĐĐH, ngày 12/7/2021 của Hội đồng Đại học Đà Nẵng về.
+việc ban hành Quy chế tổ chức và hoạt động của Đại học Đà Nẵng và Nghị quyết số 13/NQ-.
+ĐHĐN ngày 07/0/2021 về việc sửa đổi, bổ sung một số điều của Quy chế tổ chức và hoạt động.
+của Đại học Đà Nẵng,.
+
+Căn cứ Nghị quyết số 05/NQ- HĐT ngày 12/01/2021 của Hội đồng trường Trường Đại học;.
+Bách khoa về việc ban hành Quy chế tổ chức và hoạt động của Tì trường Đại học Bách khoa, Đại.
+học Đà Nẵng, Nghị quyết số 22/NQ-HĐT ngày 08/1 0/2021 của Hội đồng Trường Đại học Bách.
+khoa về việc ban hành sửa đổi Quy chế tổ chức và hoạt động của Trường Đại học Bách khoa,.
+Đại học Đà Nẵng, 1.
+
+Căn cứ Quyết định số 1966/QĐ-BGDĐT ngày 14/7/2020 của Bộ Giáo dục và Đào tạo ban hành.
+hành Quy chế công tác bảo vệ bí mật nhà nước tại Cơ quan Bộ GDĐT;.
+
+Căn cứ Quyết định số 2763/QĐ-ĐHĐN ngày 14 tháng 8 năm 2020 của Đại học Đà Nẵng.
+Ban hành Quy chế về công tác bảo vệ bí mật nhà nước tại Đại học Đà Nẵng,.
+
+Theo đề nghị của Trưởng phòng Phòng Tô Tổ chức - Hành chính.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quy chế: Quyết định này. Nội quy về công tác bảo vệ bí mật nhà nước tại.
+Trường Đại học Bách khoa, Đại học Đà Nẵng.
+
+Điều 2. Quyết định có hiệu lực kề từ ngày ký ban hành.
+
+Điều 3. Trưởng phòng Tổ chức Hành chính, Trưởng các đơn vị thuộc và trực thuộc.
+Trường, các tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này, 4JA2Z ,^~.
+
+Nơi nhận:
+
+- Như Điều 3;.
+
+- ĐHĐN (đề b/c).
+
+- Chủ tịch HĐT (đề b/c).
+- Ban Giám hiệu;
+
+- Lưu: VT, Phòng TCHOC.
+
+
+
+=== TRANG 2 ===
+NỘI QUY.
+Về công tác bảo vệ bí mật nhà nước .
+tại Trường Đại học Bách khoa - Đại học Đà Nẵng.
+(Ban hành kèm theo Quyết định số 47/QĐ-ĐHBK ngày 2 tháng 00 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa).
+
+Chương I.
+QUY ĐỊNH CHUNG.
+
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng.
+
+1. Nội quy này quy định về xác định bí mật nhà nước (BMNN) và độ mật của BMNN:
+sao, chụp; thống kê, lưu giữ, bảo quản; vận chuyển, giao, nhận; mang ra khỏi nơi lưu giữ;
+cung cấp, chuyền giao BMNN; tổ chức hội nghị, hội thảo, cuộc họp có nội dung BMNN; điều.
+chỉnh độ mật; giải mật; tiêu, thu hồi; biểu mẫu sử dụng trong công tác bảo vệ BMNN;.
+chế độ thông tin, báo cáo.
+
+2. Nội quy này được áp dụng đối với các đơn vị thuộc và trực thuộc Trường Đại học.
+Bách khoa (sau đây gọi chung là các đơn vị); cán bộ viên chức, người lao động (CBVC,.
+NLĐ) của các đơn vị và các tổ chức, cá nhân có liên quan đến công tác bảo vệ BMNN.
+
+Điều 2. Giải thích từ ngữ.
+
+Trong nội quy này các từ ngữ dưới đây được giải thích như sau:
+
+l. Bí mật nhà nước là thông tin có nội dung quan trọng do người đứng đầu cơ quan, tổ chức.
+chức có thẩm quyền xác định căn cứ vào quy định của Luật này, chưa công khai, nếu bị lộ, bị.
+mất có thể gây nguy hại đền lợi ích quốc gia, dân tộc.
+
+Hình thức chứa BMNN bao gồm tài liệu, vật, địa điểm, lời nói, hoạt động hoặc các dạng.
+khác.
+
+2. Bảo vệ bí mật nhà nước là việc cơ quan, tổ chức, cá nhân sử dụng lực lượng, phương tiện.
+tiện, biện pháp đề phòng, chồng xâm phạm bí mật nhà nước.
+
+3. Lộ bí mật nhà nước là trường hợp người không có trách nhiệm biết được BMNN.
+
+4. Mát bí mật nhà nước là trường hợp tài liệu, vật chứng BMNN không còn thuộc sự.
+quản lý của cơ quan, tổ chức, cá nhân có trách nhiệm quản lý.
+
+5. Sao tài liệu bí mật nhà nước là việc chép lại hoặc tạo ra bản khác theo đúng nội dung.
+bản gôc hoặc bản chính của tài liệu.
+
+6. Chụp tài liệu, vật chứa bí mật nhà nước là việc ghi lại bằng hình ảnh tài liệu. vật chứa.
+BMNN.
+
+7. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của BMNN.
+8. Giải mật là bỏ độ mật của BMNN.
+
+Điều 3. Các hành vi bị nghiêm cấm.
+
+
+
+=== TRANG 3 ===
+1. Làm lộ, chiếm đoạt, mua, bán BMNN; làm sai lệch, hư hỏng, mất tài liệu, vật chứa.
+BMNN.
+
+2. Thu thập, trao đổi, cung cấp, chuyển giao BMNN trái pháp luật; sao, chụp, lưu giữ,.
+vận chuyền, giao, nhận, thu hồi, tiêu tài liệu, vật chứa BMNN trái pháp luật.
+
+3. Mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ trái pháp luật.
+
+4. Lợi dụng, lạm dụng việc bảo vệ BMNN, sử dụng BMNN để thực hiện, che giấu hành vi.
+vi vi phạm pháp luật, xâm phạm quyền và lợi ích hợp pháp hoặc cản trở hoạt động của cơ.
+quan, tổ chức, cá nhân.
+
+5. Soạn thảo, lưu giữ tài liệu có chứa nội dung BMNN trên máy tính hoặc thiết bị khác.
+đã kết nối hoặc đang kết nối với mạng Internet, mạng máy tính, mạng viễn thông, trừ trường.
+hợp lưu giữ BMNN theo quy định của pháp luật về cơ yếu.
+
+6. Truyền BMNN trên phương tiện thông tin, viễn thông trái với quy định của pháp luật.
+về cơ yếu.
+
+7. Chuyển mục đích sử dụng máy tính, thiết bị khác đã dùng đề soạn thảo, lưu giữ, trao.
+đổi BMNN khi chưa loại bỏ BMNN.
+
+8. Sử dụng thiết bị có tính năng thu, phát tín hiệu, ghi âm, ghi hình trong hội nghị, h01.
+thảo, cuộc họp có nội dung BMNN dưới mọi hình thức khi chưa được người có thẩm quyền.
+cho phép.
+
+9, Đăng tải, phát tán BMNN trên phương tiện thông tin đại chúng, mạng Internet, mạng.
+máy tính và mạng viên thông.
+
+Chương JI.
+TRÁCH NHIỆM THỰC HIỆN BẢO VỆ BÍ MẬT NHÀ NƯỚC.
+
+Điều 4. Trách nhiệm của người đứng đầu đơn vị.
+
+1. Hiệu trưởng Trường Đại học Bách khoa (ĐHBK) trong phạm vi nhiệm vụ, quyền.
+hạn của mình có trách nhiệm tổ chức thực hiện bảo vệ BMNN như sau:
+
+- Căn cứ vào các quy định, hướng dẫn liên quan đến bảo vệ BMNN, tổ chức tuyên.
+truyền, phổ biến và thực hiện công tác bảo vệ BMNN trong phạm vi quản lý.
+
+- Tô chức chỉ đạo xây dựng nội quy về bảo vệ BMNN tại đơn vị.
+
+- Phân công cán bộ thực hiện nhiệm vụ kiêm nhiệm bảo vệ BMNN tại Phòng Tổ chức.
+Hành chính; Thực hiện việc ký cam kết với các cá nhân có liên quan đến công tác bảo vệ.
+BMNN tại đơn vị.
+
+- Sơ kết hằng năm, tổng kết năm năm một lần công tác bảo vệ BMNN tại đơn vị.
+
+- Chỉ đạo xử lý và kịp thời thông báo với cơ quan có thầm quyền khi xảy ra lộ, mất.
+BMNN tại đơn vị.
+
+
+=== TRANG 4 ===
+- Tổ chức thu hồi tài liệu, vật chứa BMNN khi người được phân công nhiệm vụ kiêm.
+nhiệm bảo vệ BMNN thôi việc, chuyển công tác, nghỉ hưu, từ trần hoặc vì lý do khác mà.
+không được phân công tiếp tục quản lý BMNN.
+
+2. Trưởng các phòng, Trưởng các khoa, Tổ trực thuộc, Giám đốc các trung tâm.
+
+- Căn cứ vào các quy định, hướng dẫn liên quan đến bảo vệ BMNN, tổ chức tuyên.
+ưuyền, phố biến và thực hiện công tác bảo vệ BMNN trong phạm vi quản lý.
+
+- Phân công cán bộ phụ trách công tác hành chính thực hiện nhiệm vụ kiêm nhiệm, bảo.
+vệ BMNN. Thực hiện việc ký cam kết với các cá nhân có liên quan đến công tác bảo vệ.
+BMNN tại đơn vị.
+
+- Phối hợp với Phòng Tổ chức - Hành chính trong việc thực hiện sơ kết hằng năm, tổng.
+kết năm năm một lần công tác bảo vệ BMNN tại Trường.
+
+- Chỉ đạo xử lý và kịp thời thông báo với Hiệu trưởng khi xảy ra lộ, mất BĐHNN tại đơn.
+VỊ.
+
+- Tổ chức thu hồi tài liệu, vật chứa BMNN khi người được phân công nhiệm vụ kiêm.
+nhiệm bảo vệ BMNN thôi việc, chuyến công tác, nghỉ hưu, từ trần hoặc vì lý do khác mà.
+không được phân công tiếp tục quản lý BMNN.
+
+Điều 5. Trách nhiệm của Trưởng phòng Tổ chức - Hành chính hoặc người phụ.
+trách công tác hành chính của đơn vị.
+
+1. Trực tiếp tham mưu, đề xuất các biện pháp và giúp Hiệu trưởng triển khai thực hiện.
+công tác bảo vệ BMNN tại đơn vị.
+
+2. Tổ chức thực hiện nghiêm túc các quy định về bảo vệ BMNN tại đơn vị.
+
+3. Chỉ đạo xây dựng, trình Hiệu trưởng ban hành các văn bản hướng dẫn liên quan đến.
+bảo vệ BMNN.
+
+Điều 6. Trách nhiệm của các cá nhân được phân công kiêm nhiệm bảo vệ BMNN.
+tại đơn vị.
+
+. Có phẩm chất đạo đức tốt, có đủ tiêu chuẩn chính trị, có kiến thức pháp luật và.
+chuyên môn, nghiệp vụ về bảo vệ BMNN, nghiêm chỉnh chấp hành đường lối, chủ trương,.
+chính sách của Đảng, pháp luật của Nhà nước.
+
+2. Có trách nhiệm giữ gìn BMNN; phục tùng sự phân công, điều động của cơ quan, đơn vị;.
+vị và thực hiện đầy đủ chức trách, nhiệm vụ được giao.
+
+3. Thường xuyên nghiên cứu, tham gia bồi dưỡng các lớp nghiệp vụ về các quy định.
+bảo vệ BMNN được tổ chức.
+
+4. Trường hợp phát hiện vi phạm trong hoạt động bảo vệ BMNN phải báo cáo ngay với.
+người có trách nhiệm đề giải quyết và có biện pháp khắc phục.
+
+NẩuÓ N.
+
+⁄ u
+
+. C.
+
+
+=== TRANG 5 ===
+5, Trước khi thôi việc, chuyển công tác, nghỉ hưu hoặc vì lý do khác mà không được.
+Phân công tiếp tục nhiệm vụ bảo vệ BMNN thì phải bàn giao BMNN cho cấp có thẩm quyền.
+quản lý và cam kết bảo vệ BMNN đã quản lý.
+
+Chương II -.
+QUY ĐỊNH CỤ THẺ.
+Điều 7. Xác định bí mật nhà nước và độ mật của bí mật nhà nước.
+1. Hiệu trưởng có trách nhiệm xác định BMNN và độ mật của BMNN.
+
+2. Việc xác định BMNN và độ mật của BMNN phải căn cứ vào danh mục BMNN thuộc.
+các lĩnh vực được Thủ tướng Chính phủ ban hành và quy định của Luật Bảo vệ BMNN.
+
+3. Trình tự, thủ tục xác định BMNN và độ mật của BMNN:
+
+a) Cán bộ, viên chức khi soạn thảo, tạo ra thông tin thuộc danh mục BMNN phải đề xuất.
+Để người có thẩm quyền theo quy định tại khoản 1 Điều này xác định BMNN, độ mật của.
+BMNN, nơi nhận, số lượng bản phát hành, được phép hay không được phép sao, chụp tài.
+liệu, vật chứa BMNN tại tờ trình, ký văn bản hoặc văn bản xác định độ mật đối với vật, địa.
+điểm, lời nói, hoạt động, hình thức khác chứa BMNN. Văn bản, tài liệu chứa BMNN phải thể.
+hiện nơi nhận, số lượng bản phát hành, tên người soạn thảo, được phép hoặc không được.
+phép sao, chụp ở mụcNơi nhận” của văn bản, tài liệu.
+
+Trường hợp văn bản điện tử, người soạn thảo phải tạo dấu chỉ độ mật sau khi hoàn.
+thành trên văn bản sau khi được người có thẩm quyền xác định BMNN và độ mật của.
+BMNN; văn bản điện tử khi in ra để phát hành phải đóng dấu chỉ độ mật theo quy định.
+
+Trường hợp sử dụng BMNN của cơ quan, tổ chức khác phải xác định độ mật tương ứng.
+
+Trường hợp thông tin trong cùng một tài liệu, vật chứa BMNN thuộc danh mục BMNN.
+có độ mật khác nhau thì xác định theo độ mật cao nhất.
+
+Trường hợp văn bản có tính chất lặp đi lặp lại như báo cáo chuyên đề, báo cáo định kỳ.
+có cùng một độ mật thì người đứng đầu đơn vị xác định một lần cho loại văn bản đó.
+
+Dự thảo văn bản có nội dung BMNN phải được quản lý, bảo vệ như văn bản phát hành.
+chính thức từ khi soạn thảo và tiêu ngay sau khi hoàn thành việc soạn thảo, tạo ra nếu.
+không cần thiết phải lưu giữ.
+
+b) Viên chức khi tiếp nhận thông tin thuộc danh mục BMNN, nhưng chưa được xác.
+Định là BMNN phải báo cáo, đề xuất ngay người đứng đầu đơn vị để xác định theo thẩm.
+quyền.
+
+Người được giao xử lý phải có văn bản đề xuất người đứng đầu đơn vị xác định BMNN,.
+độ mật của BMNN, nơi nhận, số lượng bản phát hành, được phép hay không được phép sao,.
+chụp tài liệu, vật chứa BMNN. Thông tin tiếp nhận phải được bảo vệ trong quá trình tiếp.
+nhận và xử lý.
+
+- W.O.W.
+
+/
+
+
+=== TRANG 6 ===
+4. Độ mật của BMNN được xác định theo dấu chỉ độ mật, văn bản xác định độ mật hoặc.
+hình thức khác phù hợp với hình thức chứa BMNN.
+
+5. Mẫu dấu chỉ độ mật, mẫu văn bản xác định độ mật của BMNN thực hiện theo quy.
+định tại Điều 18 Nội quy này.
+
+Điều 8. Sao, chụp tài liệu, vật chứa bí mật nhà nước.
+
+1. Hình thức sao tài liệu BMNN gồm: sao y bản chính, sao lục và trích sao.
+
+2. Thẩm quyền sao, chụp tài liệu, vật chứa BMNN tại Trường ĐHBK:
+
+a) Hiệu trưởng có thẩm quyền cho phép sao, chụp tài liệu, vật chứa BMNN độ; 2006.
+
+b) Người có thẩm quyền được quy định tại điểm a khoản này có thể quyền cho cấp.
+phó thực hiện thẩm quyền cho phép sao, chụp tài liệu, vật chứa BMNN.
+
+Việc quyền cho phép sao, chụp tài liệu, vật chứa BMNN có thể được thực hiện.
+thường xuyên hoặc theo từng trường hợp cụ thể và phải được thể hiện bằng văn bản, trong đó.
+xác định rõ phạm vi, nội dung, thời hạn quyền.
+
+Cấp phó được quyền cho phép sao, chụp tài liệu, vật chứa BMNN phải chịu trách.
+nhiệm về quyết định cho phép sao, chụp của mình trước cấp trưởng và trước pháp luật. Người.
+được quyền không được quyền tiếp cho người khác.
+
+3. Việc sao, chụp tài liệu, vật chứa BMNN được thực hiện như sau:
+
+a) Sau khi được người có thẩm quyền quy định tại khoản 2 Điều này cho phép, người;.
+được giao nhiệm vụ tiền hành việc sao, chụp tài liệu, vật chứa BMNN.
+
+b) Bản sao tài liệu BMNN đóng dấu: .Bản sao số ở trang đầu và dấu: .Bản sao BMNN;.
+ở trang cuối của tài liệu sau khi sao, trong đó phải thể hiện số thứ tự bản sao, hình thức sao y.
+bản chính hoặc sao lục, thời gian, số lượng, nơi nhận, thẩm quyền cho phép sao và con dấu.
+của cơ quan, tổ chức (nếu có).
+
+c) Bản trích sao tài liệu BMNN phải thực hiện theo mẫu: , trích sao (!), trong đó thể hiện.
+đầy đủ nội dung trích sao, thời gian, số lượng, nơi nhận, thẩm quyền cho phép sao và con dấu.
+của cơ quan, tổ chức (nếu có).
+
+d) Bản chụp tài liệu, vật chứa BMNN phải có văn bản ghi nhận việc chụp tài liệu, vật.
+chứa BMNN), trong đó phải thể hiện tên, loại tài liệu, vật chứa BMNN, độ mật, thời gian, số.
+lượng, nơi nhận, người thực hiện chụp tài liệu, vật chứa BMNN, thầm quyền cho phép chụp.
+và con dấu của cơ quan, tổ chức (nếu có).
+
+đ) Việc sao, chụp phải ghi nhận vào sổ quản lý sao, chụp BMNN, đề quản lý và theo dõi.
+dõi.
+
+4. Phương tiện, thiết bị sử dụng để sao, chụp tài liệu, vật chứa BMNN không được kết nối.
+nối mạng Internet, mạng máy tính, mạng viễn thông, trừ trường hợp thực hiện theo quy định.
+của pháp luật về cơ yếu.
+
+u
+
+.
+
+Ñ
+
+G s
+
+I.A. Vị.
+
+
+=== TRANG 7 ===
+5. Mẫu dấu sao, chụp; mẫu văn bản ghi nhận việc chụp BMNN; mẫu số quản lý sao,.
+chụp BMNN thực hiện theo quy định tại Điều 18 Nội quy này.
+
+Điều 9. Thống kê, lưu giữ, bảo quản tài liệu, vật chứa bí mật nhà nước.
+
+1. Tài liệu, vật chứa BMNN được lưu giữ theo hồ sơ chuyên đề, đối tượng, lĩnh vực, có.
+Bảng thống kê chi tiết kèm theo, phải được bảo vệ bằng biện pháp thích hợp, bảo đảm an toàn.
+do người đứng đầu đơn vị quy định.
+
+2. Hằng năm, các đơn vị thống kê tài liệu, vật chứa BMNN đã tiếp nhận, phát hành theo.
+trình tự thời gian và từng độ mật.
+
+3. Nơi lưu giữ, bảo quản tài liệu, vật chứa BMNN phải được đảm bảo an toàn, kiên cố,.
+tránh không bị hư hại do cháy nổ hay bị đột nhập, lấy cắp BMNN.
+
+Điều 10. Vận chuyển, giao, nhận tài liệu, vật chứa bí mật nhà nước.
+
+l. Việc vận chuyển, giao, nhận tài liệu, vật chứa BMNN do viên chức được phân công.
+làm công tác bảo vệ BMNN hoặc liên quan trực tiếp đến BMNN thực hiện. Viên chức làm.
+công tác liên quan trực tiếp đến BMNN; chỉ vận chuyển, giao, nhận tài liệu, vật chứa BMNN.
+khi được lãnh đạo đơn vị chỉ đạo.
+
+2. Việc vận chuyển tài liệu, vật chứa BMNN qua dịch vụ bưu chính được thực hiện theo.
+quy định của pháp luật về bưu chính.
+
+3. Việc giao tài liệu, vật chứa BMNN được thực hiện như sau:
+
+a) Trước khi giao tài liệu, vật chứa BMNN phải đăng ký vào số đăng ký BMNN đi.
+Tài liệu, vật chứa BMNN độ  tuyệt mật chỉ ghi trích yếu khi người có thẩm quyền xác định.
+BMNN đồng ý.
+
+b) Tài liệu, vật chứa BMNN phải làm bì hoặc đóng gói riêng. Giấy làm bì phải dùng loại.
+giấy dai, bền, khó thắm nước, không nhìn thầu qua được; hồ dán phải dính, khó bóc.
+
+Trường hợp tài liệu, vật chứa BMNN độ  tuyệt mật, phải được bảo vệ bằng hai lớp.
+phong bì: Bì trong ghi số, ký hiệu của tài liệu, vật chứa BMNN, tên người nhận, đóng dấu.
+(Tuyệt mật) và được niêm phong bằng dấu của đơn vị ở ngoài bì: trường hợp gửi đích danh.
+người có trách nhiệm giải quyết thì đóng dấu: Chỉ người có tên mới được bóc bì (!). Bì ngoài.
+ghi như gửi tài liệu thường và đóng dấu ký hiệu chữ: :“A”.
+
+Tài liệu, vật chứa BMNN độ .Tối mật .(.Mật) và .Mật .(.Mật) được bảo vệ bằng một lớp bì, ngoài bì.
+đóng dấu chữ B” và chữ C” tương ứng với độ mật của tài liệu, vật chứa BMNN bên trong.
+
+c) Việc giao tài liệu, vật chứa BMNN phải được thực hiện bằng ... số chuyến giao.
+BMNN?.
+
+4. Việc nhận tài liệu. vật chứa BMNN được thực hiện như sau:
+
+a) Sau khi nhận tài liệu, vật chứa BMNN phải đăng ký vào mục đăng ký BMNN đến.
+
+l
+
+_
+- m. Ý - l.
+
+
+=== TRANG 8 ===
+b) Trường hợp tài liệu, vật chứa BMNN mà phong bì có dấu: Chỉ người có tên mới.
+được bóc bì, ghi người nhận vào số theo ký hiệu ngoài bì, không được mở bì và phải chuyên.
+Ngay đến người có tên trên phong bì. Nếu người có tên trên phong bì đi văng và trên phong bì.
+đóng dấu:  tốc , thì chuyển đến lãnh đạo đơn vị hoặc người được lãnh đạo đơn vị.
+quyền giải quyết.
+
+c) Trường hợp tài liệu, vật chứa BMNN được gửi đến mà không thực hiện đúng quy.
+định bảo vệ BMNN thì chuyên đến lãnh đạo đơn vị nhận tài liệu, vật chứa BMNN hoặc người.
+có tên trên phong bì (đối với trường hợp gửi đích danh) giải quyết, đồng thời phải thông báo.
+cho nơi gửi biết để có biện pháp khắc phục. Nếu phát hiện tài liệu, vật chứa BMNN gửi đến.
+Có dấu hiệu bóc, mở bì hoặc bị tráo đổi, mất, hư hỏng thì người nhận phải báo cáo ngay người gửi.
+đứng đầu đơn vị đề có biện pháp xử lý.
+
+4. Nơi gửi và nơi nhận tài liệu, vật chứa BMNN phải đối chiếu về số lượng, kiểm tra.
+việc đóng bì, đóng gói tài liệu, vật chứa BMNN. Trường hợp phát hiện thiếu số lượng, sai sót.
+Trong đóng bì, đóng gói thì nơi nhận yêu cầu nơi gửi bổ sung, xử lý trước khi vào số theo dõi.
+và ký nhận.
+
+5. Trường hợp tài liệu, vật chứa BMNN có đóng dấu: , Tài liệu thu hồi , Đơn vị hoặc.
+viên chức đã nhận tài liệu, vật chứa BMNN phải gửi lại đúng thời hạn ghi trên văn bản.
+
+6. Việc chuyển, nhận văn bản điện tử có nội dung BMNN trên mạng Internet, mạng máy.
+tính (mạng nội bộ, mạng diện rộng) và mạng viễn thông được thực hiện theo quy định của WTO.
+pháp luật về cơ yếu.
+
+7. Việc vận chuyền, giao nhận sản phẩm mật mã thực hiện theo quy định của pháp luật.
+về cơ yếu.
+
+8. Trường hợp tài liệu, vật chứa BMNN đăng ký bằng cơ sở dữ liệu quản lý trên máy.
+tính thì khi chuyển giao phải in ra giấy đề ký nhận và đóng số để quản lý. Máy tính dùng để.
+Đăng ký tài liệu, vật chứa BMNN không được nối mạng Internet, mạng máy tính và mạng.
+viễn thông, trừ trường hợp thực hiện theo quy định của pháp luật về cơ yếu.
+
+9, Mẫu số đăng ký BMNN đi, mẫu số đăng ký BMNN đến và mẫu số chuyên giao.
+BMNN thực hiện theo quy định tại Điều 18 của Nội quy này.
+
+Điều 11. Mang tài liệu, vật chứa bí mật nhà nước ra khỏi nơi lưu giữ.
+
+1. Việc mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ để phục vụ công tác ở trong.
+Nước phải được Hiệu trưởng hoặc Phó Hiệu trưởng được quyền trực tiếp quản lý BMNN.
+cho phép.
+
+2. Không được phép mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ để phục vụ công.
+tác ở nước ngoài.
+
+3. Viên chức khi mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ phải có văn bản xin.
+phép người có thầm quyền theo quy định tại khoản 1, khoản 2 Điều này. Văn bản xin phép.
+Mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ phục vụ công tác trong nước phải nêu rõ.
+
+
+=== TRANG 9 ===
+Họ, tên, chức vụ, đơn vị công tác; tên loại, trích yếu nội dung, độ mật của tài liệu, vật chứa.
+BMNN; mục đích sử dụng: thời gian, địa điểm công tác; biện pháp bảo vệ BMNN.
+
+4. Trong thời gian mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ, nếu phát hiện.
+BMNN bị lộ, bị mất, người mang tài liệu, vật chứa BMNN phải báo cáo ngay với người đứng.
+đầu đơn vị trực tiếp quản lý, Trưởng đoàn công tác để có biện pháp xử lý và khắc phục hậu.
+quả.
+
+5. Tài liệu, vật chứa BMNN mang ra khỏi nơi lưu giữ phải được chứa, đựng, vận chuyển.
+Bằng phương tiện, thiết bị bảo đảm an toàn do người đứng đầu đơn vị quản lý BMNN quy.
+định và phải bảo vệ trong thời gian mang ra khỏi nơi lưu giữ. Khi kết thúc nhiệm vụ phải báo.
+cáo người có thẩm quyền cho phép mang tài liệu, vật chứa BMNN ra khỏi nơi lưu giữ về việc.
+quản lý, sử dụng BMNN và nộp lại đơn vị.
+
+Điều 12. Cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, người Việt.
+Nam được giao thực hiện nhiệm vụ liên quan trực tiếp đến bí mật nhà nước.
+
+l. Người có thẩm quyền quy định tại Khoản 2 Điều 8 của Nội quy này quyết định việc.
+cung cấp, chuyển giao BMNN với độ mật tương ứng trừ trường hợp cung cấp, chuyển giao.
+BMNN cho các cơ quan, tô chức, cá nhân nước ngoài.
+
+2. Cơ quan, tổ chức đề nghị cung cấp, chuyển giao BMNN phải có văn bản gửi người có.
+Thẩm quyền quyết định việc cung cấp, chuyền giao BMNN. Văn bản đề nghị phải ghi rõ tên.
+cơ quan, tổ chức; người đại diện cơ quan, tổ chức có BMNN đề nghị cung cấp, chuyển.
+g1ao; mục đích sử dụng và cam kết bảo vệ BMNN.
+
+3. Người đề nghị cung cấp, chuyển giao BMNN phải có văn bản gửi người có thẩm quyền.
+quyền quyết định việc cung cấp, chuyển giao BMNN. Văn bản đề nghị phải ghi rõ họ và tên;
+số Căn cước công dân, Chứng minh nhân dân, Hộ chiếu, Chứng minh Công an nhân dân hoặc.
+số giấy chứng minh do Quân đội nhân dân cấp; địa chỉ liên lạc; vị trí công tác; BMNN đề.
+nghị cung cấp, chuyền giao: mục đích sử dụng và cam kết bảo vệ BMNN.
+
+4. Trường hợp từ chối cung cấp, chuyền giao BMNN, người có thẩm quyền quyết định.
+việc cung cấp, chuyên giao BMNN phải trả lời bằng văn bản và nêu rõ lý do.
+
+Điều 13. Tổ chức hội nghị, hội thảo, cuộc họp có nội dung bí mật nhà nước.
+
+. Việc tổ chức hội nghị, hội thảo, cuộc họp có nội dung BMNN trong trường hợp.
+không có yếu tố nước ngoài được Giám đốc ĐHĐN quyết định bằng văn bản.
+
+2. Hội nghị, hội thảo, cuộc họp có nội dung BMNN do đơn vị chủ trì đã được GĐ.
+ĐHĐN phê duyệt phải tổ chức trong phòng họp kín tại trụ sở làm việc của đơn vị. trường.
+hợp tổ chức ở ngoài trụ sở thì người đứng đầu đơn vị quyết định tổ chức hội nghị, hội thảo,.
+Cuộc họp có trách nhiệm đề nghị Công an thành phố Đà Nẵng kiểm tra an ninh, an toàn trong.
+và ngoài khu vực diễn ra hội nghị, hội thảo, cuộc họp.
+
+3. Phương tiện, thiết bị sử dụng trong hội nghị, hội thảo, cuộc họp có nội dung BMNN:
+
+W. H. R.E.V.
+
+
+=== TRANG 10 ===
+10
+
+a) Hội nghị, hội thảo, cuộc họp có nội dung BMNN phải sử dụng micro có dây và các.
+Phương tiện, thiết bị được Công an thành phố Đà Nẵng kiểm tra an ninh, an toàn trước khi lắp.
+đặt, trừ phương tiện, thiết bị do lực lượng cơ yếu trang bị. Trường hợp hội nghị, hội thảo,
+Cuộc họp có nội dung: BMNN tổ chức băng hình thức truyền hình trực tuyến phải bảo vệ.
+đường truyền theo quy định pháp luật về cơ yếu.
+
+b) Người tham gia hội nghị, hội thảo, cuộc họp không được mang thiết bị có tính năng;.
+thu, phát tín hiệu, ghi âm, ghi hình vào trong hội nghị, hội thảo, cuộc họp có nội dung BMNN.
+độ Tuyệt mật, Tối mật. Đối với hội nghị, hội thảo, cuộc họp có nội dung BMNN độ Mật, việc.
+sử dụng phương tiện, thiết bị được thực hiện theo yêu cầu của người chủ trì.
+
+c) Trong trường hợp cần thiết, đơn vị chủ trì hội nghị, hội thảo, cuộc họp có nội dung;.
+BMNN quyết định việc sử dụng phương tiện, thiết bị kỹ thuật để ngăn chặn hoạt động xâm.
+nhập, thu tin từ bên ngoài: sử dụng phương tiện, thiết bị để ghi âm, ghi hình phục vụ công tác.
+
+4. Phương án bảo vệ hội nghị, hội thảo, cuộc họp có nội dung BMNN:
+
+a) Đối với hội nghị. hội thảo, cuộc họp có nội dung BMNN độ tuyệt mật, người đứng.
+đầu đơn vị chủ trì quyết định việc bố trí lực lượng canh gác, bảo vệ bên ngoài; dự kiến các.
+Tình huống phức tạp có thể xảy ra, ảnh hưởng đến an ninh, an toàn trong quá trình tổ chức hội.
+nghị, hội thảo, cuộc họp và phương án giải quyết, xử lý.
+
+b) Hội nghị, hội thảo, cuộc họp có nội dung BMNN tổ chức từ hai ngày trở lên phải.
+niêm phong phòng họp sau mỗi ngày tổ chức hội nghị, hội thảo, cuộc họp.
+
+c) Người tham dự hội nghị, hội thảo, cuộc họp có nội dung BMNN phải đúng thành.
+Phần theo yêu cầu của đơn vị chủ trì, có trách nhiệm bảo vệ, sử dụng BMNN theo quy định.
+của nội quy này và yêu cầu của người chủ trì hội nghị, hội thảo, cuộc họp. Trường hợp hội.
+Nghị, hội thảo, cuộc họp có nội dung BMNN độ Tuyệt mật phải có biện pháp kiểm tra việc.
+Tuân thủ quy định các phương tiện, thiết bị không được mang vào phòng họp đối với người.
+tham dự.
+
+Điều 14. Điều chỉnh độ mật.
+
+]. Điều chỉnh độ mật là việc tăng độ mật, giảm độ mật đã được xác định của BMNN.
+
+2. Việc điều chỉnh độ mật phải căn cứ vào danh mục BMNN do Thủ tướng Chính phủ ban hành.
+ban hành thuộc lĩnh vực giáo dục và đào tạo và các lĩnh vực khác quy định tại Luật Bảo vệ.
+BMNN.
+
+3. Hiệu trưởng có thẩm quyền quyết định đề nghị điều chỉnh độ mật của BMNN.
+
+4. Sau khi ban hành quyết định điều chỉnh độ mật, đơn vị điều chỉnh độ mật phải đóng.
+dấu hoặc có văn bản, hình thức khác xác định việc tăng độ mật, giảm độ mật.
+
+5. Chậm nhất 15 ngày, kể từ ngày ban hành quyết định điều chỉnh độ mật, đơn vị điều.
+chỉnh độ mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.
+
+” i
+
+S. A., W.Aè, T. W., ^.
+
+
+=== TRANG 11 ===
+lài
+
+Đơn vị nhận được thông báo về việc điều chỉnh độ mật có trách nhiệm đóng dấu hoặc có.
+văn bản, hình thức khác xác định việc điều chỉnh độ mật tương ứng đối với BMNN thuộc.
+phạm vi quản lý.
+
+6. Mẫu dấu điều chỉnh độ mật thực hiện theo quy định tại Điều 18 của Nội quy này.
+
+Điều 15. Giải mật.
+
+1. BMNN đương nhiên giải mật trong các trường hợp sau:
+
+a) Hết thời hạn bảo vệ. hết thời gian gia hạn thời hạn bảo vệ BMNN quy định tại Điều.
+19, Điều 20 Luật Bảo vệ BMNN ngày 15/11/2018.
+
+b) Không còn thuộc danh mục BMNN. Trường hợp này, đơn vị xác định BMNN phải.
+đóng dấu hoặc có văn bản, hình thức khác xác định việc giải mật và thông báo ngay bằng văn.
+bản đến cơ quan, tổ chức, cá nhân có liên quan.
+
+2. BMNN được giải mật toàn bộ hoặc một phần trong trường hợp cần giải mật đề đáp.
+ứng yêu cầu thực tiễn bảo vệ lợi ích quốc gia, dân tộc, phát triển kinh tế - xã hội, hội nhập,.
+hợp tác quốc tế. Trong trường hợp này, các đơn vị phải tiến hành giải mật theo trình tự, thủ.
+tục sau:
+
+a) Hiệu trưởng xác định BMNN thành lập Hội đồng giải mật.
+
+b) Hội đồng giải mật bao gồm đại diện lãnh đạo đơn vị xác định BMNN làm Chủ tịch;.
+Hội đồng và đại diện Văn phòng, cơ quan, đơn vị có liên quan.
+
+c) Hội đồng giải mật có trách nhiệm xem xét việc giải mật, báo cáo người đứng đầu đơn.
+vị xác định BMNN ban hành quyết định giải mật.
+
+d) Trường hợp giải mật một phần thì nội dung giải mật được đưa vào quyết định giải mật và.
+Chậm nhất 15 ngày kể từ ngày có quyết định giải mật, đơn vị tiến hành giải mật có trách nhiệm.
+nhiệm thông báo bằng văn bản cho các cơ quan, tổ chức, cá nhân có liên quan biết để thực hiện.
+hiện đóng dấu giải mật hoặc có văn bản xác định việc giải mật đối với tài liệu, vật chứa.
+BMNN do mình quản lý.
+
+đ) Trường hợp giải mật toàn bộ BMNN thì sau khi quyết định giải mật phải được đóng.
+dấu giải mật hoặc có văn bản xác định việc giải mật và chậm nhất 15 ngày kể từ ngày quyết.
+định giải mật BMNN, đơn vị chủ trì tiến hành giải mật có trách nhiệm thông báo bằng văn.
+bản cho các cơ quan, tổ chức, cá nhân có liên quan biết để đóng dấu giải mật hoặc có văn bản.
+xác định việc giải mật đối với tài liệu, vật chứa BMNN do mình quản lý.
+
+e) Hồ sơ giải mật phải được lưu trữ bao gồm quyết định thành lập Hội đồng giải;.
+mật: BMNN đề nghị giải mật; biên bản họp Hội đồng giải mật; quyết định giải mật và tài liệu.
+khác có liên quan.
+
+4. Mẫu dấu giải mật thực hiện theo quy định tại Điều 18 Nội quy này.
+
+Điều 16. Tiêu tài liệu, vật chứa bí mật nhà nước.
+
+
+=== TRANG 12 ===
+12
+
+1. Tiêu tài liệu. vật chứa BMNN trong trường hợp sau đây:
+
+a) Khi không cần thiết phải lưu giữ và việc tiêu không gây nguy hại đến lợi ích;.
+quốc gia, dân tộc.
+
+b) Nếu không tiêu ngay sẽ gây nguy hại cho lợi ích quốc gia, dân tộc.
+
+2. Việc tiêu tài liệu, vật chứa BMNN phải đáp ứng các yêu cầu sau đây:
+
+a) Không để bị lộ, bị mất BMNN.
+
+b) Quá trình tiêu phải tác động làm thay đổi hình dạng, tính năng, tác dụng của tài.
+liệu, vật chứa BMNN và loại bỏ hoàn toàn thông tin BMNN.
+
+c) Tài liệu, vật chứa BMNN sau khi tiêu không thể phục hồi hình dạng, tính năng,.
+tác dụng, nội dung.
+
+3. Thẩm quyền tiêu tài liệu, vật chứa BMNN được quy định như sau:
+
+a) Người có thẩm quyền quy định tại điểm a khoản 2 Điều 8 Nội quy này có thẩm quyền;.
+quyết định tiêu tài liệu, vật chứa BMNN.
+
+b) Người đang quản lý tài liệu, vật chứa BMNN được quyền quyết định tiêu trong.
+trường hợp quy định tại điểm b khoản 1 Điều này và báo cáo ngay bằng văn bản về việc tiêu.
+với người đứng đầu đơn vị.
+
+4. Việc tiêu tài liệu, vật chứa BMNN trong trường hợp quy định tại điểm a khoản 1;.
+Điều này được quy định như sau:
+
+a) Người có thẩm quyền quy định tại điểm a khoản 2 Điều 8 Nội quy này quyết định;.
+thành lập Hội đồng tiêu tài liệu, vật chứa BMNN.
+
+b) Hội đồng tiêu tài liệu, vật chứa BMNN bao gồm đại diện lãnh đạo đơn vị trực;.
+tiếp lưu giữ tài liệu, vật chứa BMNN làm Chủ tịch Hội đồng: người trực tiếp lưu giữ tài liệu,.
+vật chứa BMNN và đại diện cơ quan, tổ chức có liên quan.
+
+c) Hội đồng tiêu tài liệu, vật chứa BMNN có trách nhiệm rà soát tài liệu, vật chứa.
+BMNN được đề nghị tiêu, báo cáo người có thẩm quyền quy định tại điểm a khoản 2 ;.
+Điều 8 Nội quy này ban hành quyết định tiêu.
+
+d) Hồ sơ tiêu phải được lưu trữ bao gồm quyết định thành lập Hội đồng tiêu;.
+Danh sách tài liệu, vật chứa BMNN đề nghị tiêu; biên bản họp Hội đồng tiêu; quyết.
+định tiêu, biên bản tiêu và tài liệu khác có liên quan.
+
+Điều 17. Thu hồi tài liệu bí mật nhà nước.
+
+1. Đối với tài liệu bí mật có dấu: (Tài liệu thu hồi) các đơn vị phải trả lại Phòng Tổ chức.
+- Hành chính đúng thời hạn.
+
+2. Văn thư được giao nhiệm vụ gửi tài liệu BMNN phải theo dõi, đôn đốc thu hồi tài.
+liệu BMNN đúng thời hạn.
+
+
+=== TRANG 13 ===
+3.
+
+l
+
+Khi nhận và trả tài liệu phải kiêm tra, đôi chiêu đảm bảo sự vẹn toàn của tài liệu;
+
+tuyệt đối không được đề thất lạc tài liệu BMNN.
+
+Điều 18. Biểu mẫu sử dụng trong công tác bảo vệ bí mật nhà nước.
+
+Biểu mẫu sử dụng trong công tác bảo vệ BMNN được thực hiện theo Phụ lục 1, bao.
+
+gôm:
+
+l.
+
+Văn bản xác định độ mật đối với vật, địa điểm, lời nói, hoạt động, hình thức khác.
+
+chứa BMNN: Mẫu số 01 ;.
+
+2
+
+3
+4
+5
+6.
+7
+b
+9
+
+10.
+lE
+12.
+13.
+14.
+15.
+l6.
+l.
+l8.
+19.
+
+Dấu chỉ độ Tuyệt mật, Tối mật, Mật: Mẫu số 02.
+
+. Dấu ký hiệu A, B, C: Mẫu số 03.
+. Dấu Thời hạn bảo vệ BMNN; dấu Gia hạn thời hạn bảo vệ BMNN: Mẫu số 04.
+
+. Dấu giải mật: Mẫu số 05.
+
+Dầu điều chỉnh độ mật: Mẫu số 06.
+
+. Dấu tài liệu thu hồi; dầu chỉ người có tên mới được bóc bì: Mẫu số 07.
+. Dấu quản lý số lượng tài liệu BMNN: Mẫu số 08 .
+. Dấu sao, chụp BMNN: Mẫu số 09.
+
+Văn bản trích sao: Mẫu số 10.
+
+Dấu bản sao: Mẫu số 11.
+
+Sồ quản lý sao, chụp BMNN: Mẫu số 12.
+
+Văn bản ghi nhận việc chụp tài liệu, vật chứa BMNN: Mẫu số 13.
+Số đăng ký BMNN đi: Mẫu số 14.
+
+Số đăng ký BMNN đến: Mẫu số 15.
+
+Số chuyển giao BMNN: Mẫu số 16.
+
+Văn bản đề nghị cung cấp, chuyền giao BMNN: Mẫu số 17.
+Thống kê BMNN: Mẫu số 18.
+
+Sơ đồ vị trí dấu mật trên văn bản: Mẫu số 19.
+
+Điều 19. Chế độ thông tin, báo cáo về công tác bảo vệ bí mật nhà nước.
+
+. Các đơn vị báo cáo công tác bảo vệ BMNN gửi về Phòng Tổ chức - Hành chính để.
+Tổng hợp, báo cáo theo yêu cầu của ĐHĐN và Bộ Giáo dục và Đào tạo định kỳ trước ngày 28 .
+tháng 12 hàng năm.
+
+2. Thời hạn chốt số liệu trong chế độ báo cáo hằng năm: Tính từ ngày 15 tháng 12 năm.
+
+trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.
+
+
+=== TRANG 14 ===
+14
+
+3. Báo cáo đột xuất được thực hiện ngay sau khi xảy ra lộ, mất BMNN hoặc phát hiện.
+Các hành vi vi phạm pháp luật về bảo vệ BMNN hoặc theo yêu cầu của lãnh đạo Bộ và các.
+đơn vị có liên quan.
+
+4. Nội dung báo cáo về công tác bảo vệ BMNN:
+a) Phân tích, đánh giá tình hình liên quan đến công tác bảo vệ BMNN.
+
+b) Kết quả thực hiện công tác bảo vệ BMNN:; ưu điểm, hạn chế, khó khăn, vướng mắc, ;.
+nguyên nhân và bài học kinh nghiệm trong chỉ đạo, thực hiện.
+
+c) Tình hình, số liệu các vụ lộ, mất BMNN; nguyên nhân và việc xử lý, khắc phục hậu;.
+quả.
+d) Dự báo tình hình: dự kiến công tác trọng tâm bảo vệ BMNN và đề xuất, kiến nghị.
+Chương IV.
+ĐIỀU KHOẢN THỊ HÀNH.
+Điều 20. Tổ chức thực hiện.
+
+1. Trưởng các đơn vị thuộc và trực thuộc có trách nhiệm phổ biển, quán triệt đến từng.
+viên chức thuộc phạm vi đơn vị quản lý, các quy định hiện hành của Nhà nước về công tác.
+bảo vệ BMNN và thực hiện nghiêm chỉnh các quy định của Nội quy này.
+
+2. Phòng Tổ chức - Hành chính chịu trách nhiệm hướng dẫn, theo dõi, kiểm tra,.
+việc thực hiện Nội quy này.
+
+3. Trong quá trình thực hiện Nội quy này, nếu phát sinh khó khăn, vướng mắc.
+vị. cá nhân gửi ý kiến góp ý về Phòng Tổ chức - Hành chính để tổng hợp, báo cáo,.
+Hiệu trưởng xem xét, điều chỉnh, sửa đổi, bổ sung cho phù hợp./. A. Mẹ!
+
+PGS. TS ĐOÀN QUANG VINH.
+
+
+
+=== TRANG 15 ===
+MẪU SÓ 01 .
+(Ban hành kèm theo Quyết định số 4 19 /QĐ-ĐHBK ngày,,)! Tháng 09 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+ĐẠI HỌC ĐÀ NẴNG CỌNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+TRƯỜNG ĐẠI HỌC BÁCH KHOA Độc lập - Tự do - Hạnh phúc.
+
+VĂN BẢN XÁC ĐỊNH, ĐỘ MẬT ĐÓI, VỚI VẬT, ĐỊA ĐIỂM, LỜI NÓI, HOẠT ĐỘNG,.
+HÌNH THỨC KHÁC CHỨA BÍ MẬT NHÀ NƯỚC?
+
+Cơ quan, tổ chức xác định: ......................vueuce-ecersenrss.Eesgsenel.Ee°s0^00000002700900022090000900009090000015;.
+
+N G H N N EH.
+
+Ổ mô tô : ] Tu .(Systems I .OAss200090/2042009/0/900009209/80000050000000200919990/0059800/0980089000009600009980900200998799999005990889899998042984 .
+
+Căn gữ: x e địH: ( )5:.un-nvkxtreennoxeonsnxtreetstioxpes toassrtxeeistsewp ra uuaeopaesre xwsvtrees s K G E L: 65 2204100978.
+
+Ngày, hãng, B565 XÓO GIosysseeesveovveeesreveetoanevewesrosenassrevetuvveeekteievwY=AeSSENKVSXKYSSENSKSSGS>SES.
+Thủ trưởng đơn vị xác định.
+
+bí mật nhà nước.
+(ký, ghi rõ họ tên, chức vụ).
+
+Ghi chú: Mẫu này được áp dụng đối với vật, địa điểm, lời nói, hoạt động hoặc hình thức khác.
+chứa bí mật nhà nước mà không thể đóng dấu độ mật.
+
+(1) Ghi theo độ mật của vật, địa điểm, hoạt động, nội dung lời nói hoặc hình thức khác chứa bí.
+mật nhà nước. Trường hợp trong vật, địa điểm, hoạt động, nội dung lời nói chứa nhiều thông.
+tin có độ mật khác nhau thì xác định theo độ mật cao nhất.
+
+(2) Ghi rõ việc xác định độ mật căn cứ vào quy định tại điều, khoản, điểm nào của danh mục.
+bí mật nhà nước cụ thê.
+
+
+
+=== TRANG 16 ===
+MẪU SÓ 02 .
+(Ban hành kèm theo Quyết định số 413./QĐ-ĐHBK ngày 1/3 tháng 0năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu dấu THIỆT MẬT: Hình chữ nhật, kích thước 40mm x 8mm, có hai đường viền xung.
+Xung quanh, khoảng cách giữa hai đường viền là 01mm; bên trong của hai đường viền là chữ.
+...TUYỆT MẬT được trình bày bằng chữ in hoa, cỡ chữ 13, kiểu chữ times new roman, đứng.
+đậm; cách đều đường viền bên ngoài là 02mm.
+
+Imm
+
+2mm
+
+2. Mẫu dấu  MẬT: Hình chữ nhật, kích thước 30mm x 8mm, có hai đường viền xung.
+quanh, khoảng cách giữa hai đường viền là 01mm; bên trong của hai đường viền là chữ: TÓI.
+MẬT (4) được trình bày bằng chữ in hoa, cỡ chữ 13, kiểu chữ times new roman, đứng, đậm; cách.
+đều đường viền bên ngoài là 02 mm.
+
+._
+®
+-
+»
+
+2mm
+
+3. Mẫu dấu: MẬT: Hình chữ nhật, kích thước 20mm x 8mm, có hai đường viền xung quanh,.
+Khoảng cách giữa hai đường viền là 01mm; bên trong của hai đường viên là chữ: chữ: MẬT (1) được.
+Trình bày bằng chữ in hoa, cỡ chữ 13, kiểu chữ Times new Roman, đứng, đậm; cách đều đường.
+Viền bên ngoài là 02mm.
+
+I mm
+
+2mm
+
+
+
+=== TRANG 17 ===
+MẪU SÓ 03 .
+(Ban hành kèm theo Quyết định số 419 /QĐ-ĐHBK ngày 2 tháng 0năm 2022).
+của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng).
+
+1. Mẫu dấu chữ: Hình tròn, đường kính 15mm, có hai đường viền xung quanh, khoảng.
+Cách giữa hai đường viền là 01mm, chiều cao của chữ (A) là 10mm, được trình bày ở giữa.
+hình tròn, băng chữ in hoa, cỡ chữ 40, kiểu chữ times new roman, đứng, đậm. Mẫu dấu (4).
+được sử dụng đề đóng bên ngoài bì đựng tài liệu bí mật nhà nước độ Tuyệt mật.
+
+10mm 15mm.
+
+2. Mẫu dấu chữ B (B): Hình tròn, đường kính 15mm, có hai đường viền xung quanh, khoảng.
+Cách giữa hai đường viền là 01mm, chiều cao của chữ (B) là 10mm, được trình bày ở giữa.
+hình tròn, bằng chữ in hoa, cỡ chữ 40, kiểu chữ times new roman, đứng, đậm. Mẫu dấu (4).
+được sử dụng đề đóng bên ngoài bì đựng tài liệu bí mật nhà nước độ Tối mật.
+
+I0mm: 15 mm.
+
+3. Mẫu dấu chữ: Hình tròn, đường kính 15mm, có hai đường viền xung quanh, khoảng.
+Cách giữa hai đường viền là 01mm, chiều cao của chữ (C) là 10mm, được trình bày ở giữa.
+hình tròn, bằng chữ in hoa, cỡ chữ 40, kiểu chữ times new roman, đứng, đậm. Mẫu dấu (4).
+được sử dụng đề đóng bên ngoài bì đựng tài liệu bí mật nhà nước độ Mật.
+
+10mm
+
+
+
+=== TRANG 18 ===
+MẪU SỎ 04 .
+(Ban hành kèm theo Quyết định số 413 /QĐ-ĐHBK ngày?/tháng năm 2022).
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu dấu:  HẠN BẢO VỆ BÍ MẬT NHÀ NƯỚC Hình chữ nhật, kích thước 70mm.
+x 12mm, có hai đường. viền xung quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ.
+Nhất là dòng chữ:  HẠN BẢO VỆ BMNN”, trình bày bằng chữ in hoa, cỡ chữ 13, kiểu.
+Chữ times new nằm đứng, đậm; hàng thứ hai là dòng chữ: Từ ...ngày... tháng... năm.. .đến.
+ngày... tháng... năm, trình bày bằng chữ thường, cỡ chữ 10, kiểu chữ times new roman;.
+khoảng cách giữa hàng chữ thứ nhất và hàng chữ thứ hai là 02mm.
+
+Mẫu dấu:  HẠN BẢO VỆ BÍ MẬT NHA NƯỚC) được áp dụng đối với thời hạn bảo.
+vệ bí mật nhà nước theo quy định tại khoản 2 Điều 19 Luật Bảo vệ bí mật nhà nước.
+
+l mm
+
+2. Mẫu dấu: GIA HẠN THỜI BAO VỆ BÍ MẬT NHÀ NƯỚC?: Hình chữ nhật, kích thước.
+70mm x 12mm, có hai đường viền xung quanh, khoảng cách giữa hai đường viền là 01mm;
+Hàng thứ nhất là dòng chữ: GIA HẠN THỜI HẠN BẢO VỆ (BMNN), trình bày bằng chữ in.
+hoa, cỡ chữ 13, kiểu chữ Times new Roman, font, đậm; hàng thứ hai là dòng chữ: Từ.
+
+...ngày... tháng... năm...đền, ngày... tháng... năm..., trình bày băng chữ thường, cỡ chữ 10, kiểu.
+ủa Times new Roman; khoảng cách giữa hàng chữ thứ nhất và hàng chữ thứ hai là 02mm.
+
+Imm
+
+IA HẠN THƠI, HẠN BẢO.
+Từ ngày....tháng..năm.....đến ngày...... máng.
+
+2mm
+
+
+=== TRANG 19 ===
+MẪU SỐ 05 .
+(Ban hành kèm theo Quyết định số A19./QĐ-ĐHBK ngày 2 tháng 0 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+Mẫu dấu  MẬT: Hình chữ nhật, kích thước 30mm x 13mm, có hai đường viền xung.
+quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ nhất là dòng chữ: GIẢI MẬT?,
+Trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new roman, đứng, đậm; hàng thứ hai là.
+Chữ: Từ:......... ở đầu hàng và các dấu chấm cho đến hết, trình bày bằng chữ thường, cỡ chữ.
+13, kiểu chữ Times new Roman: khoảng cách giữa hàng chữ thứ nhất và hàng chữ thứ hai là.
+02m. Sau khi đóng dấu: GIẢI MẬT, ở dòng: .Từ:....... phải ghi rõ thời gian giải mật bắt.
+đầu từ ngày, tháng, năm lãnh đạo có thầm quyền ký quyết định giải mật.
+
+Dấu (GIẢI MẬT) được sử dụng để đóng trên tài liệu bí mật nhà nước kể từ ngày có quyết định.
+định giải mật của người có thẩm quyền và từ ngày nhận được thông báo giải mật hoặc đối với.
+trường hợp quy định tại điềm c, khoản 2 Điều 22 Luật Bảo vệ bí mật nhà nước.
+
+l mm
+
+
+
+=== TRANG 20 ===
+MẪU SÓ 6 .
+(Ban hành kèm theo Quyết định số: 3. /QĐĐ-ĐHBK ngày/ tháng 09 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu đầu: GIẢM XUÓNG TÔI MẬT?: Hình chữ nhật, kích thước 55 mm x 13mm, có hai.
+đường viền xung quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ nhất là dòng.
+chữ: GIAM XUÓNG TÔI, MẬT 7, trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new.
+Roman, đứng, đậm; hàng thứ hai là chữ: Từ:.....” ở đầu hàng và các dấu chấm cho đến hết,.
+trình bày bằng chữ thường, cỡ chữ 13, kiểu chữ times new roman; khoảng cách giữa hàng.
+chữ thứ nhất và hàng chữ thứ hai là 02mm.
+
+l mm
+
+2. Mẫu đầu (GIẢM XUÓNG MẬT): Hình chữ nhật, kích thước 50mm x 13mm, có hai.
+Đường viền xung quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ nhất là dòng.
+chữ: GIẢM XUÓNG MẬT;, trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new.
+Roman, đứng, đậm; hàng thứ hai là chữ: từ......... ở đầu hàng và các dấu chấm cho đến hết,.
+trình bày băng chữ thường, cỡ chữ 13, kiểu chữ Times new Roman; khoảng cách giữa hàng.
+chữ thứ nhất và hàng chữ thứ hai là 02mm.
+
+Ì mm
+
+; ẢM XUỐNG MẬT.
+
+2mm
+
+Dấu GIAM XUÓNG TÓI MẬT) và dấu GIAM XUÓNG MẬT được sử dụng đề đóng trên.
+tài liệu bí mật nhà nước kể từ ngày có quyết định giảm độ mật của người có thầm quyên và từ.
+ngày nhận được thông báo giảm độ mật. Sau khi đóng dấu: GIẢM XUỐNG TÓI MẬT! và.
+dấu GIAM XUỒNG MẬT ở dòng: .Từ:. phải ghi rõ thời gian giảm mật bắt đầu từ ngày,.
+tháng, năm lãnh đạo có thẩm quyền quyết định giảm mật.
+
+3. Mẫu đầu: TĂNG LÊN TUYỆT MẬT?: Hình chữ nhật, kích thước 55mm x 13mm, có hai.
+Đường viền xung quanh, khoảng cách giữa hai đường viên là 01mm; hàng thứ nhất là dòng.
+chữ: TĂNG LÊN TUYỆT MẬT, trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new.
+Roman, đứng, đậm; hàng thứ hai là chữ: Từ:......... , ở đầu hàng và các dấu chấm cho đến hết,.
+trình bày băng chữ thường. cỡ chữ 13, kiểu chữ Times new Roman; khoảng cách giữa hàng.
+chữ thứ nhất và hàng chữ thứ hai là 02mm.
+
+I mm
+
+
+
+=== TRANG 21 ===
+4. Màu dấu: TĂNG LÊN TÔI MẬT?: Hình chữ nhật, kích thước 50mm x 13mm, có hai đường.
+viền xung quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ nhất là dòng chữ.
+(TĂNG LÊN TÓI MẬT), trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new roman,.
+đứng, đậm; hàng thứ hai là chữ: Từ........... ở đầu hàng và các dấu chấm cho đến hết, trình bày.
+bằng chữ thường, cỡ chữ 13, kiểu chữ times new roman; khoảng cách giữa hàng chữ thứ nhất.
+và hàng chữ thứ hai là 02mm.
+
+Imm
+
+ĂNG LÊN TỐI MẬT.
+
+IOƠO ooooooooooooo .......e.S.......v..)v;...;...
+
+Dấu TĂNG LÊN TUYỆT MẬT) và dấu TANG LÊN TÓI MẬT) được sử dụng đề đóng trên.
+tài liệu bí mật nhà nước kể từ ngày có quyết định tăng độ mật của người có thẩm quyền và từ.
+ngày nhận được thông báo tăng độ mật. Sau khi đóng dấu: TTĂNG LÊN TUYỆT MẬT VÀ dấu.
+TĂNG LÊN TÔI MẬT) ở dòng: .Từ:.” phải ghi rõ thời gian tăng độ mật bắt đầu từ ngày,.
+tháng, năm lãnh đạo có thâm quyền quyết định tăng độ mật.
+
+
+
+=== TRANG 22 ===
+MẪU SỐ 07 .
+(Ban hành kèm theo Quyết định số449../QĐ-ĐHBK ngày//tháng 09 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng).
+
+l. MÀY~1 dấu: TÀI LIỆU THU HÔI?: Hình chữ nhật, kích thước 55mm x 13mm, có hai đường.
+viền xung quanh, khoảng cách giữa hai đường viền là 01mm; hàng thứ nhất là dòng chữ: TÀI.
+LIỆU THU HỒI, được trình bày bằng chữ in hoa, cỡ chữ 14, kiểu chữ times new roman, đứng,.
+đậm; hàng thứ hai là dòng chữ: , Thời hạn , ở đầu hàng và các dấu chấm cho đến hết, trình bày.
+bằng chữ thường, cỡ chữ 13, kiểu chữ times new roman; khoảng cách giữa hàng chữ thứ nhất.
+và hàng chữ thứ hai là 02mm.
+
+Dấu: TÀI LIỆU THU HỒI) sử dụng trong trường hợp tài liệu bí mật nhà nước được phát ra.
+trong một thời gian nhất định, người sử dụng chỉ được sử dụng trong thời hạn đó và nộp lại.
+cho nơi phát tài liệu. Sau khi đóng dấu: TÀI LIỆU THU HỒI ở dòng: .Thời hạn” phải ghi rõ.
+thời gian thu hồi tài liệu trước ngày, giờ cụ thê.
+
+Bỉ, Ilm.
+
+ÀI LIÊU THU HÔI.
+
+Ooooooooooooooooooooooooo.
+
+2 mm
+
+2. Mẫu dấu : CHỈ NGUỒI CÓ TÊN MỚI ĐƯỢC BÓC BÌ Hình chữ nhật, kích thước 70mm x.
+9mm, có hai đường viền xung quanh, khoảng cách giữa hai đường viền là 01mm, bên trong là.
+Hàng chữ: CHỈ NGƯỜI CÓ TÊN MỚI ĐƯỢC BÓC BÌ, trình bày bằng chữ in hoa, cỡ chữ 14,.
+kiểu chữ times new roman, đứng, đậm, cách đều đường viền bên ngoài 02mm.
+
+Dấu: CHỈ NGƯỜI CÓ TÊN MỚI ĐƯỢC BÓC BÌ, sử dụng trong trường hợp chuyền tài liệu,.
+vật chứa bí mật nhà nước mà chỉ người nhận mới được bóc bì để bảo đảm bí mật của tài liệu;
+Ngoài bì ghi rõ tên người nhận, bộ phận chuyền tài liệu phải chuyền tận tay người có tên trên.
+bì.
+
+I mm
+2mm
+
+CHỈ NGƯỜI CÓ TÊN MỚI ĐƯỢC BÓC BÌ.
+
+2mm
+
+
+
+=== TRANG 23 ===
+MẪU SÓ 8 .
+(Ban hành kèm theo Quyết định số 413 /QĐĐ-ĐHBK ngày)! Tháng...2 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa - Đại học Đà Nẵng).
+
+Mẫu dấu: (BẢN SO) hình chữ nhật, kích thước 30mm x 8mm, có 01 đường viền xung quanh,.
+Bên trong đường viền là hàng chữ:  SÓ, 2006 được trình bày bằng chữ in hoa, cỡ chữ 14, kiểu.
+chữ times new Roman, đứng, đậm. Mẫu dấu BAN được sử dụng đề quản lý số lượng tài.
+liệu bí mật nhà nước phát hành đến các cơ quan, tổ chức: mẫu dấu  SÓ (4) được đóng trên.
+Trang đầu của tài liệu, ở phía trên bên trái. Ví dụ: Bản số 1 được gửi cho Bộ Ngoại giao sẽ ghi.
+như sau: (Bản số: 01”.
+
+
+
+=== TRANG 24 ===
+MẪU SÓ 09 .
+(Ban hành kèm theo Quyết định số 419 /QĐ-ĐHBK ngày, tháng 02 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+Mẫu dấu:  BẢN SAO BÍ MẬT NHÀ NƯỚC?: Hình chữ nhật, kích thước 60mm x 40mm, phía.
+Trên là hàng chữ: TÊN CƠ QUAN, TÔ CHƯC , trình bày bằng chữ in hoa, cỡ chữ 14, kiểu.
+chữ đứng, đậm; dưới hàng chữ tên cơ quan, tổ chức là các hàng chữ: Sao y bản chính/Sao.
+lục), , ngày, tháng, năm”, , số lượng”, ,nơi nhận”, ,Thầm quyên sao , trình bày bằng chữ.
+Thường, cỡ chữ 13. Kiểu chữ của các hàng chữ trong dấu: .BẢN SAO BÍ MẬT NHÀ NƯỚC
+
+là kiểu chữ times new roman.
+
+Mẫu dấu:  (BẢN SAO BÍ MẬT NHÀ NƯỚC) được sử dụng khi thực hiện:  (Bản chính).
+hoặc “Sao lục”. Nếu là bản sao y bản chính thì ghi rõ là sao y, bản sao lục thì ghi rõ là sao lục.
+Tại dòng : , , , , , , , , , , , ghi rõ chức vụ của người cho phép sao; khoảng trống bên dưới.
+Dòng chữ: , , , , , , , , , , , , , , , , , , , , , , , , là chữ ký của người có thẩm quyền, con dấu của cơ quan, tổ chức.
+(nếu có), họ tên của người có thẩm quyền cho phép sao.
+
+Dấu  (BẢN SAO BÍ MẬT NHÀ NƯỚC) được đóng ở phía dưới cùng, tại trang cuối của bản.
+sao tài liệu bí mật nhà nước.
+
+TÊN CƠ QUAN, TỔ CHỨC.
+
+- §ao y bản chính/Sao lục.........................
+. Indy..........tl1z1ng ......... Ố H oresesegeeess.
+- Nơi Mâu ................................................
+
+- Thẩm quyền sao:................................
+
+
+=== TRANG 25 ===
+MẪU SÓ 10 .
+(Ban hành kèm theo Quyết định số 419 . /QĐ-ĐHBK ngày?( tháng) diễn năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+ĐẠI HỌC ĐÀ NẴNG TRÍCH SAO?
+TRƯỜNG ĐẠI HỌC BÁCH KHOA.
+(1)./TS-...2).
+...3).... ngày. tháng. năm. 20...
+
+NỘI DUNG TRÍCH SAO?
+
+N.H.BỆN: Ô Ổ: q01901990/029902/ (4).......................
+
+- : (Chữ ký; dấu của cơ quan, tổ chức).
+
+................... S.
+
+- Lưu: V.T (ĐHBK). (5).
+
+Ghi chú:
+
+(1) Số của bản trích sao.
+
+(2) Ký hiệu của văn bản được trích sao, ví dụ: QĐ-TTg hoặc BC-BCA.
+(3) Địa danh.
+
+(4) Chức vụ của người có thẩm quyền sao.
+
+(5) Viết tắt tên người sao, ghi rõ số lượng bản sao, ví dụ: (Q, 05).
+
+(6) Ghi rõ họ tên của người có thẩm quyền cho phép sao.
+
+
+=== TRANG 26 ===
+MẪU SỎ 11 .
+(Ban hành kèm theo Quyết định số 413 /QĐ-ĐHBXK ngày 2 - tháng 0 năm 2022).
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+Mẫu dấu (BẢN SAO SÓ) : Hình chữ nhật, kích thước 37mm x 8mm, có một đường viền.
+Xung quanh, bên trong là hàng chữ:  SÓ , trình bày bằng chữ in hoa, cỡ chữ.
+14, kiểu chữ Times new Roman, đứng, đậm. Dấu: (BẢN SAO SÓ) được đóng ở góc trên.
+bên phải tại trang đầu của bản sao tài liệu bí mật nhà nước.
+
+BẢN SAO SỐ.....
+
+8mmỊ
+
+37 mm. 37 mm.
+
+
+
+=== TRANG 27 ===
+MẪU SÓ 12 .
+SÓ QUẢN LÝ SAO, CHỤP BÍ MẬT NHÀ NƯỚC?
+
+(Ban hành kèm theo Quyết định số M 9 /QĐ-ĐHBK ngày 2 tháng 0 năm 2022).
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu số.
+
+S quản lý sao, chụp bí mật nhà nước được in sẵn, kích thước 210mm x 297mm.
+
+a) Bìa và trang đầu;.
+
+Bìa và trang đầu của số quản lý sao, chụp bí mật nhà nước được trình bày theo hình minh.
+Dưới đây:
+
+SỐ QUẦN LÝ SAO, CHỤP BÍ MẬT NHÀ NƯỚC.
+
+Năm: .. (3)...
+
+7 từ ngày ....... đến ngày ... (2)..........
+
+Qu; diễn số: .......
+
+Ghi chú:
+(1): Đại học Đà Nẵng.
+(2) : Tên đơn vị.
+
+
+
+=== TRANG 28 ===
+(3) : Năm mở số quản lý sao, chụp bí mật nhà nước.
+(4) : Ngày, tháng bắt đầu và kết thúc.
+
+(5): Số thứ tự của quyển số.
+
+b) Phần quản lý sao, chụp bí mật nhà nước;.
+
+Phần quản lý sao, chụp bí mật nhà nước được trình bày trên trang giấy khổ A4 (210mm x).
+297mm) bao gôm 09 cột theo mâu sau:
+
+Nơi nhận | Người có thầm | Người.
+bản sao, | quyền cho phép, |thực hiện.
+chụp sao, chụp.
+
+2. Hướng dẫn quản lý.
+Cột 1: Ghi số thứ tự từ 01 đến khi sử dụng hết quyền sô.
+
+Cột 2: Ghi ngày, tháng, năm sao tài liệu, vật chứa bí mật nhà nước; đối với những ngày dưới.
+10 và tháng 1, 2 thì phải thêm sô 0 ở trước, ví dụ: 03/01, 27/7, 31/12.
+
+Cột 3: Ghi tên loại và trích yêu nội dung tài liệu, vật chứa bí mật nhà nước được sao.
+
+Cột 4: Ghi rõ độ mật của tài liệu, vật chứa bí mật nhà nước được sao (Tuyệt mật, Tối mật,.
+Mật hoặc ghi ký hiệu A, B. C).
+
+Cột 5: Ghi rõ số lượng bản sao.
+
+Cột 6: Ghi tên cơ quan, tổ chức hoặc đơn vị, cá nhân nhận bản sao tài liệu, vật chứa bí mật.
+nhà nước.
+
+Cột 7: Ghi tên, chức vụ của người có thẩm quyền cho phép sao.
+Cột 8: Ghi rõ họ tên và chữ ký xác nhận của người thực hiện sao.
+
+Cột 9: Ghi những nội dung cần thiết khác.
+
+
+
+=== TRANG 29 ===
+MẪU SÓ 13 .
+(Ban hành kèm theo Quyết định số 13 /ĐĐ-ĐHBK ngày... tháng... năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+ĐẠI HỌC ĐÀ NĂNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+TRƯỜNG ĐẠI HỌC BÁCH KHOA Độc lập - Tự do - Hạnh phúc.
+
+VĂN BẢN GHI NHẬN VIỆC CHỤP TÀI LIỆU, VẬT CHỨA BÍ MẬT NHÀ NƯỚC.
+
+Tên, loại tài liệu, vật chứa bí mật nhà nước được chụp: ............................
+Số lượng bần CHUP:.................esesesssEiEdIECEXEEEWEEEESSSWESRW0EEEESSEEE>SEEESSE.
+, Số N: TOEXOEOROEEEEEEEEGEEEEEDEREDEBVESEEHHRECRC -.
+Độ mật của tài liệu, vật chứa bí mật nhà nước được chụp (2):..................
+
+Ngày, tháng, năm chụp tài liệu, vật chứa bí mật nhà nước: .......................
+
+Chỉ đạo cơ quan, tổ chức cho phép chụp tài liệu; người thực hiện chụp tài liệu, vật chứa bí.
+
+liệu, vật chứa bí mật nhà nước, mật nhà nước.
+(ký, ghi rõ họ tên, chức vụ); (ký, ghi rõ họ tên).
+
+Ghi chú: Mẫu này áp dụng đối với bản chụp tài liệu, vật chứa bí mật nhà nước không thể đóng.
+dấu bản sao, chụp hoặc trường hợp chụp tài liệu bí mật nhà nước đề gửi cơ quan, tổ chức theo.
+pháp luật về cơ yếu; mẫu này được gửi kèm theo bản chụp tài liệu, vật chứa bí mật nhà nước.
+cho cơ quan, tổ chức nhận bản chụp.
+
+(1) Ghi rõ tên cơ quan, tổ chức nhận bản chụp.
+
+(2) Ghi rõ độ mật của tài liệu, vật chứa bí mật nhà nước được chụp (Tuyệt mật, Tối mật, Mật).
+hoặc ghi ký hiệu A, B, C).
+
+
+=== TRANG 30 ===
+- MẪU SÓ 14.
+SỐ ĐĂNG KÝ BÍ MẬT NHÀ NƯỚC ĐI.
+(Ban hành kèm theo Quyết định số 413 /QĐ-ĐHBK ngày.2 tháng)è năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu số.
+
+Sổ đăng ký bí mật nhà nước đi được in săn, kích thước 210mm x 297mm.
+
+a) Bìa và trang đầu;.
+
+Bìa và trang đầu của hồ đăng ký bí mật nhà nước đều được trình bày theo hình minh dưới.
+đây:
+
+SỎ ĐĂNG KÝ BÍ MẬT NHÀ NƯỚC ĐI.
+
+Năm: ..(1998)...
+Từ ngày ....... đến ngày ... (4)..........
+
+,
+
+- S : TN.
+
+Ghi chú:
+(1): ĐẠI HỌC ĐÀ NẴNG.
+
+
+=== TRANG 31 ===
+(2) : Tên đơn vị.
+
+(3) : Năm mở Sồ đăng ký bí mật nhà nước đi.
+
+(4) : Ngày, tháng bắt đầu và kết thúc đăng ký văn bản trong số.
+
+(5) : Số thứ tự đăng ký văn bản mật đi đầu tiên và cuối cùng trong số.
+(6) : Số thứ tự của quyền số.
+
+b) Phần đăng bí mật nhà nước đi.
+
+Phần quản lý bí mật nhà nước đã được trình bày trên trang giấy khổ A4 (210mm x 297mm) bao.
+Gôm 09 cột theo mâu sau:
+
+Số, ký , mã tên loại và.
+Bild: hiệu tài trích yếu nội :
+liệu, vật xác, hình dung tài liệu, . |Độ mật: , , Ươi , ẵn, Đơn vị mẹ , ẵn, ỉ.
+chứa tài liệu, vật chứa ỷ ôi.
+BMNN |Vật chứa BMNN.
+
+mØ, Ø œ, @| œ, | Ø | (?!
+-I-I.
+
+2. Hướng dẫn đăng ký.
+
+Cột 1: Ghi số thứ tự từ 01 đến khi sử dụng hết quyền số.
+
+Cột 2: Ghi số và ký hiệu của tài liệu, vật chứa bí mật nhà nước.
+
+Cột 3: Ghi ngày, tháng, năm của văn bản; đối với những ngày dưới 10 và tháng 1, 2 thì phải.
+Thêm sô 0 ở trước, ví dụ: 03/01, 27/7, 31/12.
+
+Cột 4: Ghi tên loại và trích yếu nội dung tài liệu, vật chứa bí mật nhà nước; đối với bí mật nhà.
+Nước đi có độ mật... tuyệt mật thì chỉ được ghi vào cột trích yếu nội dung sau khi được phép.
+của lãnh đạo xác định độ mật bí mật nhà nước đó.
+
+Cột 5: Ghi rõ độ mật của tài liệu, vật chứa bí mật nhà nước (Tuyệt mật, Tối mật, Mật hoặc Ghi.
+ký hiệu A, B, C).
+
+Cột 6: Ghi tên của người ký tài liệu bí mật nhà nước.
+
+Cột 7: Ghi tên các cơ quan, tổ chức hoặc đơn vị. cá nhân nhận tài liệu, vật chứa bí mật nhà.
+nước như được ghi tại phân nơi nhận của tài liệu.
+
+Cột 8: Ghi tên đơn vị lưu tài liệu.
+
+Cột 9: Ghi số lượng bản phát hành tài liệu.
+
+Cột 10: Ghi những nội dung cần thiết khác.
+
+
+=== TRANG 32 ===
+C. MĂU SÔ15 U.
+SỎÓ ĐĂNG KÝ BÍ MẠT NHÀ NƯỚC ĐEN.
+(Ban hành kèm theo Quyết định số A†9 /QĐ-ĐHBK ngày 2! tháng 0năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu số 1.
+Sổ đăng ký bí mật nhà nước đến được in sẵn, kích thước 210mm x 297mm.
+a) Bìa và trang đầu;.
+Bìa và trang đầu của hồ đăng ký bí mật nhà nước đến được trình bày tương tự như bìa và trang.
+Đầu của số đăng ký bí mật nhà nước đi, chỉ khác tên gọi là: SÔ ĐĂNG KÝ BÍ MẬT NHÀ.
+NƯỚC ĐÉN.
+b) Phần đăng ký bí mật nhà nước đến.
+FQL1 lần quản lý bí mật nhà nước đến được trình bày trên trang giấy khổ A4 (210mm x 297mm) bao.
+Gôm 09 cột theo mâu sau:
+
+Cơ quan, tô.
+
+Danh ban.
+
+Tên loại.
+va tnch.
+
+2. Hướng dẫn đăng ký.
+
+Cột 1: Ghi số thứ tự từ 01 đến khi sử dụng hết quyển số.
+
+Cột 2: Ghi theo ngày, tháng được ghi trên dấu đến.
+
+Cột 3: Ghi theo số được ghi trên dấu đến.
+
+Cột 4: Ghi cơ quan, tổ chức ban hành tài liệu, vật chứa bí mật nhà nước.
+
+Cột 5: Ghi số và ký hiệu của tài liệu, vật chứa bí mật nhà nước đến.
+
+Cột 6: Ghi ngày, tháng, năm của văn bản mật đến; đối với những ngày dưới 10 và tháng 1, 2 thì.
+phải thêm sô 0 ở trước, ví dụ: 03/01, 27/7, 31/12.
+
+Cột 7: Ghi tên loại và trích wu nội dung của tài liệu, bí mật nhà nước đến.
+
+Cột 8: Ghi rõ độ mật của tài liệu, vật chứa bí mật nhà nước (Tuyệt mật, Tối mật, Mật hoặc ghi ký.
+hiệu A, B, C).
+
+Cột 9: Ghi tên đơn vị hoặc cá nhân nhận tài liệu, vật chứa bí mật nhà nước đến.
+
+Cột 10: Ghi những nội dung cần thiết khác.
+
+
+
+=== TRANG 33 ===
+.. MẪU SỐ 16 m.
+SÓ CHUYỀN GIAO BÍ MẬT NHÀ NƯỚC?
+
+(Ban hành kèm theo Quyết định số 213 /QĐ-ĐHBK ngày 1/3 tháng 02 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+1. Mẫu số.
+Sồ chuyến giao bí mật nhà nước được in sẵn, kích thước 210mm x 297mm.
+a) Bìa và trang đầu;.
+
+Bìa và trang đầu của số được trình bày tương tự như bìa và trang đầu của hồ đăng ký bí mật.
+nhà nước đi, chỉ khác tên gọi là SÔ CHUYỀN GIAO BÍ MẬT NHÀ NƯỚC".
+
+b) Phần chuyền giao bí mật nhà nước;.
+
+Phần chuyển giao bí mật nhà nước được trình bày trên trang giấy khổ A4 theo. chiều rộng.
+(210mm x 297mm) hoặc theo chiều dài (148mm x 210mm) bao gồm 06 cột theo mẫu sau:
+
+2. Hướng dẫn ghi.
+
+Đơn vị hoặc.
+người nhận.
+
+Cột 1: Ghi ngày, tháng, năm chuyền giao bí mật nhà nước cho các cơ quan, tổ chức, cá nhân;
+Đối với những ngày dưới 10 và tháng 1, 2 thì phải thêm số 0 ở trước; năm được ghi bằng hai.
+chữ số cuối của năm, ví dụ: 03/01, 27/7, 31/12.
+
+Cột 2: Ghi theo số được ghi trên dấu "đến": số văn bản đi.
+
+Cột 3: Ghi rõ mức độ mật của bí mật nhà nước (Tuyệt mật, Tối mật, Mật) hoặc ghi ký hiệu A, B.
+B,.CƠ.
+
+Cột 4: Ghi tên đơn vị hoặc cá nhân nhận bí mật nhà nước.
+Cột 5: Chữ ký của người trực úếp nhận bí mật nhà nước.
+
+Cột 6: Ghi nội dung cần thiết khác (như bản sao, số lượng tài liệu...).
+
+
+=== TRANG 34 ===
+MẪU SỐ 17 .
+(Ban hành kèm theo Quyết định số A19 /QĐ-ĐHBK ngày 02 tháng 0 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+.............. T. . 22I 0148 18 LỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM.
+................... 2).......... Độc lập - Tự do - Hạnh phúc.
+
+Kính gửi: Trường Đại học Bách khoa - Đại học Đà Nẵng.
+
+Tên cơ quan, tổ chức hoặc cá nhân đề nghị cung cấp, chuyên giao bí mật nhà nước:
+
+..............................................................................................................................................
+
+Họ và tên người đại diện của cơ quan, tô chức hoặc cá nhân đề nghị cung câp, chuyên gia cao bí.
+Số : i YYVEEEOOREEEESEERREREEEEEREEEEEHESHEEESEVASBBBR.
+
+Vị trí công tác của người đại diện hoặc cá nhân: .......................................
+
+Bí mật nhà nước đề nghị cung câp, chuyên giao:
+
+................................................. (U)„(en-r)senniserenrsereo n EELEEEEEEEEEEEEEESEISEOSSS.
+
+Độ mật của bí mật nhà nước đề nghị cung câp, chuyên giao......................
+Mục đích sử dụng: bí mật nước: .....................................-s-esseeness.
+Cam kết bảo vệ bí mật nhà nước: ............................... (4).........................
+
+Cơ quan, tổ chức hoặc cá nhân đề nghị.
+(ký, ghi rõ họ tên, chức vụ và đóng dâu).
+
+Ghi chú:
+
+(1) Tên cơ quan, tổ chức đề nghị cung cấp, chuyền giao bí mật nhà nước;.
+(2) Số, ký hiệu của văn bản đề nghị cung cấp, chuyền giao.
+
+(3) Loại, trích yếu nội dung của bí mật nhà nước.
+
+(4) Trường hợp cung cấp, chuyển giao bí mật nhà nước cho cơ quan, tổ chức, cá nhân nước.
+ngoài phải cam kết không cung cấp cho bên thứ ba, nếu không có sự đồng ý của bên cung cấp.
+
+
+
+=== TRANG 35 ===
+MẪU SÓ 18 .
+(Ban hành kèm theo Quyết định số 413 /QĐ-ĐHBK ngày.2 tháng 0 năm 2022).
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+THÓNG KÊ BÍ MẬT NHÀ NƯỚC.
+
+Cơ quan, tô.
+¬-Nguyện thời gian xác định xác.
+Yêu tài liệu, - . T. H. S.
+Độ mật | định hoặc tiên | định hoặc.
+
+vật chứa bí A - S |u .
+- Nhận, lưu giữ. tiêp nhận, lưu.
+mật nhà nước ủ.
+
+Sô, ký hiệu.
+
+của tài liệu,.
+
+STT vật chứa bí.
+Mật nhà.
+
+Tên loại, trích.
+
+Lãnh đạo cơ quan, tổ chức thống kê; Người thống kê;.
+(ký, ghi rõ họ tên, chức vụ); (ký, ghi rõ họ tên).
+
+Ghi chú: Mẫu thống kê bí mật nhà nước được sử dụng đề thống kê tài liệu, vật chứa bí.
+mật nhà nước phát hành và tiêp nhận trong năm công tác.
+
+(1) : Ghi số thứ tự tài liệu, vật chứa bí mật nhà nước được phát hành hoặc tiếp nhận,.
+lưu giữ. lưu giữ.
+
+(2) : Ghi số, ký hiệu, ngày, tháng, năm xác định tài liệu, vật chứa bí mật nhà nước.
+
+(3) : Tên loại, trích yếu nội dung của tài liệu, vật chứa bí mật nhà nước.
+
+(4) : Ghi độ mật của tài liệu, vật chứa BMNN (Tuyệt mật, Tối mật, Mật hoặc ghi ký.
+hiệu A. B, C).
+
+(5) : Ghi cụ thể ngày, tháng, năm xác định hoặc tiếp nhận, lưu giữ.
+(6) : Ghi cụ thể cơ quan, tổ chức xác định hoặc tiếp nhận, lưu giữ bí mật nhà nước.
+
+(7) : Ghi những nội dung cần thiết khác (bản sao, số lượng bản lưu giữ...).
+
+
+=== TRANG 36 ===
+ĐÃÁU 19 . I.
+SƠ ĐỎ VỊ TRÍ CÁC DẦU MẬT TRÊN VĂN BẢN.
+(Trên một trang giấy A4: 210 mm x 297 mm).
+(Ban hành kèm theo Quyết định số 419 /QĐĐ-ĐHBK ngày.)Ít tháng 01 năm 2022.
+của Hiệu trưởng Trường Đại học Bách khoa, Đại học Đà Nẵng).
+
+
+
+=== TRANG 37 ===
+©
+Ø©»
+
+. + v, X . - Ấn„Z“.
+
+i s
+Ơ .
+
+7a, 7b, 7c.
+
+9a, 9b.
+10a
+10b
+lÚc
+10d
+JI
+lla
+
+11b
+llc
+12
+13
+
+14
+l5
+ló
+
+Ghi chú:
+
+Thành phần thể thức văn bản.
+
+Quốc hiệu.
+
+Tên cơ quan, tổ chức ban hành văn bản;.
+
+Số, ký hiệu của văn bản;.
+
+Địa danh và ngày, tháng, năm ban hành văn bản.
+
+Tên loại và trích yếu nội dung văn bản.
+
+Trích yếu nội dung văn bản.
+
+Nội dung văn bản.
+
+Quyền hạn, chức vụ, họ tên và chữ ký của người có thẩm quyền;.
+Dấu của cơ quan, tổ chức.
+
+Nơi nhận.
+
+Dấu chỉ độ mật (Tuyệt mật, Tối mật, Mật).
+
+Dầu chỉ độ phân.
+
+Dầu giải mật.
+
+Dấu tăng mật, giảm mật.
+
+Dầu thời hạn bảo vệ bí mật nhà nước.
+
+Dấu tài liệu thu hồi hoặc dấu gia hạn thời hạn bảo vệ bí mật nhà.
+nước
+
+Dầu (Bản số 6).
+
+Dầu Dấu (Bản sao số).
+
+Chỉ dẫn về dự thảo văn bản.
+
+Ký hiệu người soạn thảo, số lượng bản phát hành; được phép hoặc.
+không được phép sao, chụp.
+
+Dấu bản sao bí mật nhà nước.
+
+Logo: In chìm dưới tên cơ quan, tổ chức ban hành văn bản (nếu có).
+Địa chỉ cơ quan, tổ chức; địa chỉ e-mail; địa chỉ Website; số điện.
+thoại: số Telex; số Fax.
+
