@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DUT Chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="topbar">
+        <div class="brand">DUT Chatbot</div>
+        <nav class="nav">
+          <a href="#" class="nav-link">Trang chủ</a>
+          <a href="#" class="nav-link active">Trò chuyện</a>
+          <a href="#" class="nav-link">FAQs</a>
+          <a href="#" class="nav-link">Báo lỗi / Góp ý</a>
+        </nav>
+      </header>
+
+      <main class="workspace">
+        <aside class="history-card">
+          <div class="card-head">
+            <h2>Lịch sử trò chuyện</h2>
+            <button id="clearHistoryBtn" class="ghost-btn" type="button">Xóa</button>
+          </div>
+          <div id="historyList" class="history-list"></div>
+        </aside>
+
+        <section class="chat-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Hybrid RAG Assistant</p>
+              <h1>Tra cứu thông tin sinh viên và quy định học vụ</h1>
+            </div>
+            <div class="controls">
+              <label class="control">
+                <span>Model</span>
+                <select id="modelSelect"></select>
+              </label>
+              <label class="control">
+                <span>Top K</span>
+                <select id="topKSelect">
+                  <option value="3">3</option>
+                  <option value="5" selected>5</option>
+                  <option value="8">8</option>
+                </select>
+              </label>
+            </div>
+          </div>
+
+          <div id="statusBar" class="status-bar">Đang kiểm tra backend...</div>
+
+          <div id="chatMessages" class="chat-messages"></div>
+
+          <form id="chatForm" class="composer">
+            <textarea
+              id="queryInput"
+              rows="1"
+              placeholder="Nhập câu hỏi tại đây..."
+            ></textarea>
+            <div class="composer-actions">
+              <button id="planBtn" type="button" class="outline-btn">Xem plan</button>
+              <button id="sendBtn" type="submit" class="send-btn">Gửi</button>
+            </div>
+          </form>
+        </section>
+      </main>
+    </div>
+
+    <template id="messageTemplate">
+      <article class="message">
+        <div class="avatar"></div>
+        <div class="bubble-wrap">
+          <div class="bubble-meta"></div>
+          <div class="bubble"></div>
+          <div class="bubble-extra hidden"></div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+  </html>

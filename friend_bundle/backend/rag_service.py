@@ -58,6 +58,7 @@ ROOM_RE = re.compile(r"\b(?:phong|p\.?)\s*([a-z]{1,3}\d{0,3})\b", re.I)
 MSSV_RE = re.compile(r"\b(10\d{6,10})\b")
 DATE_RE = re.compile(r"\b(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})\b")
 ANN_RE = re.compile(r"\bANN_[0-9A-F]{10}\b", re.I)
+MONTH_YEAR_RE = re.compile(r"\b(?:thang|tháng)?\s*(\d{1,2})[/-](20\d{2})\b", re.I)
 COHORT_RE = re.compile(r"\b(?:khoa|khóa|k)\s*[-_ ]?(20\d{2}|\d{2})\b", re.I)
 NAME_RE = re.compile(r"\b([A-ZĐ][a-zà-ỹ]+(?:\s+[A-ZĐ][a-zà-ỹ]+){1,4})\b")
 STOP_NAME_PHRASES = {
@@ -83,6 +84,7 @@ class QueryEntities:
     exam_type: str | None = None
     batch_no: str | None = None
     batch_text: str | None = None
+    month_text: str | None = None
     cohort: str | None = None
     subject: str | None = None
     intents: list[str] = field(default_factory=list)
@@ -202,6 +204,10 @@ class RagService:
         if date_match:
             entities.date_text = date_match.group(1)
 
+        month_match = MONTH_YEAR_RE.search(q_norm)
+        if month_match:
+            entities.month_text = f"{int(month_match.group(1))}/{month_match.group(2)}"
+
         ann_match = ANN_RE.search(query.upper())
         if ann_match:
             entities.ann_id = ann_match.group(0).upper()
@@ -296,9 +302,12 @@ class RagService:
                 reason="Có tên sinh viên nên tra graph theo ho_ten trước, rồi vector theo ann_id.",
             )
 
-        if any([entities.room, entities.subject, entities.cohort, entities.batch_no]) and any(
-            intent in entities.intents
-            for intent in ["participant_lookup", "room_lookup", "subject_lookup", "cohort_lookup", "batch_lookup"]
+        if any([entities.room, entities.subject, entities.cohort, entities.batch_no, entities.date_text, entities.exam_type, entities.month_text]) and (
+            any(
+                intent in entities.intents
+                for intent in ["participant_lookup", "room_lookup", "subject_lookup", "cohort_lookup", "batch_lookup"]
+            )
+            or bool(entities.date_text or entities.month_text or entities.exam_type)
         ):
             return QueryPlan(
                 route="hybrid",
@@ -426,6 +435,7 @@ class RagService:
             "date_text": entities.date_text or "",
             "exam_type": entities.exam_type or "",
             "batch_text": entities.batch_text or "",
+            "month_text": entities.month_text or "",
             "cohort": entities.cohort or "",
             "subject": entities.subject or "",
         }
@@ -435,6 +445,7 @@ class RagService:
           AND ($date_text = '' OR coalesce(ki.ngay_thi, '') CONTAINS $date_text)
           AND ($exam_type = '' OR toUpper(coalesce(ki.loai_thi, '')) CONTAINS toUpper($exam_type))
           AND ($batch_text = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($batch_text))
+          AND ($month_text = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($month_text) OR coalesce(ki.ngay_thi, '') CONTAINS $month_text)
           AND ($cohort = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($cohort) OR toLower(coalesce(ki.title, '')) CONTAINS toLower($cohort))
           AND ($subject = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($subject) OR toLower(coalesce(ki.title, '')) CONTAINS toLower($subject))
         RETURN ann.id AS ann_id,
@@ -480,6 +491,7 @@ class RagService:
                 "date_text": entities.date_text,
                 "exam_type": entities.exam_type,
                 "batch_text": entities.batch_text,
+                "month_text": entities.month_text,
                 "cohort": entities.cohort,
                 "subject": entities.subject,
             },
@@ -841,6 +853,38 @@ class RagService:
 
         return "\n\n---\n\n".join(parts)
 
+    def answer_from_graph(self, retrieval: dict[str, Any]) -> str | None:
+        entities: QueryEntities = retrieval["entities"]
+        graph_hint: GraphHint | None = retrieval["graph"]
+        if graph_hint is None:
+            return None
+
+        if "participant_lookup" in entities.intents and graph_hint.mode == "exam_search":
+            lines = []
+            for item in graph_hint.graph_records[:5]:
+                students = item.get("students") or []
+                if not students:
+                    continue
+                title = item.get("title", "Thông báo không rõ")
+                loai_thi = item.get("loai_thi", "")
+                ngay_thi = item.get("ngay_thi", "")
+                phong_thi = item.get("phong_thi", "")
+                header = f"{title} | {loai_thi} | {ngay_thi} | phòng {phong_thi}"
+                names = [
+                    f"{student.get('ho_ten', '').strip()} ({student.get('mssv', '').strip()})"
+                    for student in students
+                    if student.get("mssv")
+                ]
+                if not names:
+                    continue
+                preview = "\n".join(f"- {name}" for name in names[:15])
+                suffix = f"\n... và thêm {len(students) - 15} sinh viên khác." if len(students) > 15 else ""
+                lines.append(f"{header}\n{preview}{suffix}")
+            if lines:
+                return "Danh sách sinh viên tìm được từ dữ liệu graph:\n\n" + "\n\n".join(lines)
+
+        return None
+
     def answer(
         self,
         query: str,
@@ -861,13 +905,15 @@ class RagService:
         )
         context = self.build_context(retrieval=retrieval)
         selected_model = model or (OLLAMA_MODEL if self.llm_provider == "ollama" else GROQ_MODEL)
-        answer = self.generate(
-            query=query,
-            context=context,
-            model=selected_model,
-            temperature=temperature,
-            max_tokens=max_tokens,
-        )
+        answer = self.answer_from_graph(retrieval)
+        if answer is None:
+            answer = self.generate(
+                query=query,
+                context=context,
+                model=selected_model,
+                temperature=temperature,
+                max_tokens=max_tokens,
+            )
 
         return {
             "query": query,
@@ -875,6 +921,7 @@ class RagService:
             "context": context,
             "graph_enabled": self.neo4j_driver is not None,
             "reranker_enabled": self.reranker is not None,
+            "model": selected_model,
             "entities": asdict(retrieval["entities"]),
             "plan": asdict(retrieval["plan"]),
             "graph_match": None if retrieval["graph"] is None else asdict(retrieval["graph"]),
