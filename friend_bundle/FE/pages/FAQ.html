@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FAQs | DUT Chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: "Be Vietnam Pro", sans-serif;
+        color: #17305b;
+        min-height: 100vh;
+        background: linear-gradient(140deg, #e0f2fe, #ede9fe 46%, #f0f9ff);
+      }
+      .topbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 16px 28px;
+        background: rgba(255, 255, 255, 0.95);
+        border-bottom: 1px solid rgba(119, 141, 200, 0.2);
+      }
+      .brand { font-size: 1.6rem; font-weight: 800; color: #344fb4; }
+      .nav { display: flex; gap: 8px; flex-wrap: wrap; }
+      .nav-link {
+        text-decoration: none;
+        color: #17305b;
+        font-weight: 600;
+        padding: 10px 16px;
+        border-radius: 12px;
+      }
+      .nav-link:hover, .nav-link.active {
+        color: #2f6fff;
+        background: rgba(47, 111, 255, 0.08);
+      }
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 24px 18px 36px;
+      }
+      h1 {
+        text-align: center;
+        margin: 8px 0 20px;
+        font-size: clamp(1.4rem, 4vw, 2rem);
+        background: linear-gradient(90deg, #1d4ed8, #0ea5e9, #8b5cf6);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+      details {
+        background: rgba(255, 255, 255, 0.92);
+        border: 1px solid rgba(119, 141, 200, 0.22);
+        border-radius: 14px;
+        margin-top: 10px;
+        box-shadow: 0 8px 20px rgba(65, 93, 162, 0.08);
+      }
+      summary {
+        cursor: pointer;
+        list-style: none;
+        padding: 14px 16px;
+        font-weight: 600;
+      }
+      summary::-webkit-details-marker { display: none; }
+      .answer { padding: 0 16px 16px; color: #3a4f78; line-height: 1.6; }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">DUT Chatbot</div>
+      <nav class="nav">
+        <a href="./HomePage.html" class="nav-link">Trang chủ</a>
+        <a href="./Chat.html" class="nav-link">Trò chuyện</a>
+        <a href="./FAQ.html" class="nav-link active">FAQs</a>
+        <a href="./IssuePage.html" class="nav-link">Báo lỗi / Góp ý</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <h1>Những câu hỏi thường gặp (FAQs)</h1>
+
+      <details>
+        <summary>Chatbot hoạt động như thế nào?</summary>
+        <div class="answer">
+          Chatbot sử dụng kỹ thuật tìm văn bản liên quan trong bộ dữ liệu đã
+          vector hóa, sau đó dùng mô hình ngôn ngữ lớn để tổng hợp và sinh câu
+          trả lời.
+        </div>
+      </details>
+
+      <details>
+        <summary>Cách sử dụng chatbot để tra cứu thông tin?</summary>
+        <div class="answer">
+          Bạn nên đặt câu hỏi rõ ràng và đủ ngữ cảnh để chatbot trả lời chính
+          xác hơn. Trong một số trường hợp, hãy kiểm chứng thông tin trước khi
+          sử dụng.
+        </div>
+      </details>
+
+      <details>
+        <summary>Thông tin từ chatbot có đáng tin cậy không?</summary>
+        <div class="answer">
+          Chatbot có thể sai ở một số tình huống vì mô hình ngôn ngữ có tính
+          xác suất. Bạn nên đối chiếu với nguồn chính thức khi cần.
+        </div>
+      </details>
+
+      <details>
+        <summary>Tôi có thể liên hệ hỗ trợ như thế nào?</summary>
+        <div class="answer">
+          Bạn có thể vào phần Báo lỗi/Góp ý hoặc liên hệ phòng công tác sinh
+          viên của trường.
+        </div>
+      </details>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trang chủ | DUT Chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: "Be Vietnam Pro", sans-serif;
+        color: #17305b;
+        min-height: 100vh;
+        background: linear-gradient(135deg, #e0f2fe, #dbeafe 45%, #ccfbf1);
+      }
+      .topbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 16px 28px;
+        background: rgba(255, 255, 255, 0.95);
+        border-bottom: 1px solid rgba(119, 141, 200, 0.2);
+      }
+      .brand { font-size: 1.6rem; font-weight: 800; color: #344fb4; }
+      .nav { display: flex; gap: 8px; flex-wrap: wrap; }
+      .nav-link {
+        text-decoration: none;
+        color: #17305b;
+        font-weight: 600;
+        padding: 10px 16px;
+        border-radius: 12px;
+      }
+      .nav-link:hover, .nav-link.active {
+        color: #2f6fff;
+        background: rgba(47, 111, 255, 0.08);
+      }
+      .hero {
+        min-height: calc(100vh - 74px);
+        display: grid;
+        place-items: center;
+        padding: 24px;
+      }
+      .hero-card {
+        text-align: center;
+        background: rgba(255, 255, 255, 0.9);
+        border: 1px solid rgba(119, 141, 200, 0.2);
+        box-shadow: 0 16px 36px rgba(65, 93, 162, 0.14);
+        border-radius: 24px;
+        max-width: 720px;
+        width: 100%;
+        padding: 28px;
+      }
+      .hero-card img { width: 180px; max-width: 50%; height: auto; }
+      h1 { margin: 10px 0 0; font-size: clamp(1.7rem, 5vw, 2.6rem); }
+      .title-gradient {
+        margin-top: 6px;
+        background: linear-gradient(90deg, #1d4ed8, #0ea5e9, #14b8a6);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+      p { font-size: 1.05rem; line-height: 1.6; color: #3a4f78; }
+      .start-btn {
+        display: inline-block;
+        text-decoration: none;
+        margin-top: 10px;
+        padding: 12px 20px;
+        border-radius: 12px;
+        font-weight: 700;
+        color: #fff;
+        background: linear-gradient(135deg, #2563eb, #0ea5e9);
+      }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">DUT Chatbot</div>
+      <nav class="nav">
+        <a href="./HomePage.html" class="nav-link active">Trang chủ</a>
+        <a href="./Chat.html" class="nav-link">Trò chuyện</a>
+        <a href="./FAQ.html" class="nav-link">FAQs</a>
+        <a href="./IssuePage.html" class="nav-link">Báo lỗi / Góp ý</a>
+      </nav>
+    </header>
+
+    <main class="hero">
+      <section class="hero-card">
+        <img src="../assets/robot_image.png" alt="Robot DUT Chatbot" />
+        <h1>Xin chào! Mình là</h1>
+        <h1 class="title-gradient">DUT Chatbot</h1>
+        <p>
+          Giúp bạn giải đáp thắc mắc, tra cứu thông tin một cách nhanh chóng và
+          chính xác hơn.
+        </p>
+        <a class="start-btn" href="./Chat.html">Bắt đầu ngay</a>
+      </section>
+    </main>
+  </body>
+</html>
