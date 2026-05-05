@@ -5,3 +5,4 @@ sentence-transformers
 groq
 neo4j
 pydantic
+python-dotenv

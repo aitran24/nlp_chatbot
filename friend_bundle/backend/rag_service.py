@@ -127,7 +127,7 @@ class RagService:
             )
         self.qdrant = QdrantClient(path=str(QDRANT_PATH))
         self.llm_provider = LLM_PROVIDER
-        # self.ollama_base_url = OLLAMA_BASE_URL.rstrip("/")
+        self.ollama_base_url = OLLAMA_BASE_URL.rstrip("/")
         self.groq = Groq(api_key=GROQ_API_KEY) if (Groq and GROQ_API_KEY) else None
         self.neo4j_driver = None
 
@@ -453,7 +453,6 @@ class RagService:
           AND ($exam_type = '' OR toUpper(coalesce(ki.loai_thi, '')) CONTAINS toUpper($exam_type))
           AND ($batch_text = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($batch_text))
           AND ($month_text = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($month_text) OR coalesce(ki.ngay_thi, '') CONTAINS $month_text)
-          AND ($cohort = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($cohort) OR toLower(coalesce(ki.title, '')) CONTAINS toLower($cohort))
           AND ($subject = '' OR toLower(coalesce(ann.title, '')) CONTAINS toLower($subject) OR toLower(coalesce(ki.title, '')) CONTAINS toLower($subject))
         RETURN ann.id AS ann_id,
                ann.title AS title,
@@ -760,14 +759,32 @@ class RagService:
         max_retries: int = MAX_GENERATION_RETRIES,
     ) -> str:
         user_message = f"Ngữ cảnh:\n{context}\n\nCâu hỏi: {query}"
-        # if self.llm_provider == "ollama":
-        #     return self.generate_with_ollama(
-        #         query=query,
-        #         context=context,
-        #         model=model or OLLAMA_MODEL,
-        #         temperature=temperature,
-        #         max_tokens=max_tokens,
-        #     )
+        if self.llm_provider == "ollama":
+            try:
+                return self.generate_with_ollama(
+                    query=query,
+                    context=context,
+                    model=model or OLLAMA_MODEL,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                )
+            except RuntimeError as exc:
+                error_text = str(exc).lower()
+                memory_error = (
+                    "system memory" in error_text
+                    or "out of memory" in error_text
+                    or "cannot allocate memory" in error_text
+                )
+                if not memory_error:
+                    raise
+                if self.groq is None:
+                    return (
+                        "Ollama bi loi bo nho va backend khong co GROQ_API_KEY, "
+                        "nen chua the sinh cau tra loi."
+                    )
+                print("Ollama het bo nho, fallback sang Groq.")
+                self.llm_provider = "groq"
+                model = GROQ_MODEL
         if self.groq is None:
             return "Chua co GROQ_API_KEY nen backend moi tra ve context, chua sinh cau tra loi."
 
@@ -793,46 +810,46 @@ class RagService:
                     sleep_seconds = GENERATION_BACKOFF_SECONDS * attempt
                 time.sleep(min(sleep_seconds, 90.0))
 
-    # def generate_with_ollama(
-    #     self,
-    #     query: str,
-    #     context: str,
-    #     model: str,
-    #     temperature: float,
-    #     max_tokens: int,
-    # ) -> str:
-    #     payload = {
-    #         "model": model or OLLAMA_MODEL,
-    #         "messages": [
-    #             {"role": "system", "content": SYSTEM_PROMPT},
-    #             {"role": "user", "content": f"Ngữ cảnh:\n{context}\n\nCâu hỏi: {query}"},
-    #         ],
-    #         "stream": False,
-    #         "options": {
-    #             "temperature": temperature,
-    #             "num_predict": max_tokens,
-    #         },
-    #     }
-    #     req = urlrequest.Request(
-    #         url=f"{self.ollama_base_url}/api/chat",
-    #         data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
-    #         headers={"Content-Type": "application/json"},
-    #         method="POST",
-    #     )
-    #     try:
-    #         with urlrequest.urlopen(req, timeout=600) as resp:
-    #             raw = resp.read().decode("utf-8")
-    #     except urlerror.HTTPError as exc:
-    #         detail = exc.read().decode("utf-8", errors="replace")
-    #         raise RuntimeError(f"Ollama HTTP {exc.code}: {detail}") from exc
-    #     except urlerror.URLError as exc:
-    #         raise RuntimeError(f"Cannot reach Ollama at {self.ollama_base_url}: {exc.reason}") from exc
+    def generate_with_ollama(
+        self,
+        query: str,
+        context: str,
+        model: str,
+        temperature: float,
+        max_tokens: int,
+    ) -> str:
+        payload = {
+            "model": model or OLLAMA_MODEL,
+            "messages": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": f"Ngữ cảnh:\n{context}\n\nCâu hỏi: {query}"},
+            ],
+            "stream": False,
+            "options": {
+                "temperature": temperature,
+                "num_predict": max_tokens,
+            },
+        }
+        req = urlrequest.Request(
+            url=f"{self.ollama_base_url}/api/chat",
+            data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            with urlrequest.urlopen(req, timeout=600) as resp:
+                raw = resp.read().decode("utf-8")
+        except urlerror.HTTPError as exc:
+            detail = exc.read().decode("utf-8", errors="replace")
+            raise RuntimeError(f"Ollama HTTP {exc.code}: {detail}") from exc
+        except urlerror.URLError as exc:
+            raise RuntimeError(f"Cannot reach Ollama at {self.ollama_base_url}: {exc.reason}") from exc
 
-    #     try:
-    #         data = json.loads(raw)
-    #     except Exception as exc:
-    #         raise RuntimeError(f"Invalid Ollama response: {raw[:500]}") from exc
-    #     return (data.get("message") or {}).get("content", "").strip()
+        try:
+            data = json.loads(raw)
+        except Exception as exc:
+            raise RuntimeError(f"Invalid Ollama response: {raw[:500]}") from exc
+        return (data.get("message") or {}).get("content", "").strip()
 
     def is_rate_limit_error(self, exc: Exception) -> bool:
         return "429" in str(exc) or "rate limit" in str(exc).lower()
@@ -1006,18 +1023,17 @@ class RagService:
             use_reranker=use_reranker,
         )
         context = self.build_context(retrieval=retrieval)
-        # Determine selected model based on configured provider.
-        # if model:
-        #     selected_model = model
-        # else:
-        #     selected_model = OLLAMA_MODEL if self.llm_provider == "ollama" else GROQ_MODEL
+        if model:
+            selected_model = model
+        else:
+            selected_model = OLLAMA_MODEL if self.llm_provider == "ollama" else GROQ_MODEL
 
-        # if self.llm_provider == "groq" and isinstance(selected_model, str) and ":" in selected_model:
-        #     print(f"Ignoring incompatible model '{selected_model}' for Groq provider; using {GROQ_MODEL} instead")
-        selected_model = GROQ_MODEL
-        # if self.llm_provider == "ollama" and isinstance(selected_model, str) and ":" not in selected_model:
-        #     # Best-effort: Ollama models typically include ':' namespace; warn if plain Groq model passed.
-        #     print(f"Using model '{selected_model}' for Ollama provider (ensure correct Ollama model name)")
+        if self.llm_provider == "groq" and isinstance(selected_model, str) and ":" in selected_model:
+            print(f"Ignoring incompatible model '{selected_model}' for Groq provider; using {GROQ_MODEL} instead")
+        if self.llm_provider == "ollama" and isinstance(selected_model, str) and ":" not in selected_model:
+            # Best-effort: Ollama models typically include ':' namespace; warn if plain Groq model passed.
+            print(f"Using model '{selected_model}' for Ollama provider (ensure correct Ollama model name)")
+
         answer = self.answer_from_graph(retrieval)
         if answer is None:
             answer = self.generate(
@@ -1027,6 +1043,11 @@ class RagService:
                 temperature=temperature,
                 max_tokens=max_tokens,
             )
+
+        if self.llm_provider == "groq":
+            selected_model = GROQ_MODEL
+        elif self.llm_provider == "ollama" and not model:
+            selected_model = OLLAMA_MODEL
 
         return {
             "query": query,

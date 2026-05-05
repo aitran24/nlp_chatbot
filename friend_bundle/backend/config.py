@@ -1,13 +1,15 @@
 from pathlib import Path
 import os
+from dotenv import load_dotenv
 
+# Tải biến từ file .env
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 WORKSPACE_ROOT = ROOT_DIR.parent  # Thư mục nlp_chatbot (parent của friend_bundle)
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
-LLM_PROVIDER = os.getenv("LLM_PROVIDER", "groq").lower()
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "ollama")
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
 

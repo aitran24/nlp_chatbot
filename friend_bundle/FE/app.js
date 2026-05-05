@@ -311,17 +311,19 @@ async function sendQuery(path) {
 
     const meta = path === "/plan" ? `Planner | ${model}` : `DUT Chatbot | ${model}`;
     const route = data.plan?.route || "unknown";
-    const intents = Array.isArray(data.plan?.intents) ? data.plan.intents.join(", ") : "unknown";
+    const intents = ''
+    //Array.isArray(data.plan?.intents) ? data.plan.intents.join(", ") : "unknown";
     const text =
       path === "/plan"
         ? `Route: ${route}\nIntents: ${intents}\nEntities: ${JSON.stringify(data.entities)}`
         : data.answer;
-    const extra = path === "/plan"
-        ? `Vector preview: ${JSON.stringify(data.vector_preview, null, 2)}`
-        : `Route: ${route}\nIntents: ${intents}\nTop hits: ${data.vector_hits
-            .slice(0, 3)
-            .map((item) => `${item.ann_id || "NA"} | ${item.title || "Untitled"}`)
-            .join("\n")}`;
+    const extra = ''
+    // path === "/plan"
+    //     ? `Vector preview: ${JSON.stringify(data.vector_preview, null, 2)}`
+    //     : `Route: ${route}\nIntents: ${intents}\nTop hits: ${data.vector_hits
+    //         .slice(0, 3)
+    //         .map((item) => `${item.ann_id || "NA"} | ${item.title || "Untitled"}`)
+    //         .join("\n")}`;
 
     const botMessage = { role: "bot", meta, text, extra };
     appendToSession(botMessage);

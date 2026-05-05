@@ -17,7 +17,7 @@
         font-family: "Be Vietnam Pro", sans-serif;
         color: #17305b;
         min-height: 100vh;
-        background: linear-gradient(140deg, #e0f2fe, #ede9fe 46%, #f0f9ff);
+        background: #e0f2fe;
       }
       .topbar {
         display: flex;
@@ -31,14 +31,29 @@
       .nav { display: flex; gap: 8px; flex-wrap: wrap; }
       .nav-link {
         text-decoration: none;
-        color: #17305b;
+        color: #000;
         font-weight: 600;
         padding: 10px 16px;
         border-radius: 12px;
+        position: relative;
       }
       .nav-link:hover, .nav-link.active {
-        color: #2f6fff;
-        background: rgba(47, 111, 255, 0.08);
+        color: #000;
+      }
+      .nav-link::after {
+        content: "";
+        position: absolute;
+        left: 16px;
+        right: 16px;
+        bottom: 6px;
+        height: 2px;
+        background: #344fb4;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .nav-link:hover::after, .nav-link.active::after {
+        transform: scaleX(1);
       }
       .container {
         max-width: 900px;
@@ -49,7 +64,7 @@
         text-align: center;
         margin: 8px 0 20px;
         font-size: clamp(1.4rem, 4vw, 2rem);
-        background: linear-gradient(90deg, #1d4ed8, #0ea5e9, #8b5cf6);
+        background: #e0f2fe;
         -webkit-background-clip: text;
         background-clip: text;
         color: transparent;
@@ -88,34 +103,37 @@
       <details>
         <summary>Chatbot hoạt động như thế nào?</summary>
         <div class="answer">
-          Chatbot sử dụng kỹ thuật tìm văn bản liên quan trong bộ dữ liệu đã
-          vector hóa, sau đó dùng mô hình ngôn ngữ lớn để tổng hợp và sinh câu
-          trả lời.
+          Chatbot trước hết tìm các đoạn văn bản liên quan từ dữ liệu đã được
+          tiền xử lý và vector hóa trong backend. Sau đó hệ thống ghép ngữ
+          cảnh phù hợp và gọi mô hình ngôn ngữ để sinh câu trả lời ngắn gọn,
+          đúng trọng tâm.
         </div>
       </details>
 
       <details>
         <summary>Cách sử dụng chatbot để tra cứu thông tin?</summary>
         <div class="answer">
-          Bạn nên đặt câu hỏi rõ ràng và đủ ngữ cảnh để chatbot trả lời chính
-          xác hơn. Trong một số trường hợp, hãy kiểm chứng thông tin trước khi
-          sử dụng.
+          Bạn nên nhập câu hỏi rõ ràng, nêu cụ thể MSSV, tên sinh viên, phòng,
+          đợt thi hoặc từ khóa liên quan nếu có. Câu hỏi càng sát với dữ liệu
+          gốc thì kết quả trả về càng chính xác.
         </div>
       </details>
 
       <details>
         <summary>Thông tin từ chatbot có đáng tin cậy không?</summary>
         <div class="answer">
-          Chatbot có thể sai ở một số tình huống vì mô hình ngôn ngữ có tính
-          xác suất. Bạn nên đối chiếu với nguồn chính thức khi cần.
+          Kết quả được tạo từ dữ liệu nội bộ của dự án nên thường phù hợp với
+          ngữ cảnh tra cứu. Tuy nhiên, vì câu trả lời vẫn do mô hình ngôn ngữ
+          tổng hợp nên bạn nên đối chiếu lại với nguồn chính thức khi cần độ
+          chính xác cao.
         </div>
       </details>
 
       <details>
         <summary>Tôi có thể liên hệ hỗ trợ như thế nào?</summary>
         <div class="answer">
-          Bạn có thể vào phần Báo lỗi/Góp ý hoặc liên hệ phòng công tác sinh
-          viên của trường.
+          Bạn có thể gửi phản hồi ở mục Báo lỗi/Góp ý trong giao diện web hoặc
+          liên hệ người phụ trách dữ liệu để cập nhật, bổ sung tài liệu nguồn.
         </div>
       </details>
     </main>

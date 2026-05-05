@@ -17,7 +17,7 @@
         font-family: "Be Vietnam Pro", sans-serif;
         color: #17305b;
         min-height: 100vh;
-        background: linear-gradient(135deg, #e0f2fe, #dbeafe 45%, #ccfbf1);
+        background: white;
       }
       .topbar {
         display: flex;
@@ -31,14 +31,29 @@
       .nav { display: flex; gap: 8px; flex-wrap: wrap; }
       .nav-link {
         text-decoration: none;
-        color: #17305b;
+        color: #000;
         font-weight: 600;
         padding: 10px 16px;
         border-radius: 12px;
+        position: relative;
       }
       .nav-link:hover, .nav-link.active {
-        color: #2f6fff;
-        background: rgba(47, 111, 255, 0.08);
+        color: #000;
+      }
+      .nav-link::after {
+        content: "";
+        position: absolute;
+        left: 16px;
+        right: 16px;
+        bottom: 6px;
+        height: 2px;
+        background: #344fb4;
+        transform: scaleX(0);
+        transform-origin: center;
+        transition: transform 0.2s ease;
+      }
+      .nav-link:hover::after, .nav-link.active::after {
+        transform: scaleX(1);
       }
       .hero {
         min-height: calc(100vh - 74px);
@@ -48,10 +63,7 @@
       }
       .hero-card {
         text-align: center;
-        background: rgba(255, 255, 255, 0.9);
-        border: 1px solid rgba(119, 141, 200, 0.2);
-        box-shadow: 0 16px 36px rgba(65, 93, 162, 0.14);
-        border-radius: 24px;
+        background: white;
         max-width: 720px;
         width: 100%;
         padding: 28px;
@@ -60,7 +72,7 @@
       h1 { margin: 10px 0 0; font-size: clamp(1.7rem, 5vw, 2.6rem); }
       .title-gradient {
         margin-top: 6px;
-        background: linear-gradient(90deg, #1d4ed8, #0ea5e9, #14b8a6);
+        background: #344fb4;
         -webkit-background-clip: text;
         background-clip: text;
         color: transparent;
@@ -74,7 +86,7 @@
         border-radius: 12px;
         font-weight: 700;
         color: #fff;
-        background: linear-gradient(135deg, #2563eb, #0ea5e9);
+        background: #344fb4;
       }
     </style>
   </head>

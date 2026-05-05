@@ -48,22 +48,24 @@ def health():
 
 @app.get("/models")
 def models():
-    # if LLM_PROVIDER == "ollama":
-    #     print ("Fetching model list from Ollama API...")
-    #     try:
-    #         with urlopen(f"{OLLAMA_BASE_URL}/api/tags", timeout=3) as resp:
-    #             payload = json.loads(resp.read().decode("utf-8"))
-    #         names = [item.get("name", "") for item in payload.get("models", []) if item.get("name")]
-    #         return {"provider": LLM_PROVIDER, "default_model": OLLAMA_MODEL, "models": names}
-    #     except Exception:
-    #         return {"provider": LLM_PROVIDER, "default_model": OLLAMA_MODEL, "models": [OLLAMA_MODEL]}
+    if LLM_PROVIDER == "ollama":
+        print ("Fetching model list from Ollama API...")
+        try:
+            with urlopen(f"{OLLAMA_BASE_URL}/api/tags", timeout=3) as resp:
+                payload = json.loads(resp.read().decode("utf-8"))
+            names = [item.get("name", "") for item in payload.get("models", []) if item.get("name")]
+            return {"provider": LLM_PROVIDER, "default_model": OLLAMA_MODEL, "models": names}
+        except Exception:
+            return {"provider": LLM_PROVIDER, "default_model": OLLAMA_MODEL, "models": [OLLAMA_MODEL]}
 
     if LLM_PROVIDER == "groq":
+        print("Using GROQ provider with fixed model list.")
         # Groq client is used via cloud/API key; we don't have a local list endpoint here.
         return {"provider": LLM_PROVIDER, "default_model": GROQ_MODEL, "models": [GROQ_MODEL]}
 
+    print(f"Unknown LLM_PROVIDER '{LLM_PROVIDER}', returning fallback model list.")
     # Fallback
-    return {"provider": LLM_PROVIDER, "default_model": GROQ_MODEL, "models": [GROQ_MODEL]}
+    return {"provider": LLM_PROVIDER, "default_model": OLLAMA_MODEL, "models": [OLLAMA_MODEL]}
 
 @app.post("/plan")
 def plan(req: QueryRequest):
@@ -82,4 +84,8 @@ def plan(req: QueryRequest):
 @app.post("/query")
 def query(req: QueryRequest):
     service: RagService = app.state.rag
-    return service.answer(query=req.query, top_k=req.top_k, model=req.model)
+    return service.answer(
+        query=req.query,
+        top_k=req.top_k,
+        model=req.model,
+    )
