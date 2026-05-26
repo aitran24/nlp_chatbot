@@ -3,3 +3,4 @@ qdrant_db/
 friend_bundle/cache/qdrant_local_bench/collection/chatbot_documents/
 friend_bundle/.venv/
 friend_bundle/backend/.env
+dataset/
