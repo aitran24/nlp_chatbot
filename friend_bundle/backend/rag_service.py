@@ -1023,10 +1023,11 @@ class RagService:
             use_reranker=use_reranker,
         )
         context = self.build_context(retrieval=retrieval)
-        if model:
-            selected_model = model
-        else:
-            selected_model = OLLAMA_MODEL if self.llm_provider == "ollama" else GROQ_MODEL
+        
+        if self.llm_provider == "groq":
+            selected_model = GROQ_MODEL
+        elif self.llm_provider == "ollama" and not model:
+            selected_model = OLLAMA_MODEL
 
         if self.llm_provider == "groq" and isinstance(selected_model, str) and ":" in selected_model:
             print(f"Ignoring incompatible model '{selected_model}' for Groq provider; using {GROQ_MODEL} instead")
@@ -1044,10 +1045,7 @@ class RagService:
                 max_tokens=max_tokens,
             )
 
-        if self.llm_provider == "groq":
-            selected_model = GROQ_MODEL
-        elif self.llm_provider == "ollama" and not model:
-            selected_model = OLLAMA_MODEL
+
 
         return {
             "query": query,
