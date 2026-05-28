@@ -212,12 +212,22 @@ function renderMessages() {
   }
 }
 
+function renderMarkdown(text) {
+  if (typeof marked === "undefined") return text;
+  return marked.parse(text || "", { breaks: true, gfm: true });
+}
+
 function addMessage({ role, meta, text, extra }) {
   try {
     const node = messageTemplate.content.firstElementChild.cloneNode(true);
     node.classList.add(role);
     node.querySelector(".bubble-meta").textContent = meta || "";
-    node.querySelector(".bubble").textContent = text || "";
+    const bubbleEl = node.querySelector(".bubble");
+    if (role === "bot") {
+      bubbleEl.innerHTML = renderMarkdown(text || "");
+    } else {
+      bubbleEl.textContent = text || "";
+    }
     const extraNode = node.querySelector(".bubble-extra");
     if (extra) {
       extraNode.textContent = extra;

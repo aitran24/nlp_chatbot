@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import ast
 import os
 import re
 import time
@@ -52,18 +53,44 @@ except Exception:  # pragma: no cover
     GraphDatabase = None
 
 
-SYSTEM_PROMPT = """Ban la tro ly thong tin cua Truong Dai hoc Bach khoa, Dai hoc Da Nang (DUT).
-Chi tra loi dua tren ngu canh duoc cung cap.
-Neu thong tin khong du de ket luan, hay noi ro la chua tim thay du lieu du.
-Tra loi bang tieng Viet, ngan gon, chinh xac, co the neu nguon bang ann_id hoac tieu de khi phu hop."""
+SYSTEM_PROMPT = """Bạn là trợ lý thông tin của Trường Đại học Bách khoa, Đại học Đà Nẵng (DUT).
+Chỉ trả lời dựa trên ngữ cảnh được cung cấp.
+Nếu thông tin không đủ để kết luận, hãy nói rõ là chưa tìm thấy đủ dữ liệu.
+Trả lời bằng tiếng Việt, ngắn gọn, chính xác, có thể nêu nguồn bằng ann_id hoặc tiêu đề khi phù hợp."""
 
 ROOM_RE = re.compile(r"\b(?:phong|p\.?)\s*([a-z]{1,3}\d{0,3})\b", re.I)
 MSSV_RE = re.compile(r"\b(10\d{6,10})\b")
 DATE_RE = re.compile(r"\b(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})\b")
 ANN_RE = re.compile(r"\bANN_[0-9A-F]{10}\b", re.I)
-MONTH_YEAR_RE = re.compile(r"\b(?:thang|tháng)?\s*(\d{1,2})[/-](20\d{2})\b", re.I)
+# Matches cleaned file codes like F1_DS_dukienTN or F2_HCPHHNGLNTRANGSV
+FILE_CODE_RE = re.compile(r"\bF(\d+)_([A-Z0-9][A-Z0-9_]{3,})\b", re.I)
+MONTH_YEAR_RE = re.compile(r"\b(?:thang|tháng)?\s*(\d{1,2})[/-](20\d{2})(?![-/]\d{4})\b", re.I)
+# Strip "học kỳ N/" patterns before month detection (e.g. "HK2/2025", "học kỳ 2/2025")
+SEMESTER_STRIP_RE = re.compile(r"\b(?:hoc\s*ky|hk)\s*\d+\s*[/\-]", re.I)
 COHORT_RE = re.compile(r"\b(?:khoa|khóa|k)\s*[-_ ]?(20\d{2}|\d{2})\b", re.I)
 NAME_RE = re.compile(r"\b([A-ZĐ][a-zà-ỹ]+(?:\s+[A-ZĐ][a-zà-ỹ]+){1,4})\b")
+
+_VN_MAP = str.maketrans(
+    "đĐ",
+    "dD",
+)
+
+def vn_normalize(s: str) -> str:
+    """Strip Vietnamese diacritics and lowercase for comparison."""
+    if not s:
+        return ""
+    nfd = unicodedata.normalize("NFD", s)
+    stripped = "".join(c for c in nfd if unicodedata.category(c) != "Mn")
+    return stripped.translate(_VN_MAP).lower()
+
+
+def _clean_file_nguon(fn: str) -> str:
+    """Strip ANN_XXXXX_ prefix and .xlsx/.csv extension for human-readable display."""
+    cleaned = re.sub(r'^ANN_[0-9A-Fa-f]+_', '', fn)
+    cleaned = re.sub(r'\.(xlsx|csv|xls)$', '', cleaned, flags=re.I)
+    return cleaned
+
+
 STOP_NAME_PHRASES = {
     "Trường Đại Học",
     "Đại Học Đà",
@@ -74,6 +101,20 @@ STOP_NAME_PHRASES = {
     "Kỳ Thi",
     "Môn Công",
     "Môn Vật",
+    "Đà Nẵng",
+    "Bách Khoa",
+    "Học Kỳ",
+    "Học Phí",
+    "Học Phần",
+    "Học Bổng",
+    "Thông Báo",
+    "Danh Sách",
+    "Bảo Hiểm",
+    "Tốt Nghiệp",
+    "Sinh Viên",
+    "Khoa Học",
+    "Giáo Viên",
+    "Giảng Viên",
 }
 
 
@@ -90,6 +131,8 @@ class QueryEntities:
     month_text: str | None = None
     cohort: str | None = None
     subject: str | None = None
+    doc_type_hint: str | None = None  # Detected topic for Excel-based student lists
+    file_code: str | None = None  # Cleaned file_nguon code e.g. F2_HCPHHNGLNTRANGSV
     intents: list[str] = field(default_factory=list)
     raw_keywords: list[str] = field(default_factory=list)
 
@@ -148,7 +191,8 @@ class RagService:
             pass
 
     def normalize_text(self, text: str) -> str:
-        text = unicodedata.normalize("NFD", text.lower())
+        text = text.lower().replace("\u0111", "d")  # đ → d (không decompose trong NFD)
+        text = unicodedata.normalize("NFD", text)
         text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
         return re.sub(r"\s+", " ", text).strip()
 
@@ -158,24 +202,47 @@ class RagService:
         return raw
 
     def extract_student_name(self, query: str) -> str | None:
+        """Extract a Vietnamese person name using Unicode uppercase detection."""
+        # Check explicit pattern first: "Sinh viên X" / "SV X"
         explicit = re.search(
-            r"(?:Sinh viên|SV)\s+([A-ZĐ][a-zà-ỹ]+(?:\s+[A-ZĐ][a-zà-ỹ]+){1,5})",
+            r"(?:Sinh vi\u1ebdn|SV)\s+(.+?)(?=\s+(?:c\u00f3|\u0111\u01b0\u1ee3c|\u1edf|l\u00e0)|[?.,;]|$)",
             query,
         )
         if explicit:
-            name = explicit.group(1).strip()
-            if name not in STOP_NAME_PHRASES:
-                return name
+            candidate = explicit.group(1).strip().rstrip("?.,;")
+            if candidate and len(candidate.split()) >= 2:
+                return candidate
 
-        candidates = []
-        for match in NAME_RE.finditer(query):
-            name = match.group(1).strip()
-            if name in STOP_NAME_PHRASES:
-                continue
-            if len(name.split()) < 2:
-                continue
-            candidates.append(name)
-        return max(candidates, key=len) if candidates else None
+        def _is_name_word(w: str) -> bool:
+            """Title-cased word: first char Unicode uppercase, rest all Unicode lowercase."""
+            if len(w) < 2:
+                return False
+            return (
+                unicodedata.category(w[0]) == "Lu"
+                and all(unicodedata.category(c) == "Ll" for c in w[1:])
+            )
+
+        words = query.split()
+        candidates: list[list[str]] = []
+        current: list[str] = []
+        for raw_word in words:
+            word = raw_word.rstrip("?.,;:!\"'")
+            if _is_name_word(word):
+                current.append(word)
+            else:
+                if current:
+                    candidates.append(current[:])
+                current = []
+        if current:
+            candidates.append(current)
+
+        valid = []
+        for cand in candidates:
+            if 2 <= len(cand) <= 5:
+                name = " ".join(cand)
+                if not any(phrase in name for phrase in STOP_NAME_PHRASES):
+                    valid.append(name)
+        return max(valid, key=len) if valid else None
 
     def extract_subject(self, query: str, q_norm: str) -> str | None:
         patterns = [
@@ -211,13 +278,19 @@ class RagService:
         if date_match:
             entities.date_text = date_match.group(1)
 
-        month_match = MONTH_YEAR_RE.search(q_norm)
+        # Strip "học kỳ N/" before month detection to avoid false positives
+        q_for_month = SEMESTER_STRIP_RE.sub(" ", q_norm)
+        month_match = MONTH_YEAR_RE.search(q_for_month)
         if month_match:
             entities.month_text = f"{int(month_match.group(1))}/{month_match.group(2)}"
 
         ann_match = ANN_RE.search(query.upper())
         if ann_match:
             entities.ann_id = ann_match.group(0).upper()
+
+        file_code_match = FILE_CODE_RE.search(query)
+        if file_code_match:
+            entities.file_code = f"F{file_code_match.group(1)}_{file_code_match.group(2).upper()}"
 
         if "toeic" in q_norm:
             entities.exam_type = "TOEIC"
@@ -227,6 +300,25 @@ class RagService:
             entities.exam_type = "VSTEP"
         elif "gdqp" in q_norm or "quoc phong" in q_norm:
             entities.exam_type = "GDQP"
+
+        # Detect Excel student-list topic → doc_type_hint (only when no exam_type)
+        if not entities.exam_type:
+            if any(k in q_norm for k in ["do an tot nghiep", "datn", "khoa luan"]):
+                entities.doc_type_hint = "do_an_tot_nghiep"
+            elif any(k in q_norm for k in ["ky tuc xa", "ktx"]):
+                entities.doc_type_hint = "ky_tuc_xa"
+            elif "xet tot nghiep" in q_norm or "du kien tot nghiep" in q_norm:
+                entities.doc_type_hint = "xet_tot_nghiep"
+            elif "tot nghiep" in q_norm:
+                entities.doc_type_hint = "tot_nghiep"
+            elif "canh bao hoc vu" in q_norm or ("canh bao" in q_norm and "hoc vu" in q_norm):
+                entities.doc_type_hint = "canh_bao_hoc_vu"
+            elif "hoc phi" in q_norm or "hoan tra hoc phi" in q_norm:
+                entities.doc_type_hint = "hoc_phi"
+            elif "bhyt" in q_norm or "bao hiem y te" in q_norm:
+                entities.doc_type_hint = "bhyt"
+            elif "mien hoc" in q_norm and any(k in q_norm for k in ["tieng anh", "tieng phap", "ngoai ngu"]):
+                entities.doc_type_hint = "mien_hoc_ngoai_ngu"
 
         batch_match = re.search(r"\bdot\s*(\d+)\b", q_norm)
         if batch_match:
@@ -242,6 +334,8 @@ class RagService:
 
         if any(k in q_norm for k in ["co ai", "nhung ai", "danh sach", "bao nhieu nguoi", "tham gia"]):
             entities.intents.append("participant_lookup")
+        if any(k in q_norm for k in ["liet ke", "cho xem", "xem danh sach", "hien thi"]):
+            entities.intents.append("list_content")
         if any(k in q_norm for k in ["phong", "phong thi", "ca thi"]):
             entities.intents.append("room_lookup")
         if entities.mssv:
@@ -280,6 +374,15 @@ class RagService:
                 reason="Neo4j chưa bật nên chỉ dùng vector retrieval.",
             )
 
+        if entities.file_code:
+            return QueryPlan(
+                route="hybrid",
+                intents=entities.intents,
+                graph_mode="file_code",
+                vector_enabled=False,
+                reason=f"Có mã file danh sách '{entities.file_code}' nên tra graph trực tiếp.",
+            )
+
         if entities.ann_id:
             return QueryPlan(
                 route="hybrid",
@@ -298,6 +401,25 @@ class RagService:
                 reason="Có MSSV nên dùng graph trước, rồi vector lấy ngữ cảnh văn bản.",
             )
 
+        # Excel student-list queries → pure vector with doc_type filter (no graph)
+        # But if student_name is also set → hybrid so graph can search Record.raw_data
+        if entities.doc_type_hint and not entities.mssv:
+            if entities.student_name:
+                return QueryPlan(
+                    route="hybrid",
+                    intents=entities.intents,
+                    graph_mode="record_search",
+                    vector_enabled=True,
+                    reason=f"Có tên SV + topic '{entities.doc_type_hint}' → graph tìm trong Record, vector tìm chunk.",
+                )
+            return QueryPlan(
+                route="vector_only",
+                intents=entities.intents,
+                graph_mode=None,
+                vector_enabled=True,
+                reason=f"Danh sách Excel '{entities.doc_type_hint}' → vector search với doc_type filter.",
+            )
+
         if entities.student_name and any(
             intent in entities.intents for intent in ["student_name_lookup", "participant_lookup"]
         ):
@@ -309,7 +431,9 @@ class RagService:
                 reason="Có tên sinh viên nên tra graph theo ho_ten trước, rồi vector theo ann_id.",
             )
 
-        if any([entities.room, entities.subject, entities.cohort, entities.batch_no, entities.date_text, entities.exam_type, entities.month_text]) and (
+        # exam_search: only trigger when explicit exam/TOEIC signals are present
+        has_exam_signal = bool(entities.exam_type or entities.room or entities.date_text or entities.month_text)
+        if has_exam_signal and (
             any(
                 intent in entities.intents
                 for intent in ["participant_lookup", "room_lookup", "subject_lookup", "cohort_lookup", "batch_lookup"]
@@ -321,7 +445,7 @@ class RagService:
                 intents=entities.intents,
                 graph_mode="exam_search",
                 vector_enabled=True,
-                reason="Có thực thể cấu trúc (phòng/môn/khóa/đợt) nên graph lọc bản ghi thi trước.",
+                reason="Có thực thể thi (phòng/ngày/loại thi/tháng) nên graph lọc bản ghi thi trước.",
             )
 
         if "policy_lookup" in entities.intents:
@@ -344,10 +468,16 @@ class RagService:
     def graph_lookup(self, entities: QueryEntities, plan: QueryPlan) -> GraphHint | None:
         if self.neo4j_driver is None or plan.graph_mode is None:
             return None
+        if plan.graph_mode == "file_code" and entities.file_code:
+            return self.graph_lookup_by_file_code(entities)
+        if plan.graph_mode == "announcement_list" and entities.doc_type_hint:
+            return self.graph_lookup_announcement_list(entities)
         if plan.graph_mode == "student" and entities.mssv:
             return self.graph_lookup_student(entities.mssv)
         if plan.graph_mode == "student_name" and entities.student_name:
             return self.graph_lookup_student_name(entities)
+        if plan.graph_mode == "record_search" and entities.student_name:
+            return self.graph_lookup_record_by_name(entities)
         if plan.graph_mode == "exam_search":
             return self.graph_lookup_exam_entities(entities)
         if plan.graph_mode == "announcement" and entities.ann_id:
@@ -381,59 +511,249 @@ class RagService:
         """
         with self.neo4j_driver.session() as session:
             record = session.run(cypher, mssv=mssv).single()
-        if not record:
+        if record:
+            exams = [x for x in (record["exams"] or []) if x.get("ann_id")]
+            anns = [x for x in (record["announcements"] or []) if x.get("ann_id")]
+            ann_ids = sorted({x["ann_id"] for x in exams + anns if x.get("ann_id")})
+            return GraphHint(
+                mode="student",
+                ann_ids=ann_ids,
+                graph_records=exams + anns,
+                summary={"mssv": record["mssv"], "student_name": record.get("ho_ten")},
+            )
+        # Not in SinhVien table → search Record.raw_data (Excel-only students)
+        cypher_rec = """
+        MATCH (rec:Record)-[:THUOC_TB]->(ann:Announcement)
+        WHERE rec.raw_data IS NOT NULL AND rec.raw_data CONTAINS $mssv
+        RETURN ann.id AS ann_id,
+               coalesce(ann.title, ann.file_nguon, ann.id) AS title,
+               rec.raw_data AS raw_data
+        LIMIT 8
+        """
+        with self.neo4j_driver.session() as session:
+            rec_rows = list(session.run(cypher_rec, mssv=mssv))
+        if not rec_rows:
             return None
-        exams = [x for x in (record["exams"] or []) if x.get("ann_id")]
-        anns = [x for x in (record["announcements"] or []) if x.get("ann_id")]
-        ann_ids = sorted({x["ann_id"] for x in exams + anns if x.get("ann_id")})
+        records = []
+        ann_ids = []
+        for row in rec_rows:
+            ann_ids.append(row["ann_id"])
+            records.append({
+                "type": "record_match",
+                "ann_id": row["ann_id"],
+                "title": row["title"],
+                "hits": 1,
+            })
         return GraphHint(
-            mode="student",
-            ann_ids=ann_ids,
-            graph_records=exams + anns,
-            summary={"mssv": record["mssv"], "student_name": record.get("ho_ten")},
+            mode="record_search",
+            ann_ids=sorted(set(ann_ids)),
+            graph_records=records,
+            summary={"mssv": mssv, "matches": len(rec_rows)},
         )
 
     def graph_lookup_student_name(self, entities: QueryEntities) -> GraphHint | None:
         name = entities.student_name or ""
-        cypher = """
+        name_norm = vn_normalize(name)
+        # Primary: search SinhVien.ho_ten OR ho_ten_norm (diacritics-free) → get both TOEIC exams AND Excel announcements
+        cypher_sv = """
         MATCH (sv:SinhVien)
         WHERE toLower(coalesce(sv.ho_ten, '')) CONTAINS toLower($name)
-        OPTIONAL MATCH (sv)-[:THAM_GIA_THI]->(ki:KiThi)-[:THUOC_TB]->(ann:Announcement)
+           OR coalesce(sv.ho_ten_norm, '') CONTAINS $name_norm
+        OPTIONAL MATCH (sv)-[:THAM_GIA_THI]->(ki:KiThi)-[:THUOC_TB]->(ann1:Announcement)
+        WITH sv, collect(DISTINCT {
+            type: 'exam',
+            ann_id: ann1.id,
+            title: ann1.title,
+            loai_thi: ki.loai_thi,
+            ngay_thi: ki.ngay_thi,
+            gio_thi: ki.gio_thi,
+            phong_thi: ki.phong_thi
+        }) AS exams
+        OPTIONAL MATCH (sv)-[:CO_TRONG_TB]->(ann2:Announcement)
         RETURN sv.mssv AS mssv,
                sv.ho_ten AS ho_ten,
+               exams AS exams,
                collect(DISTINCT {
-                   type: 'exam',
-                   ann_id: ann.id,
-                   title: ann.title,
-                   loai_thi: ki.loai_thi,
-                   ngay_thi: ki.ngay_thi,
-                   gio_thi: ki.gio_thi,
-                   phong_thi: ki.phong_thi
-               })[0..20] AS exams
+                   type: 'announcement',
+                   ann_id: ann2.id,
+                   title: coalesce(ann2.title, ann2.file_nguon, ann2.id)
+               })[0..15] AS announcements
         LIMIT 10
         """
         with self.neo4j_driver.session() as session:
-            rows = list(session.run(cypher, name=name))
-        if not rows:
-            return None
+            rows = list(session.run(cypher_sv, name=name, name_norm=name_norm))
         records = []
         ann_ids = []
         for row in rows:
             exam_records = [x for x in (row["exams"] or []) if x.get("ann_id")]
-            ann_ids.extend(x["ann_id"] for x in exam_records)
-            records.append(
-                {
-                    "type": "student_name_match",
-                    "mssv": row["mssv"],
-                    "ho_ten": row["ho_ten"],
-                    "exams": exam_records,
-                }
-            )
+            ann_records = [x for x in (row["announcements"] or []) if x.get("ann_id")]
+            ann_ids.extend(x["ann_id"] for x in exam_records + ann_records)
+            records.append({
+                "type": "student_name_match",
+                "mssv": row["mssv"],
+                "ho_ten": row["ho_ten"],
+                "exams": exam_records,
+                "announcements": ann_records,
+            })
+        # Fallback: if no SinhVien found by name, search Record.ho_ten_norm directly
+        if not records:
+            name_norm = vn_normalize(name)
+            cypher_rec = """
+            MATCH (rec:Record)-[:THUOC_TB]->(ann:Announcement)
+            WHERE (rec.ho_ten_norm IS NOT NULL AND rec.ho_ten_norm CONTAINS $name_norm)
+               OR (rec.raw_data IS NOT NULL AND toLower(rec.raw_data) CONTAINS toLower($name))
+            WITH ann.id AS ann_id,
+                 coalesce(ann.title, ann.file_nguon, ann.id) AS title,
+                 rec.file_nguon AS file_nguon,
+                 collect(rec.raw_data)[0..2] AS samples
+            RETURN ann_id, title, file_nguon, samples
+            LIMIT 10
+            """
+            with self.neo4j_driver.session() as session:
+                rec_rows = list(session.run(cypher_rec, name=name, name_norm=name_norm))
+            for row in rec_rows:
+                ann_ids.append(row["ann_id"])
+                records.append({
+                    "type": "record_match",
+                    "ann_id": row["ann_id"],
+                    "title": row["title"],
+                    "file_nguon": row["file_nguon"] or "",
+                    "raw_samples": row["samples"],
+                })
+        if not records:
+            return None
         return GraphHint(
             mode="student_name",
             ann_ids=sorted(set(ann_ids)),
             graph_records=records,
             summary={"student_name": name, "matches": len(records)},
+        )
+
+    def graph_lookup_announcement_list(self, entities: QueryEntities) -> GraphHint | None:
+        """Fetch sample records for an announcement matching the doc_type keyword."""
+        doc_type = entities.doc_type_hint or ""
+        keyword_map = {
+            "bhyt": "BHYT",
+            "xet_tot_nghiep": "tot nghiep",
+            "tot_nghiep": "tot nghiep",
+            "do_an_tot_nghiep": "do an",
+            "ky_tuc_xa": "ky tuc xa",
+            "canh_bao_hoc_vu": "canh bao",
+            "hoc_phi": "hoc phi",
+            "mien_hoc_ngoai_ngu": "mien hoc",
+        }
+        keyword = keyword_map.get(doc_type, doc_type.replace("_", " "))
+        cypher = """
+        MATCH (rec:Record)-[:THUOC_TB]->(ann:Announcement)
+        WHERE toLower(coalesce(ann.title, '')) CONTAINS toLower($keyword)
+        WITH ann.id AS ann_id,
+             coalesce(ann.title, ann.id) AS title,
+             rec.file_nguon AS file_nguon,
+             collect(rec.raw_data)[0..25] AS samples,
+             count(rec) AS total
+        RETURN ann_id, title, file_nguon, samples, total
+        ORDER BY total DESC
+        LIMIT 3
+        """
+        with self.neo4j_driver.session() as session:
+            rows = list(session.run(cypher, keyword=keyword))
+        if not rows:
+            return None
+        records = []
+        ann_ids = []
+        for row in rows:
+            ann_ids.append(row["ann_id"])
+            records.append({
+                "type": "ann_list",
+                "ann_id": row["ann_id"],
+                "title": row["title"],
+                "file_nguon": row["file_nguon"] or "",
+                "raw_samples": row["samples"],
+                "total": row["total"],
+            })
+        return GraphHint(
+            mode="announcement_list",
+            ann_ids=sorted(set(ann_ids)),
+            graph_records=records,
+            summary={"doc_type": doc_type, "keyword": keyword, "matches": len(records)},
+        )
+
+    def graph_lookup_by_file_code(self, entities: QueryEntities) -> GraphHint | None:
+        """Look up records by cleaned file_nguon code (e.g. F2_HCPHHNGLNTRANGSV)."""
+        code = entities.file_code or ""
+        cypher = """
+        MATCH (rec:Record)-[:THUOC_TB]->(ann:Announcement)
+        WHERE rec.file_nguon CONTAINS $code
+        WITH ann.id AS ann_id,
+             coalesce(ann.title, ann.file_nguon, ann.id) AS title,
+             rec.file_nguon AS file_nguon,
+             collect(rec.raw_data)[0..10] AS samples,
+             count(rec) AS total
+        RETURN ann_id, title, file_nguon, samples, total
+        LIMIT 5
+        """
+        with self.neo4j_driver.session() as session:
+            rows = list(session.run(cypher, code=code))
+        if not rows:
+            return None
+        records = []
+        ann_ids = []
+        for row in rows:
+            ann_ids.append(row["ann_id"])
+            records.append({
+                "type": "file_code_match",
+                "ann_id": row["ann_id"],
+                "title": row["title"],
+                "file_nguon": row["file_nguon"] or "",
+                "raw_samples": row["samples"],
+                "total": row["total"],
+            })
+        return GraphHint(
+            mode="file_code",
+            ann_ids=sorted(set(ann_ids)),
+            graph_records=records,
+            summary={"file_code": code, "matches": len(records)},
+        )
+
+    def graph_lookup_record_by_name(self, entities: QueryEntities) -> GraphHint | None:
+        """Search Record.ho_ten_norm for student name within a specific doc_type context."""
+        name = entities.student_name or ""
+        name_norm = vn_normalize(name)
+        doc_type = entities.doc_type_hint or ""
+        cypher = """
+        MATCH (rec:Record)-[:THUOC_TB]->(ann:Announcement)
+        WHERE (rec.ho_ten_norm IS NOT NULL AND rec.ho_ten_norm CONTAINS $name_norm)
+           OR (rec.raw_data IS NOT NULL AND toLower(rec.raw_data) CONTAINS toLower($name))
+        WITH ann.id AS ann_id,
+             coalesce(ann.title, ann.file_nguon, ann.id) AS title,
+             rec.file_nguon AS file_nguon,
+             collect(rec.raw_data)[0..2] AS samples,
+             count(rec) AS hits
+        RETURN ann_id, title, file_nguon, samples, hits
+        ORDER BY hits DESC
+        LIMIT 10
+        """
+        with self.neo4j_driver.session() as session:
+            rows = list(session.run(cypher, name=name, name_norm=name_norm))
+        if not rows:
+            return None
+        records = []
+        ann_ids = []
+        for row in rows:
+            ann_ids.append(row["ann_id"])
+            records.append({
+                "type": "record_match",
+                "ann_id": row["ann_id"],
+                "title": row["title"],
+                "file_nguon": row["file_nguon"] or "",
+                "raw_samples": row["samples"],
+                "hits": row["hits"],
+            })
+        return GraphHint(
+            mode="record_search",
+            ann_ids=sorted(set(ann_ids)),
+            graph_records=records,
+            summary={"student_name": name, "doc_type": doc_type, "matches": len(records)},
         )
 
     def graph_lookup_exam_entities(self, entities: QueryEntities) -> GraphHint | None:
@@ -669,8 +989,9 @@ class RagService:
             "source":   "chatbot_documents",
         } for r in results2]
 
-        # ── RRF thay vì sort theo score thô ──
-        all_hits = self._reciprocal_rank_fusion([hits1, hits2], top_k=search_limit)
+        # ── RRF: khi có doc_type_hint → tăng trọng số dut_chunks để ưu tiên danh sách Excel ──
+        rrf_weights = [3.0, 0.5] if doc_type_hint else [1.0, 1.0]
+        all_hits = self._reciprocal_rank_fusion([hits1, hits2], top_k=search_limit, weights=rrf_weights)
 
         if use_reranker and all_hits:
             return self.rerank_hits(query=query, hits=all_hits, top_k=top_k)
@@ -711,6 +1032,34 @@ class RagService:
             hit["score"] = rrf_scores[key]   # ghi đè score bằng RRF score
             result.append(hit)
 
+        return result
+
+    def deduplicate_by_version(self, hits: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        """Khi có nhiều version của cùng một danh sách, chỉ giữ chunks từ version mới nhất.
+        
+        Ví dụ: nếu có chunks với title "(V1)", "(V2)", "(V3)" cùng base title
+        → chỉ giữ (V3).
+        """
+        VERSION_RE = re.compile(r"\s*\(V(\d+)\)\s*$", re.I)
+        versioned: dict[str, list] = {}
+        non_versioned: list[dict] = []
+
+        for hit in hits:
+            title = hit.get("title", "")
+            m = VERSION_RE.search(title)
+            if m:
+                base = VERSION_RE.sub("", title).strip()
+                key = f"{hit.get('doc_type', '')}::{base}"
+                versioned.setdefault(key, []).append((int(m.group(1)), hit))
+            else:
+                non_versioned.append(hit)
+
+        result = list(non_versioned)
+        for key, items in versioned.items():
+            max_v = max(v for v, _ in items)
+            result.extend(h for v, h in items if v == max_v)
+
+        result.sort(key=lambda h: h.get("score", 0), reverse=True)
         return result
 
         
@@ -887,6 +1236,9 @@ class RagService:
         )
         graph_hint = self.graph_lookup(entities, plan)
 
+        # Combine API-level doc_type_hint with entity-detected hint
+        effective_doc_type = doc_type_hint or entities.doc_type_hint
+
         vector_hits = []
         if plan.vector_enabled:
             vector_hits = self.retrieve_vector(
@@ -894,7 +1246,7 @@ class RagService:
                 top_k=top_k,
                 entities=entities,
                 ann_ids=graph_hint.ann_ids if graph_hint else None,
-                doc_type_hint=doc_type_hint,
+                doc_type_hint=effective_doc_type,
                 use_reranker=use_reranker,
             )
             if graph_hint and not vector_hits:
@@ -903,9 +1255,11 @@ class RagService:
                     top_k=top_k,
                     entities=entities,
                     ann_ids=None,
-                    doc_type_hint=doc_type_hint,
+                    doc_type_hint=effective_doc_type,
                     use_reranker=use_reranker,
                 )
+
+        vector_hits = self.deduplicate_by_version(vector_hits)
 
         return {
             "entities": entities,
@@ -946,12 +1300,35 @@ class RagService:
                     )
                 elif item["type"] == "student_name_match":
                     exam_lines = "; ".join(
-                        f"{x.get('ann_id', '')}:{x.get('loai_thi', '')}:{x.get('phong_thi', '')}"
+                        f"{x.get('title', x.get('ann_id', ''))}|{x.get('loai_thi', '')}|{x.get('ngay_thi', '')}|phong_{x.get('phong_thi', '')}"
                         for x in item.get("exams", [])[:8]
+                        if x.get("ann_id")
                     )
-                    graph_lines.append(
-                        f"Thong tin graph: mssv={item.get('mssv', '')}, ho_ten={item.get('ho_ten', '')}, exams={exam_lines}"
+                    ann_lines = "; ".join(
+                        x.get("title", x.get("ann_id", ""))
+                        for x in item.get("announcements", [])[:12]
+                        if x.get("ann_id")
                     )
+                    line = f"Thong tin graph: mssv={item.get('mssv', '')}, ho_ten={item.get('ho_ten', '')}"
+                    if exam_lines:
+                        line += f", ky_thi=[{exam_lines}]"
+                    if ann_lines:
+                        line += f", co_trong_danh_sach=[{ann_lines}]"
+                    graph_lines.append(line)
+                elif item["type"] == "record_match":
+                    fn = item.get('file_nguon', '')
+                    sub = _clean_file_nguon(fn) if fn else ''
+                    title_disp = item.get('title', item.get('ann_id', ''))
+                    if sub:
+                        graph_lines.append(
+                            f"Thong tin graph: sinh_vien_tim_thay_trong='{title_disp}'"
+                            f" (file={sub}, so_ket_qua={item.get('hits', '?')})"
+                        )
+                    else:
+                        graph_lines.append(
+                            f"Thong tin graph: sinh_vien_tim_thay_trong='{title_disp}'"
+                            f" (so_ket_qua={item.get('hits', '?')})"
+                        )
                 else:
                     graph_lines.append(
                         "Thong tin graph: "
@@ -1002,6 +1379,165 @@ class RagService:
             if lines:
                 return "Danh sách sinh viên tìm được từ dữ liệu graph:\n\n" + "\n\n".join(lines)
 
+        # MSSV lookup → student found in SinhVien table
+        if graph_hint.mode == "student" and graph_hint.graph_records:
+            mssv = graph_hint.summary.get("mssv", "")
+            ho_ten = graph_hint.summary.get("student_name") or ""
+            exams = [r for r in graph_hint.graph_records if r["type"] == "exam"]
+            anns = [r for r in graph_hint.graph_records if r["type"] == "announcement"]
+            name_display = f"**{ho_ten}** (MSSV: {mssv})" if ho_ten else f"MSSV **{mssv}**"
+            lines = [f"Sinh viên {name_display}"]
+            if exams:
+                exam_parts = [
+                    f"  - {x.get('title', '')} | {x.get('loai_thi', '')} | {x.get('ngay_thi', '')} | phòng {x.get('phong_thi', '')}"
+                    for x in exams if x.get("ann_id")
+                ]
+                lines.append("Kỳ thi:\n" + "\n".join(exam_parts))
+            if anns:
+                ann_parts = [
+                    f"  - {x.get('title', x.get('ann_id', ''))}"
+                    for x in anns if x.get("ann_id")
+                ]
+                lines.append("Có trong danh sách:\n" + "\n".join(ann_parts))
+            if not exams and not anns:
+                lines.append("Không tìm thấy dữ liệu kỳ thi hoặc danh sách liên quan.")
+            return "\n\n".join(lines)
+
+        # Student name found in SinhVien + announcements
+        if graph_hint.mode == "student_name" and graph_hint.graph_records:
+            sv_matches = [r for r in graph_hint.graph_records if r["type"] == "student_name_match"]
+            rec_matches = [r for r in graph_hint.graph_records if r["type"] == "record_match"]
+            if sv_matches:
+                lines = []
+                for r in sv_matches[:5]:
+                    name_str = r.get("ho_ten") or ""
+                    mssv = r.get("mssv") or ""
+                    name_display = f"**{name_str}** (MSSV: {mssv})" if name_str else f"MSSV: **{mssv}**"
+                    exams = r.get("exams") or []
+                    anns = r.get("announcements") or []
+                    line = name_display
+                    if exams:
+                        exam_parts = [
+                            f"{x.get('title', '')} | {x.get('loai_thi', '')} | {x.get('ngay_thi', '')} | phòng {x.get('phong_thi', '')}"
+                            for x in exams[:5] if x.get("ann_id")
+                        ]
+                        line += f"\n  Kỳ thi: " + "; ".join(exam_parts)
+                    if anns:
+                        ann_parts = [x.get("title", x.get("ann_id", "")) for x in anns[:10] if x.get("ann_id")]
+                        line += f"\n  Có trong danh sách: " + "; ".join(ann_parts)
+                    if not exams and not anns:
+                        line += " (không có dữ liệu kỳ thi hoặc danh sách)"
+                    lines.append(line)
+                return "Kết quả tìm kiếm sinh viên từ graph:\n\n" + "\n\n".join(lines)
+            if rec_matches:
+                name = graph_hint.summary.get("student_name", "")
+                lines = []
+                for r in rec_matches[:10]:
+                    title = r.get("title", r.get("ann_id", ""))
+                    fn = r.get("file_nguon", "")
+                    sub = _clean_file_nguon(fn) if fn else ""
+                    key_info = []
+                    for sample in (r.get("raw_samples") or [])[:1]:
+                        try:
+                            d = ast.literal_eval(sample)
+                            for fld in ("Xếp loại", "Điểm tốt nghiệp", "Điểm ĐA", "Điểm T10", "Ngành", "Lớp SH", "Lớp"):
+                                if d.get(fld):
+                                    key_info.append(f"{fld}: {d[fld]}")
+                        except Exception:
+                            pass
+                    info_str = " | ".join(key_info[:4]) if key_info else ""
+                    line = f"- {title} → **{sub}**" if sub else f"- {title}"
+                    if info_str:
+                        line += f"\n  ({info_str})"
+                    lines.append(line)
+                return (
+                    f"Sinh viên **{name}** được tìm thấy trong {len(rec_matches)} danh sách:\n"
+                    + "\n".join(lines)
+                )
+
+        # Student name found only in Record.raw_data (Excel lists, no SinhVien node)
+        if graph_hint.mode == "record_search" and graph_hint.graph_records:
+            name = graph_hint.summary.get("student_name", "")
+            lines = []
+            for r in graph_hint.graph_records[:10]:
+                title = r.get("title", r.get("ann_id", ""))
+                fn = r.get("file_nguon", "")
+                sub = _clean_file_nguon(fn) if fn else ""
+                key_info = []
+                for sample in (r.get("raw_samples") or [])[:1]:
+                    try:
+                        d = ast.literal_eval(sample)
+                        for fld in ("Xếp loại", "Điểm tốt nghiệp", "Điểm ĐA", "Điểm T10", "Ngành", "Lớp SH", "Lớp"):
+                            if d.get(fld):
+                                key_info.append(f"{fld}: {d[fld]}")
+                    except Exception:
+                        pass
+                info_str = " | ".join(key_info[:4]) if key_info else ""
+                line = f"- {title} → **{sub}**" if sub else f"- {title}"
+                if info_str:
+                    line += f"\n  ({info_str})"
+                lines.append(line)
+            return (
+                f"Sinh viên **{name}** được tìm thấy trong {len(graph_hint.graph_records)} danh sách:\n"
+                + "\n".join(lines)
+            )
+
+        # File code lookup
+        if graph_hint.mode == "file_code" and graph_hint.graph_records:
+            code = graph_hint.summary.get("file_code", "")
+            lines = []
+            for r in graph_hint.graph_records:
+                title = r.get("title", r.get("ann_id", ""))
+                fn = r.get("file_nguon", "")
+                sub = _clean_file_nguon(fn) if fn else code
+                total = r.get("total", 0)
+                lines.append(f"**{sub}** (thuộc: {title}, tổng {total} bản ghi)")
+                for sample in (r.get("raw_samples") or [])[:5]:
+                    try:
+                        d = ast.literal_eval(sample)
+                        # Show a compact row with the first few meaningful fields
+                        row_parts = []
+                        for fld in ("STT", "Mã SV", "Số thẻ", "Họ và Tên", "Họ và tên",
+                                    "Lớp", "Lớp SH", "Ngành", "Xếp loại", "Điểm tốt nghiệp", "Điểm ĐA"):
+                            if d.get(fld):
+                                row_parts.append(f"{fld}: {d[fld]}")
+                            if len(row_parts) >= 5:
+                                break
+                        if row_parts:
+                            lines.append("  - " + " | ".join(row_parts))
+                    except Exception:
+                        pass
+            return (
+                f"Danh sách **{code}** từ graph:\n" + "\n".join(lines)
+            )
+
+        # Announcement list content (liệt kê danh sách by doc_type)
+        if graph_hint.mode == "announcement_list" and graph_hint.graph_records:
+            sections = []
+            for r in graph_hint.graph_records:
+                title = r.get("title", r.get("ann_id", ""))
+                fn = r.get("file_nguon", "")
+                sub = _clean_file_nguon(fn) if fn else ""
+                total = r.get("total", 0)
+                header = f"**{title}**" + (f" ({sub})" if sub else "") + f" — {total} bản ghi, hiển 25 mẫu:"
+                rows = []
+                for sample in (r.get("raw_samples") or []):
+                    try:
+                        d = ast.literal_eval(sample)
+                        parts = []
+                        for fld in ("STT", "Mã SV", "Số thẻ", "Họ và Tên", "Họ và tên",
+                                    "Lớp", "Lớp SH", "Ngành", "Xếp loại", "Điểm tốt nghiệp"):
+                            if d.get(fld):
+                                parts.append(f"{fld}: {d[fld]}")
+                            if len(parts) >= 5:
+                                break
+                        if parts:
+                            rows.append("- " + " | ".join(parts))
+                    except Exception:
+                        pass
+                sections.append(header + "\n" + "\n".join(rows))
+            return "\n\n".join(sections)
+
         return None
 
     def answer(
@@ -1025,9 +1561,13 @@ class RagService:
         context = self.build_context(retrieval=retrieval)
         
         if self.llm_provider == "groq":
-            selected_model = GROQ_MODEL
-        elif self.llm_provider == "ollama" and not model:
-            selected_model = OLLAMA_MODEL
+            selected_model = model if (model and ":" not in model) else GROQ_MODEL
+        elif self.llm_provider == "ollama":
+            # Ollama model names always contain ':', e.g. "llama3.1:8b"
+            # If a Groq-style name (no ':') is passed, ignore and use default
+            selected_model = model if (model and ":" in model) else OLLAMA_MODEL
+        else:
+            selected_model = model or OLLAMA_MODEL
 
         if self.llm_provider == "groq" and isinstance(selected_model, str) and ":" in selected_model:
             print(f"Ignoring incompatible model '{selected_model}' for Groq provider; using {GROQ_MODEL} instead")

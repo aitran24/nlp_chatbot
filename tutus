@@ -1,0 +1,55 @@
+[33mcommit 5b13adf3d2010dbc485178c0b582781df238a43f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nga <voquynhnga75@gmail.com>
+Date:   Wed May 27 20:27:04 2026 +0700
+
+    modify rag_service
+
+[33mcommit 45c3d259ba1c832890a70c3b6647e1170e945c37[m
+Author: Nga <voquynhnga75@gmail.com>
+Date:   Tue May 26 12:04:07 2026 +0700
+
+    add README
+
+[33mcommit 6a68b8765b0da4b73230675ede22c98f4723f084[m
+Author: Nga <voquynhnga75@gmail.com>
+Date:   Tue May 5 15:33:27 2026 +0700
+
+    finish v1
+    
+    Co-authored-by: Copilot <copilot@github.com>
+
+[33mcommit f5f97e7bb5ebe4814cbccfbed78cdbd48a3b8267[m
+Author: Nga <voquynhnga75@gmail.com>
+Date:   Mon May 4 13:28:21 2026 +0700
+
+    Update code, remove large files and .venv
+
+[33mcommit 06321838fc1d565446c0b8aff08cd41fee7d5469[m
+Author: nga <voquynhnga75@gmail.com>
+Date:   Sun May 3 03:07:22 2026 +0000
+
+    git commit -m "Update code, chunks and ignore large DB/vector files"
+
+[33mcommit 457e206f2232ac8ab0cf274b11349f568f858204[m
+Author: nga <voquynhnga75@gmail.com>
+Date:   Sat May 2 04:43:30 2026 +0000
+
+    cleaned data1
+
+[33mcommit bdbfb63dbeb78ead23b7174f0fe24f6880040731[m
+Author: nga <voquynhnga75@gmail.com>
+Date:   Wed Mar 25 11:02:48 2026 +0000
+
+    complete chunking cut
+
+[33mcommit c9a2838ce98fdaf9328ae58eba7fa271f9f81867[m
+Author: Nga <voquynhnga75@gmail.com>
+Date:   Wed Mar 25 01:57:45 2026 +0700
+
+    preprocessing data
+
+[33mcommit 465890bf34729fcee9e4eaeacad488577803cd8e[m
+Author: Nga <voquynhnga75@gmail.com>
+Date:   Tue Mar 24 16:36:25 2026 +0700
+
+    init

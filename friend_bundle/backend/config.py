@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 # Tải biến từ file .env
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
+load_dotenv(ROOT_DIR / ".env")
 WORKSPACE_ROOT = ROOT_DIR.parent  # Thư mục nlp_chatbot (parent của friend_bundle)
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
