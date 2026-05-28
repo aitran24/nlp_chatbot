@@ -4,7 +4,6 @@ const HISTORY_KEY = "dut_chat_history_v1";
 const chatMessages = document.getElementById("chatMessages");
 const historyList = document.getElementById("historyList");
 const modelSelect = document.getElementById("modelSelect");
-const topKSelect = document.getElementById("topKSelect");
 const queryInput = document.getElementById("queryInput");
 const chatForm = document.getElementById("chatForm");
 const newConvBtn = document.getElementById("newConvBtn");
@@ -300,7 +299,7 @@ async function sendQuery(path) {
   currentAbortController = new AbortController();
 
   const model = modelSelect.value;
-  const top_k = Number(topKSelect.value);
+  const top_k = 5;
   const userMessage = { role: "user", meta: ``, text: query };
   appendToSession(userMessage);
   renderMessages();
